@@ -1,0 +1,3636 @@
+{
+  "_source": "Yahoo Finance RSS + groq:llama-3.1-8b-instant",
+  "_asof": "2026-05-12T17:08:59Z",
+  "_universe": "venture (.V / .CN)",
+  "_count": 181,
+  "_catalyst_types": [
+    "drill_or_assay_result",
+    "drug_trial_or_regulatory",
+    "contract_or_customer_win",
+    "financing_or_dilution",
+    "going_concern_or_distress",
+    "short_report_or_fraud_alert",
+    "merger_or_acquisition",
+    "management_change",
+    "earnings_or_guidance",
+    "operational_update",
+    "analyst_or_rating_change",
+    "macro_or_commodity",
+    "none"
+  ],
+  "_note": "OVERLAY ONLY \u2014 do not wire into analysis_engine score until universe survivorship fix + backtest. Use for the Discover 'Fresh Catalyst' tab + a signal-card badge.",
+  "catalysts": [
+    {
+      "symbol": "ABI.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "TSX Growth Stocks With High Insider Ownership To Watch",
+        "TSX Growth Companies With High Insider Ownership Expecting 78% Revenue Growth",
+        "Abcourt Mines Inc. (CVE:ABI) Is Expected To Breakeven In The Near Future",
+        "Edison Issues Report on Abcourt Mines (ABI)",
+        "Abcourt Appoints a New Director and Grants Stock Options",
+        "Abcourt intersects 1.7 g/t gold over 12 metres including 15.2 g/t gold over 1 metre in drilling on its Flordin property, in the eastern extension of the Cartwright stripping"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "drill_or_assay_result",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Abcourt intersects 1.7 g/t gold over 12 metres"
+    },
+    {
+      "symbol": "BBB.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Brixton Metals reports high-grade Silver at Langis project, starts Atlin Drilling",
+        "Brixton Metals Drills 13.0m of 594 g/t Silver Including 0.5m of 7,900 g/t Silver at its Langis Project",
+        "Brixton Metals Announces Start of Drilling at its Atlin Goldfields Project",
+        "Brixton Metals Announces Option Grants",
+        "Brixton Metals Closes C$4 Million Private Placement Offering",
+        "Brixton Metals Announces Closing of Non-Brokered Private Placement for Gross Proceeds of $4 Million"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "drill_or_assay_result",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Brixton Metals Drills 13.0m of 594 g/t Silver Including 0.5m of 7,900 g/t Silver"
+    },
+    {
+      "symbol": "AAG.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Aftermath Silver reports strong drill results from Berenguela project - ICYMI",
+        "Aftermath Silver Up Near 10% as Reports Silver and Copper Intercepts From Berenguela Deposit",
+        "Aftermath Silver reports high-grade assay results from Berenguela drilling in Peru",
+        "Aftermath Silver Drilling At Berenguela Returns Multiple High Grade Copper and Silver Intercepts Including 48.5m @ 438g/t Ag + 2.22% Cu",
+        "Aftermath Silver Announces Investor Relations Agreements, Awards Stock Options",
+        "Dow Jones leads Wall Street lower at the close, US-Iran fears drive oil higher"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "drill_or_assay_result",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Aftermath Silver Drilling At Berenguela Returns Multiple High Grade Copper and Silver Intercepts"
+    },
+    {
+      "symbol": "CTH.V",
+      "sector": "Financials",
+      "headline_count": 6,
+      "headlines": [
+        "CoTec, Copper Intelligence to form copper tailings JV",
+        "CoTec to Form an Early Stage Exploration Joint Venture with U.S. Company Copper Intelligence to Target Processing Historical Copper Tailings Opportunities in the Democratic Republic of Congo",
+        "COPPER INTELLIGENCE TO FORM AN EARLY-STAGE EXPLORATION JOINT VENTURE WITH COTEC TO TARGET PROCESSING HISTORICAL COPPER TAILINGS OPPORTUNITIES IN THE DEMOCRATIC REPUBLIC OF CONGO",
+        "CoTec Holdings Corp. Upgrades to OTCQX(R) Best Market",
+        "OTC Markets Group Welcomes CoTec Holdings Corp. to OTCQX",
+        "CFO & Corporate Secretary of CoTec Holdings Picks Up 1.4% More Stock"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "contract_or_customer_win",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Copper tailings JV with Copper Intelligence"
+    },
+    {
+      "symbol": "AUMB.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "1911 Gold reports high-grade drill results at True North project in Manitoba",
+        "1911 Gold Confirms Extensions of the L10 Zone at True North Intersecting 11.54 g/t Gold over 3.70 m",
+        "/C O R R E C T I O N -- 1911 Gold Corporation/",
+        "1911 Gold announces CFO transition ahead of planned 2027 production restart at True North",
+        "1911 Gold Strengthens Management Team with Appointment of Max Satel as Chief Financial Officer",
+        "1911 Gold unlocks key underground access level \u2013 ICYMI"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "drill_or_assay_result",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "High-grade drill results at True North project"
+    },
+    {
+      "symbol": "ELBM.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Government of Canada announces major investment with Electra Battery Materials to expand its refinery in Temiskaming Shores, Ontario",
+        "Electra Signs Definitive $20 Million Investment Agreement with Government of Canada to Advance Strategic Refinery",
+        "Electra Awards $7.8 Million in Construction Contracts for Refinery Infrastructure",
+        "Electra Restarts Construction and Reports 2025 Financial Results",
+        "Electra Edges Lower, Near 52-Week Lows After Construction Update on North America's Only Cobalt Sulfate Refinery",
+        "Electra Provides Construction Progress Update on North America\u2019s Only Cobalt Sulfate Refinery"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "contract_or_customer_win",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Government of Canada announces major investment with Electra Battery Materials"
+    },
+    {
+      "symbol": "FDR.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Founders Metals Announces Results of Annual General Meeting",
+        "Founders Metals Hits 12.95 g/t Gold over 6.0 m Confirming High-Grade Gold Potential at Lower Antino",
+        "Founders Metals Completes Two-Year Environmental Baseline Assessment at Antino",
+        "Founders Metals Announces Increased Strategic Investment by Gold Fields",
+        "Founders Metals Makes First Discovery at Antino North; Drills 17.22 g/t Au over 3.6 m within 24.6 m of 2.81 g/t Au",
+        "Founders Metals Added to GDXJ Index; Commences Drilling at Antino North"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "operational_update",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Founders Metals Hits 12.95 g/t Gold over 6.0 m Confirming High-Grade Gold Potential at Lower Antino"
+    },
+    {
+      "symbol": "AXL.V",
+      "sector": "Energy",
+      "headline_count": 6,
+      "headlines": [
+        "Arrow Announces Appraisal Well M-12 Results",
+        "MedPal AI, Futura Medical, Solvonis Therapeutics, Ecora Royalties, Arrow Exploration, London BTC",
+        "Arrow Announces 2025 Audited Year End and Q4 2025 Results, Filing of Audited Financial Statements, MD&A and Reserves Report",
+        "1911 Gold announces CFO transition ahead of planned 2027 production restart at True North",
+        "Arrow Exploration, Quantum Blockchain Technologies, S&U, Topps Tiles - Small Cap Snapshot",
+        "CORRECTION FROM SOURCE: Arrow Announces Appraisal Wells M-11 Results"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "drill_or_assay_result",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Arrow Announces Appraisal Well M-12 Results"
+    },
+    {
+      "symbol": "ATMY.CN",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Antimony Resources Corp. (ATMY) (ATMYF) (K8J0) Announces Assay Drill Results up to 13.9% Antimony (Sb) in Stibnite Bearing Core",
+        "More Progress Reported by Antimony Resources of the Bald Hill Property Under Option from Globex",
+        "Antimony Resources Corp. (ATMY) (ATMYF) (K8J0) Is Pleased to Announce the Next Phase of Exploration at the Bald Hill Antimony Deposit in New Brunswick, Canada",
+        "Antimony Resources Corp. (ATMY) (ATMYF) (K8J0) Reports High-Grade Results from Recent Soil Sampling Program on Claims to the South of the Main Bald Hill Antimony Deposit",
+        "Another High-Grade Antimony Intersection",
+        "Antimony Resources Intersects High-Grade Antimony-Bearing Stibnite Mineralization; Shares Down 6.6%"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "drill_or_assay_result",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Antimony Resources Corp. (ATMY) (ATMYF) (K8J0) Announces Assay Drill Results up to 13.9% Antimony (Sb) in Stibnite Bearing Core"
+    },
+    {
+      "symbol": "APGO.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Apollo Reports High-Grade Silver, Gold and Barite Results at Calico",
+        "We Think Apollo Silver (CVE:APGO) Can Afford To Drive Business Growth",
+        "Apollo Reports Results of Annual General Meeting and Appointment of New Executive Chair and Lead Director",
+        "Apollo Silver Initiating PEA on Calico Project",
+        "Apollo Silver Initiates Preliminary Economic Assessment for the Calico Project",
+        "Apollo Silver Eyes PEA as Silver Market Strengthens"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "operational_update",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Apollo Reports High-Grade Silver, Gold and Barite Results at Calico"
+    },
+    {
+      "symbol": "ANDC.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Andina Copper Reports Step-Out Porphyry Cu-Mo Results",
+        "Andina Copper Reports High-Grade Porphyry Mineralization",
+        "Andina Copper Extension Drilling Intersects Wide Interval of Mineralization",
+        "Andina Copper Intersects Wide Cu-Au-Ag Mineralization at Piuquenes East",
+        "Andina Copper Reports Outstanding Drill Intercepts From the Second Hole of Its Maiden Diamond Drilling Program",
+        "Andina Copper Corporation (ANDC) Opens the Market"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "drill_or_assay_result",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Multiple high-grade drill intercepts"
+    },
+    {
+      "symbol": "BRC.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "CEO pays BCSC $25,000 for late insider reports",
+        "Blackrock Silver Announces Grant of Deferred Share Units",
+        "Blackrock Silver Announces Updated Preliminary Economic Assessment for Its Tonopah West Project in Nevada; +10 Year Mine Life Fortified by 90% Increase in Indicated Mineral Resources",
+        "How Tonopah West Permits and Drilling Progress At Blackrock Silver (TSXV:BRC) Has Changed Its Investment Story",
+        "Blackrock Silver\u2019s Tonopah\u202fWest project secures Class II air quality permit",
+        "Blackrock Silver Announces the Appointment of Bernard Poznanski and Susan Mathieu to the Board of Directors"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "operational_update",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 60,
+      "confidence": 0.9,
+      "rationale": "Updated preliminary economic assessment and permitting progress"
+    },
+    {
+      "symbol": "AE.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "American Eagle Gold Launches Largest-Ever Drill Program at NAK with More Than 50,000 Metres Planned",
+        "American Eagle Gold Thanks Lake Babine Nation for Providing Public Support of Proposed Acquisition of Pacific Booker Minerals",
+        "American Eagle Gold Responds to Pacific Booker Circular and Reaffirms Offer As The Best Path for Shareholders",
+        "American Eagle Gold Commences Unsolicited Offer for Pacific Booker Minerals",
+        "American Eagle Announces Closing of $10.9 Million Investment backed by Teck and South32",
+        "American Eagle to Materially Increase 2026 Drill Program, Including Year-Round Drilling"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "merger_or_acquisition",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 90,
+      "confidence": 0.9,
+      "rationale": "Unsolicited offer for Pacific Booker Minerals"
+    },
+    {
+      "symbol": "EQTY.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Equity Metals Exhibiting at the 2026 PDAC",
+        "Equity Metals Provides Corporate Update",
+        "Equity Metals Announces Crews and Drill Mobilized to Commence Winter '26 Program on the Silver Queen Ag-Au Property, British Columbia; Arlington Property Drill Results Evaluated",
+        "Equity Metals Closes Non-Brokered Charity/Premium Flow-Through Private Placement",
+        "Equity Metals Extends the No 3 Vein to Depth at the Silver Queen Property, BC",
+        "Equity Metals Corporation to Attend 121 Mining Investment Conference in London"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "operational_update",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Crews and drill mobilized to commence winter '26 program"
+    },
+    {
+      "symbol": "CVW.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "CVW Sustainable Royalties Announces Full Year 2025 Results",
+        "CVW Sustainable Royalties Announces Closing of $50 Million Fairfax Strategic Investment",
+        "CVW Sustainable Royalties Announces Results of Special Meeting of Shareholders",
+        "CVW Sustainable Royalties Announces Closing of Upsized Private Placement Totalling $50 Million",
+        "TSX Penny Stocks To Watch In February 2026",
+        "CVW Sustainable Royalties Raising C$100M from Fairfax Investment, Upsized Private Placement; Shares Rose More Than 10% Monday"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "financing_or_dilution",
+      "direction": "bearish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Upsized private placement totalling $50 million"
+    },
+    {
+      "symbol": "ETL.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "E3 Lithium's Top Priority Remains \"Accelerated Development\" of Its Clearwater Project",
+        "E3 Lithium Provides an Update on its Strategic Growth and Direction for Long-Term Value Creation",
+        "E3 Lithium to Begin Phase Two Operations of Demonstration Facility for Clearwater Project",
+        "E3 Lithium Set to Begin Operations for Phase 2 of the Demonstration Facility",
+        "E3 Lithium Files 2025 Year-End Financial Results and Disclosure Documents",
+        "E3 Lithium Signs Teaming Agreement with Germany\u2019s TKMS to Support Critical Minerals Supply"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "operational_update",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Phase two operations of demonstration facility"
+    },
+    {
+      "symbol": "DPRO.CN",
+      "sector": "Technology",
+      "headline_count": 6,
+      "headlines": [
+        "Draganfly Inc (DPRO) Q1 2026 Earnings Call Highlights: Revenue Surge and Strategic Partnerships ...",
+        "A Look At Draganfly (CNSX:DPRO) Valuation After New Defense Orders And Canadian ACSL Partnership",
+        "Draganfly Inc. (DPRO) Reports Q1 Loss, Lags Revenue Estimates",
+        "Draganfly Announces Record First Quarter Results of 2026",
+        "Should New U.S. Defense FPV Wins And ACSL Deal Require Action From Draganfly (CNSX:DPRO) Investors?",
+        "Draganfly to Host Shareholder Update Call on May 11, 2026"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "earnings_or_guidance",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Record first quarter results of 2026"
+    },
+    {
+      "symbol": "DV.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Why Contango Ore (CTGO) Is Expanding Beyond Alaska With Its Dolly Varden Deal",
+        "Contango Completes Merger with Dolly Varden",
+        "BTV Spotlights: Picard Medical, Contango, GMG, 5E Advanced, Klondike Gold, Nevada Organic, Nine Mile, FireFox, & Intrepid Metals",
+        "Dolly Varden Provides Update on Exchangeable Share Election Process",
+        "Dolly Varden Receives Shareholder Approval for Merger with Contango Ore",
+        "INDEPENDENT PROXY ADVISORY FIRMS RECOMMEND CONTANGO ORE, INC. STOCKHOLDERS VOTE \"FOR\" PROPOSED ARRANGEMENT WITH DOLLY VARDEN SILVER CORPORATION"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "merger_or_acquisition",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 60,
+      "confidence": 0.9,
+      "rationale": "Merger with Contango Ore"
+    },
+    {
+      "symbol": "ARK.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "ARRAS MINERALS MOBILIZES TWO ADDITIONAL DRILLS TO THE ELEMES PROJECT FOR TOP-OF-BEDROCK (KGK) PROGRAM IN KAZAKHSTAN AND FILES NI 43-101 TECHNICAL REPORT ON THE ELEMES PROJECT",
+        "ARRAS MINERALS ANNOUNCES VOTING RESULTS OF ANNUAL AND SPECIAL MEETING OF SHAREHOLDERS",
+        "Arras Minerals Up 2.4% As Confirms Third Porphyry Center at Berezski East Trend in Kazakhstan",
+        "ARRAS MINERALS CONFIRMS THIRD PORPHYRY CENTER - DRILLS 115.7 METERS GRADING 1.44 G/T AU & 0.24% CU AT THE BEREZSKI EAST TARGET (ELEMES PROJECT) IN KAZAKHSTAN",
+        "ARRAS MINERALS ANNOUNCES MOBILIZATION OF 3rd and 4th DIAMOND DRILL RIGS TO ELEMES PROJECT IN KAZAKHSTAN",
+        "Highway 50 Gold Corporate Update"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "drill_or_assay_result",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Confirms third porphyry center at Berezski East Trend in Kazakhstan"
+    },
+    {
+      "symbol": "ALDE.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Aldebaran Resources And 2 Other TSX Penny Stocks To Watch",
+        "Aldebaran and Centauri File Mineral Resource Update on the Rio Grande Gold-Copper Project on SEDAR+",
+        "Aldebaran Reports 936 m of 0.66% CuEq (0.62% Cu, 0.09 g/t Au and 1.16 g/t Ag), including 194 m of 0.99% CuEq (0.92% Cu, 0.19 g/t Au and 1.02 g/t Ag) at the Altar Copper-Gold Project in San Juan Argentina",
+        "Aldebaran Adopts Shareholder Rights Plan",
+        "Aldebaran, Centauri Reported Updated Resource Estimate for Rio Grande Project in Argentina",
+        "Aldebaran and Centauri Announce Significant Increase in Mineral Resources for the Rio Grande Gold-Copper Project in Salta, Argentina"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "drill_or_assay_result",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Reports 936 m of 0.66% CuEq at the Altar Copper-Gold Project"
+    },
+    {
+      "symbol": "CAPT.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Capitan Silver Intersects 935 g/t Silver Equivalent over 1.3 Metres, Within a Wider Zone of 157 g/t Silver Equivalent over 20.0 Metres at the Cruz De Plata Project",
+        "Capitan Silver Receives Final Results from Airborne Geophysics Program for the Cruz De Plata Project",
+        "Capitan Silver Announces Annual General and Special Meeting and Adoption of Omnibus Equity Incentive Plan and Shareholder Rights Plan",
+        "Capitan Silver Intersects 1,450.5 g/t Silver Equivalent over 1.5 Metres, Within a Wider Zone of 211.0 g/t Silver Equivalent over 41.1 Metres at the Cruz De Plata Project",
+        "Capitan Silver Begins Trading on the OTCQX Market Under Symbol \"CAPTF\"",
+        "Capitan Silver Commences Trading on the OTCQX Market Under Symbol \"CAPTF\""
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "drill_or_assay_result",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Intersects 935 g/t Silver Equivalent over 1.3 Metres at the Cruz De Plata Project"
+    },
+    {
+      "symbol": "LGN.V",
+      "sector": "Energy",
+      "headline_count": 6,
+      "headlines": [
+        "TSX Growth Companies With High Insider Ownership Expecting 78% Revenue Growth",
+        "Global Undervalued Small Caps With Insider Action In April 2026",
+        "LOGAN ENERGY CORP. ANNOUNCES CLOSING OF PREVIOUSLY ANNOUNCED STRATEGIC MONTNEY ASSET ACQUISITION, EXPANDED CREDIT FACILITIES AND UPSIZED EQUITY FINANCINGS",
+        "LOGAN ENERGY CORP. ANNOUNCES FILING OF SHORT FORM PROSPECTUS",
+        "Logan Energy Upsizes Previously Announced Equity Offerings to $65 Million",
+        "LOGAN ENERGY CORP. UPSIZES PREVIOUSLY ANNOUNCED EQUITY OFFERINGS TO $65 MILLION"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "contract_or_customer_win",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Upsized equity financings to $65M"
+    },
+    {
+      "symbol": "GSI.V",
+      "sector": "Industrials",
+      "headline_count": 6,
+      "headlines": [
+        "Gatekeeper Reports $10.4M Revenue 75% Growth in Record Breaking Fiscal Q2 2026",
+        "Gatekeeper Announces C$1.7M School Bus Video and Subscriptions Contract with Atlanta Public Schools",
+        "We're Hopeful That Gatekeeper Systems (CVE:GSI) Will Use Its Cash Wisely",
+        "Gatekeeper Reports $6M Revenue in Fiscal Q1 2026",
+        "Gatekeeper Commences $27M LIRR Project, Provides Anticipated Revenue Schedule",
+        "Gatekeeper Announces $741,000 School Bus Video and Subscriptions Contract in Florida"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "contract_or_customer_win",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "C$1.7M school bus video and subscriptions contract with Atlanta Public Schools"
+    },
+    {
+      "symbol": "FO.V",
+      "sector": "Energy",
+      "headline_count": 6,
+      "headlines": [
+        "Falcon Oil & Gas Ltd. - Full Year Results",
+        "Falcon Oil & Gas Ltd. - Stellar IP20 Flow Test Result in the Beetaloo",
+        "Tamboran wins court approval for Falcon acquisition, flags amendments and timing update",
+        "Falcon Oil & Gas Ltd. - Falcon Provides Update on Transaction with Tamboran",
+        "Falcon Oil & Gas Ltd. - Further Update on Transaction with Tamboran",
+        "Falcon Provides Update on Transaction with Tamboran"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "merger_or_acquisition",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Tamboran wins court approval for Falcon acquisition"
+    },
+    {
+      "symbol": "MMA.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "We're Hopeful That Midnight Sun Mining (CVE:MMA) Will Use Its Cash Wisely",
+        "Midnight Sun Mining provides Dumbwa copper discovery update \u2013 ICYMI",
+        "Midnight Sun defines large-scale copper potential at Zambia\u2019s Dumbwa Project",
+        "Tocvan Announces Appointment of Darin Wagner as Special Advisor",
+        "Midnight Sun Files Technical Report for Kazhiba Main Copper Oxide Project",
+        "Midnight Sun Drills 0.89% Copper Over 25 Metres and 1.36% Copper Over 6 Metres within 0.46% Copper Over 50 Metres; Continuing to Significantly Extend Dumbwa System"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "drill_or_assay_result",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Drilled 0.89% Copper Over 25 Metres and 1.36% Copper Over 6 Metres"
+    },
+    {
+      "symbol": "MKO.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Discovering Undiscovered Gems in Canada This May 2026",
+        "Undiscovered Canadian Gems With Promising Potential In May 2026",
+        "Mako Mining Intersects 26.98 g/t Au over 6.8 m Estimated True Width at Las Conchitas, Extending an Area Fully Permitted for Mining to Over 450 m of Strike",
+        "Undiscovered Gems In Canada Featuring Three Promising Small Caps",
+        "Undiscovered Gems in Canada to Explore This April 2026",
+        "First Canadian Graphite Appoints Scott Kelly As Chief Financial Officer"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "drill_or_assay_result",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Intersects 26.98 g/t Au over 6.8 m Estimated True Width"
+    },
+    {
+      "symbol": "GPAC.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Precious Metals & Critical Minerals Virtual Investor Conference: Presentations Now Available for Online Viewing",
+        "Precious Metals & Critical Minerals Virtual Investor Conference Agenda Announced for May 5th \u2013 7th",
+        "Great Pacific Gold Reports Drill Results and Updated Diamond Drill Program at Kavasuki, Wild Dog Project",
+        "Great Pacific Gold Spin Out, Walhalla Gold Corp., Completes CSE Listing",
+        "Crossroads Gold Announces Appointment of James Hutton as Advisor and Adoption of Corporate Governance Initiatives",
+        "Great Pacific Gold Intersects 59.9 m @ 1.43 g/t AuEq at Kavasuki, Including 14.0 m @ 2.69 g/t AuEq, Wild Dog Project"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "drill_or_assay_result",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Intersects 59.9 m @ 1.43 g/t AuEq at Kavasuki"
+    },
+    {
+      "symbol": "GSKR.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Olive Resource Capital Provides Update on Investments for April 2026",
+        "Goldsky Resources Files Audited Annual Financial Statements for the Year Ended December 31, 2025",
+        "Olive Resource Capital Provides Update on Investments for March 2026",
+        "Goldsky Shareholders Approve Agnico Eagle as a Control Person in Connection with Goldsky Becoming 100% Owner of the Barsele Gold Project and Goldsky Provides Corporate Update",
+        "Goldsky Resources Releases Q4 2025 Unaudited Financial Results and Corporate Update",
+        "Goldsky Resources Announces Mailing of Meeting Materials in Connection with Becoming 100% Owner of the Barsele Gold Project and to Approve the Creation of Agnico Eagle as a Control Person"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "merger_or_acquisition",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 90,
+      "confidence": 0.9,
+      "rationale": "Goldsky Becoming 100% Owner of the Barsele Gold Project"
+    },
+    {
+      "symbol": "GRSL.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "GR Silver Reports High-Grade Silver Results from the 20,000 m Step-Out Drilling Campaign at San Marcial: 15.6 m at 351 g/t Ag, including 2.5 m at 1,395 g/t Ag, in SMS26-03",
+        "GR Silver Mining Announces Loss of President, CEO, and Founder, M\u00e1rcio Fonseca",
+        "GR Silver Mining to present at PDAC 2026 Convention and Red Cloud Pre-PDAC 2026  Mining Showcase",
+        "OTC Markets Group Welcomes GR Silver Mining Ltd. to OTCQX",
+        "GR Silver Mining Commences Trading on OTCQX",
+        "GR Silver Mining Starts Step-Out Drilling Campaign At San Marcial, Mexico"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "drill_or_assay_result",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Reports High-Grade Silver Results from the 20,000 m Step-Out Drilling Campaign"
+    },
+    {
+      "symbol": "QNC.V",
+      "sector": "Technology",
+      "headline_count": 6,
+      "headlines": [
+        "Quantum-Secured Power for a Post-Quantum World: AEGIS, Quantum eMotion and SEETEL Unveil Defence-Grade Energy Storage Platform",
+        "Quantum eMotion (QNC) Acquires SKV and Jet Lab Technologies to Become Full-Stack Cybersecurity Provider",
+        "Quantum eMotion to Buy SKV Technology Assets",
+        "Quantum eMotion Announces Acquisition of Jet Lab Technologies Assets to Deliver Full-Stack Quantum-Resilient Security",
+        "NYSE Content Update: Grindr Reports 28% Full Year Revenue Growth in Q4 Earnings",
+        "Assessing Quantum eMotion\u2019s Valuation After NYSE American Uplisting And Quantum Cybersecurity Exposure"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "contract_or_customer_win",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Acquires SKV and Jet Lab Technologies to become full-stack cybersecurity provider"
+    },
+    {
+      "symbol": "RDS.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Radisson Announces Upsize of Bought Deal Financing to $22 Million",
+        "Radisson Announces $20 Million Bought Deal Financing",
+        "Radisson Extends High-Grade Gold Mineralization at O'Brien to 1.9 Kilometres Depth with Latest Drill Results",
+        "Radisson Mining Resources (CVE:RDS) Is In A Good Position To Deliver On Growth Plans",
+        "Radisson Appoints Michel Leclerc to Board of Directors",
+        "With Step-Out Drilling Continuing, Radisson Demonstrates Meaningful Resource Growth at O'Brien with an Updated Mineral Resource Estimate"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "financing_or_dilution",
+      "direction": "bearish",
+      "magnitude": "high",
+      "horizon_days": 15,
+      "confidence": 0.9,
+      "rationale": "Announces $20 million bought deal financing"
+    },
+    {
+      "symbol": "SAGA.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "SAGA Metals Announces Closing of Over-Subscribed $10.2 Million Non-Brokered Private Placement",
+        "SAGA Metals Closes on Title Transfer Agreement to Expand Wolverine Heavy Rare Earth Element Project in Labrador-Grab Sample Assays Included up to 21.6% TREO",
+        "SAGA Metals Reports Assays from R-0027 to R-0029 with Intercepts Including 53.02% Fe2O3, 6.46% TiO2, 0.441% V2O5 from 2026 Drilling at Trapper South, Radar Critical Minerals Project in Labrador",
+        "SAGA Metals Reports Assays from R-0024 to R-0026 with Intercepts Including 54.20% Fe2O3, 7.07% TiO2, 0.443% V2O5 from 2026 Drilling at Trapper South, Radar Critical Minerals Project in Labrador",
+        "SAGA Metals Secures Maximum JEA Grant for Labrador and Adopts Semi-Annual Financial Reporting",
+        "SAGA Metals Executes Title Transfer Agreement to Expand Wolverine Heavy Rare Earth Element Project in Labrador\u2014Grab Sample Assays Included up to 21.6% TREO"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "operational_update",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Reports assays from R-0027 to R-0029 with intercepts including 53.02% Fe2O3"
+    },
+    {
+      "symbol": "RECO.V",
+      "sector": "Energy",
+      "headline_count": 6,
+      "headlines": [
+        "ReconAfrica advances Namibia discovery toward appraisal, expands Africa footprint",
+        "ReconAfrica Provides Operational Update and Reports 2025 Year-End Results",
+        "ReconAfrica CEO talks Kavango West test plans - ICYMI",
+        "ReconAfrica begins testing at Namibia discovery, advances Gabon work program",
+        "ReconAfrica Commences Production Testing Operations at Kavango West Discovery and Provides an Operational Update",
+        "ReconAfrica Announces Closing of C$36.8 Million Underwritten Offering, Funded to Advance Multi-Zone Production Testing at Kavango West 1X, Accelerate Follow-on Appraisal Drilling on Kavango Discovery and Advance Activities at Ngulu Block in Gabon"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "operational_update",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Advances Namibia discovery toward appraisal"
+    },
+    {
+      "symbol": "QTWO.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Q2 Metals Announces $60 Million Private Placement",
+        "Q2 Metals Releases Inaugural Inferred Mineral Resource Estimate for Cisco Lithium Project",
+        "Q2 Metals Announces Inferred Mineral Resource Estimate on the Cisco Lithium Project with 295 Million Tonnes Grading 1.36% Li\u2082O",
+        "We Think Q2 Metals (CVE:QTWO) Can Afford To Drive Business Growth",
+        "Video - CEO Clips: Q2 Metals Advances the Cisco Lithium Discovery in Quebec, Canada, Toward Its Maiden Mineral Resource Estimate",
+        "Kinvestor Mining & Energy 2026 Virtual Investor Conference: Presentations Now Available for Online Viewing"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "drill_or_assay_result",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Inaugural Inferred Mineral Resource Estimate for Cisco Lithium Project"
+    },
+    {
+      "symbol": "RVG.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Revival Gold Announces Closing of $33 Million Brokered Private Placement",
+        "Revival Gold Kicks off 16,000-Meter Drill Program at Mercur Gold Project in Utah",
+        "Revival Gold Announces C$30 Million Capital Raise",
+        "Revival Gold Expands Drilling Program After Intersecting 6.4 G/T Gold Over 19 Meters At Beartrack-Arnett",
+        "Does Revival Gold\u2019s (TSXV:RVG) High-Grade Mercur Drilling Reframe Its Long-Term Project Strategy?",
+        "Revival Gold Drills 2.8 g/t gold over 74 meters Including 8.0 g/t over 12 meters at the Mercur Gold Project in Utah"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "operational_update",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Kicks off 16,000-Meter Drill Program at Mercur Gold Project in Utah"
+    },
+    {
+      "symbol": "TECT.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Tectonic Metals Launches 40,000 Metre, Five-Rig Drill Program to Advance High-Grade Gold Discoveries and Deliver Maiden Resource at Flat Gold Project, Alaska",
+        "Tectonic Raises Over C$92 Million; Completes Upsized Private Placement with Full Over-Allotment Exercised",
+        "Tectonic Metals Upsizes Financing to $80 Million",
+        "Tectonic Metals Announces Financing of up to $40 Million",
+        "Tectonic Metals Drills 272 Metres of 0.50 g/t Au and 277 Metres of 0.49 g/t Au; Confirms Bulk-Tonnage Potential at Heap-Leachable Chicken Mountain, Flat Gold Project, Alaska",
+        "Tectonic Metals Drills 4.50 g/t Au over 48.77 metres with 7.79 g/t Au over 24.38 metres at New Target, Flat Gold Project, Alaska"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "drill_or_assay_result",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Multiple high-grade gold discoveries and bulk-tonnage potential"
+    },
+    {
+      "symbol": "ZDC.V",
+      "sector": "Industrials",
+      "headline_count": 6,
+      "headlines": [
+        "There Are Some Reasons To Suggest That Zedcor's (CVE:ZDC) Earnings Are A Poor Reflection Of Profitability",
+        "Zedcor Inc. Announces Restricted Share Unit Grant",
+        "Zedcor Inc. Adopts Shareholder Rights Plan",
+        "Zedcor Inc. Reports Record Q4 2025 Results with $17.8 Million in Revenue and $7.1 Million in Adjusted EBITDA, Capping a Year of 79% Revenue Growth and 82% Adjusted EBITDA Growth",
+        "How The Zedcor (TSXV:ZDC) Narrative Is Shifting After The Updated CA$7.91 Valuation Target",
+        "Zedcor Inc. Announces Closing of $30.5M Bought Deal Public Offering"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "earnings_or_guidance",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Record Q4 2025 Results with $17.8 Million in Revenue and $7.1 Million in Adjusted EBITDA"
+    },
+    {
+      "symbol": "TRUL.CN",
+      "sector": "Healthcare",
+      "headline_count": 6,
+      "headlines": [
+        "Trulieve Reports Profitable First Quarter 2026 Results Bolstered by Margins and Cash Flow Generation",
+        "Trulieve to Open Medical Cannabis Dispensary in Belleview, Florida",
+        "2 Medical Marijuana Stocks to Buy Now",
+        "Trulieve Announces Applications Filed for DEA Registration of State Licensed Medical Marijuana Businesses",
+        "3 Cannabis Stocks That Could Soar After Marijuana Rescheduling",
+        "Trulieve Applauds Trump Administration For Rescheduling Medical Marijuana to Schedule III"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "operational_update",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.9,
+      "rationale": "Profitable First Quarter 2026 Results Bolstered by Margins and Cash Flow Generation"
+    },
+    {
+      "symbol": "BRVO.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Bravo Mining Up 1.4% As Provides Latest Assays from Luanga Project in Brazil",
+        "Bravo Reports Infill and Extensional Drill Results from Luanga",
+        "Olive Resource Capital Provides Update on Investments for April 2026",
+        "Olive Resource Capital Provides Update on Investments for March 2026",
+        "Bravo Mining Provides and Update on its Copper-Gold Exploration Program at the Luanga Project in Brazil",
+        "Bravo Provides Update on its Copper-Gold Exploration Program"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "drill_or_assay_result",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.8,
+      "rationale": "Bravo Reports Infill and Extensional Drill Results from Luanga"
+    },
+    {
+      "symbol": "CBR.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Cabral Gold Announces Additional Results of Infill Drilling at the MG Gold Deposit, Cui\u00fa Cui\u00fa Gold District, Brazil. Doubles Number of Drill Rigs on Site to Six",
+        "Cabral Gold: On budget, on schedule and close to first gold at Cui\u00fa Cui\u00fa in Brazil",
+        "Cabral Gold Announces the Results of Infill Drilling at the MG Gold Deposit, Cui\u00fa Cui\u00fa Gold District, Brazil",
+        "Cabral Gold Announces Closing of $20 Million Bought Deal Financing",
+        "Cabral Gold Announces $20 Million Bought Deal Financing",
+        "Cabral Gold Drills 9.5m @ 87.4 g/t Gold at Jerimum Cima Target, Cui\u00fa Cui\u00fa Gold District, Brazil"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "financing_or_dilution",
+      "direction": "bearish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.8,
+      "rationale": "Cabral Gold Announces Closing of $20 Million Bought Deal Financing"
+    },
+    {
+      "symbol": "EXN.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Excellon Resources to Present at Deutsche Goldmesse Spring 2026 in Frankfurt",
+        "Excellon Grants Stock Options and Share Units",
+        "Excellon Files NI 43-101 Technical Report for Mallay",
+        "Excellon Announces Closing of Bought Deal Private Placement and Concurrent Private Placement for Gross Proceeds of Approximately C$21.8 Million",
+        "Excellon Announces Upsize of Bought Deal Private Placement and Concurrent Private Placement for Gross Proceeds of Approximately C$22 Million",
+        "Excellon Announces Bought Deal Private Placement of Common Shares for Gross Proceeds of C$10 Million"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "financing_or_dilution",
+      "direction": "bearish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.8,
+      "rationale": "C$21.8M bought deal private placement"
+    },
+    {
+      "symbol": "FWZ.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Fireweed Metals Closes Previously Announced $61.5 Million Private Placement",
+        "Fireweed Metals to Raise up to $61.5 Million in Private Placement of Shares",
+        "Fireweed Metals Announces $61.5 Million Private Placement with Strategic Investment from JX Advanced Metals Corporation",
+        "We're Keeping An Eye On Fireweed Metals' (CVE:FWZ) Cash Burn Rate",
+        "Fireweed Metals Commences Mactung Tungsten Project Feasibility Study",
+        "Insider Stock Buying Reaches CA$2.19m On Fireweed Metals"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "financing_or_dilution",
+      "direction": "bearish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.8,
+      "rationale": "$61.5M private placement"
+    },
+    {
+      "symbol": "GGA.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Goldgroup Files Updated Technical Report on San Francisco Gold Project",
+        "Goldgroup Mining Completes Sale of Pinos Project",
+        "Goldgroup Completes Sale of Pinos Project",
+        "Goldgroup Named to TSXV List of Top 50 Performing Companies",
+        "Gold Resource enters plan of merger with Goldgroup Mining",
+        "Eric Sprott Announces Voting and Support Agreement for Goldgroup Mining's Proposed Acquisition of Gold Resource Corporation"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "merger_or_acquisition",
+      "direction": "neutral",
+      "magnitude": "high",
+      "horizon_days": 90,
+      "confidence": 0.8,
+      "rationale": "Proposed acquisition of Gold Resource Corporation"
+    },
+    {
+      "symbol": "BYN.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Precious Metals & Critical Minerals Virtual Investor Conference: Presentations Now Available for Online Viewing",
+        "Banyan Gold Announces Closing of $46.5 Million Private Placement",
+        "Precious Metals & Critical Minerals Virtual Investor Conference Agenda Announced for May 5th \u2013 7th",
+        "Banyan Gold Announces $46.5 Million Private Placement",
+        "VIDEO - BTV Visits the Yukon: 7 Companies Advancing Growth: Banyan Gold, Fuerte Metals, Sitka Gold, White Gold, Klondike Gold, Cascadia Minerals & Silver North",
+        "Banyan Gold Continues to Intersect High-Grade Gold in Powerline, AurMac Deposit, Yukon, Canada"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "financing_or_dilution",
+      "direction": "bearish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.8,
+      "rationale": "$46.5M private placement"
+    },
+    {
+      "symbol": "DBG.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Doubleview Gold Corp. Announces Filing of Preliminary Economic Assessment Technical Report for the Hat Project",
+        "Doubleview Gold Corp. Announces Change of Auditor",
+        "Doubleview Gold Clarifies Preliminary Economic Assessment Results for the Hat Project; Updated Scenario B NPV Increased to C$7.27 Billion",
+        "Doubleview Gold Corp. Announces Positive Preliminary Economic Assessment for the Hat Project; Robust Base-Case Economics with Strategic Scandium Upside",
+        "Star Copper Congratulates Doubleview Gold's Mineral Resource Estimate Boosting Interest Across Entire Region",
+        "Doubleview Gold Corp. Reports Updated Mineral Resource Estimate as of February 25, 2026 Including a Copper Equivalent Mineral Resource: 609 (Mt) of Measured and Indicated Resources at 0.43% CuEq containing CuEq 5.82 Billion lbs. 503 (Mt) of Inferred Resources at 0.41% CuEq containing CuEq 4.57 Billion lbs"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "operational_update",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 60,
+      "confidence": 0.8,
+      "rationale": "Positive Preliminary Economic Assessment for the Hat Project"
+    },
+    {
+      "symbol": "EOG.V",
+      "sector": "Energy",
+      "headline_count": 6,
+      "headlines": [
+        "Eco (Atlantic) Oil and Gas Ltd. Announces Exercise of Options",
+        "Eco (Atlantic) Oil and Gas Ltd. Announces JHI Acquisition - Interim Court Order Obtained",
+        "Eco (Atlantic) Oil and Gas Ltd. Announces Company Incentive Plan - Exercise of Options",
+        "BP Acquires Its First Operated Stakes in Namibia",
+        "BP to buy 60% stake in three Eco Atlantic PELs offshore Namibia",
+        "BP Joins Shell and TotalEnergies in Namibia's Offshore Rush"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "merger_or_acquisition",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.8,
+      "rationale": "BP Acquires Its First Operated Stakes in Namibia"
+    },
+    {
+      "symbol": "CDPR.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Cerro de Pasco Resources Announces Upgrade to OTCQX Best Market",
+        "OTC Markets Group Welcomes Cerro de Pasco Resources Inc to OTCQX",
+        "Cerro de Pasco Resources Announces Clarifications to its NI\u00a043-101 Compliance Disclosure",
+        "Cerro de Pasco Resources Jumps 20% as It Gains Surface Access to the Entire Quiulacocha Tailings Area in Peru",
+        "Cerro de Pasco Resources Secures Access Agreement Over Entire Quiulacocha Tailings Area, Enabling Next Phase of Project Development",
+        "Cerro de Pasco Resources Secures Up to US$5 Million for Quiulacocha Tailings Reprocessing Project"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "contract_or_customer_win",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 60,
+      "confidence": 0.8,
+      "rationale": "Cerro de Pasco Resources Secures Access Agreement Over Entire Quiulacocha Tailings Area, Enabling Next Phase of Project Development"
+    },
+    {
+      "symbol": "AMX.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Amex Exploration Announces Oversubscribed C$43.5 Million LIFE Offering and Additional Concurrent Private Placement of Up to C$31 Million",
+        "Amex Exploration Announces up to C$43.5 Million Private Placement of Common Shares",
+        "Amex Exploration Begins 15,000-Meter Drill Program at Perron West in Ontario",
+        "Amex Commences 15,000 m Drill Program at Perron West in Ontario and Hires IR Firm",
+        "Adelayde Exploration Formulating Plans for the Next Phase of Work on the Perron-East Gold Project in Quebec",
+        "RETRANSMISSION: Amex Delivers a Positive Feasibility Study for Development of the Perron Gold Mine"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "financing_or_dilution",
+      "direction": "bearish",
+      "magnitude": "high",
+      "horizon_days": 60,
+      "confidence": 0.8,
+      "rationale": "Oversubscribed C$43.5 million private placement"
+    },
+    {
+      "symbol": "ELE.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "A Look At Elemental Royalty\u2019s Valuation As TSX Listing And Tether Backing Draw Investor Focus",
+        "Elemental Royalty to Commence Trading on the Toronto Stock Exchange",
+        "VIDEO - BTV Visits Equinox Gold, Mineros, Elemental Royalty, 5E Advanced Materials, Alkane Resources, Contango Silver & Gold, and Osisko Development",
+        "Updated Early Warning Press Release Regarding Acquisition of Common Shares in Elemental Royalty Corporation",
+        "How Record 2025 Results and First Dividend Will Impact Elemental Royalty (TSXV:ELE) Investors",
+        "Elemental Royalty Corp (ELE) Q4 2025 Earnings Call Highlights: Record Revenue and Strategic Growth"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "earnings_or_guidance",
+      "direction": "bullish",
+      "magnitude": "medium",
+      "horizon_days": 60,
+      "confidence": 0.8,
+      "rationale": "Record 2025 results and first dividend"
+    },
+    {
+      "symbol": "ACM.CN",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Allied Critical Metals Announces Closing of First Tranche of Strategic Financing",
+        "Allied Critical Metals Establishes \"Social Monitoring and Advisory Committee of the Borralha Mine Project\"",
+        "Allied Critical Metals Announces Intent to List on the TSX Venture Exchange",
+        "Allied Critical Metals up 7% as Secures US$40 Million Financing",
+        "Allied Critical Metals Announces Transformative U.S.$40 Million Financing Package to Fast-Track Tungsten Concentrates Production",
+        "Allied Critical Metals Files New Technical Report on Previously Announced PEA"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "financing_or_dilution",
+      "direction": "bearish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.8,
+      "rationale": "Secures US$40 million financing package"
+    },
+    {
+      "symbol": "HSTR.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Heliostar Presents Record Q1 2026 Financial and Operating Results",
+        "Heliostar Files Technical Report for Goldstrike Project",
+        "Heliostar Announces Addition to Management Team and Ana Paula Focused Reorganization",
+        "Undiscovered Gems In Canada To Explore This April 2026",
+        "Liberty Gold Closes Sale of Goldstrike Project to Heliostar Metals",
+        "Heliostar Announces Closing of the Acquisition of the Goldstrike Project in Utah"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "operational_update",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.8,
+      "rationale": "Record Q1 2026 financial and operating results"
+    },
+    {
+      "symbol": "KTO.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "K2 Gold Stakes New 21,887 Hectare District Scale Gold Project in Yukon Territory",
+        "OTC Markets Group Welcomes K2 Gold Corp to OTCQX",
+        "K2 Upgraded to Trade on OTCQX",
+        "K2 Gold Receives Positive Record of Decision for Exploration Drilling at the Mojave Project, California",
+        "K2 Gold Completes Reverse Circulation Drill Program at Si2 Gold Project, Nevada",
+        "K2 Gold Corporation Recognized as a Top 50 TSX Venture Company"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "operational_update",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.8,
+      "rationale": "Positive Record of Decision for exploration drilling at the Mojave Project, California"
+    },
+    {
+      "symbol": "HITI.V",
+      "sector": "Healthcare",
+      "headline_count": 6,
+      "headlines": [
+        "TSX Penny Stocks To Watch In May 2026",
+        "High Tide Announces Purchases of Shares by Insiders",
+        "High Tide Reports Q2 Preliminary Tonnage Data From its 51%-owned German Subsidiary, Remexian Pharma GmbH",
+        "High Tide Reports Record Quarterly Distribution of 7.6 Tonnes of Medical Cannabis Through Remexian Pharma GmbH, Accelerating German Market Leadership",
+        "High Tide Executes Term Sheet for $40 Million of Credit Facilities",
+        "High Tide Executes a Term Sheet for $40MM of Credit Facilities with a Big 5 Canadian Chartered Bank As its New Senior Lender"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "financing_or_dilution",
+      "direction": "bearish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.8,
+      "rationale": "High Tide Executes Term Sheet for $40 Million of Credit Facilities"
+    },
+    {
+      "symbol": "GGO.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Galleon Gold Announces Issuance of Shares for Interest Payment on Convertible Debentures",
+        "Galleon Gold Announces Interest Payment on Convertible Debentures",
+        "Galleon Gold Completes Box Cut Excavation at West Cache Project",
+        "Galleon Gold Amends Credit Agreement with Pan American Silver",
+        "Galleon Gold Provides Corporate and Operational Update",
+        "Galleon Gold Receives Key Water Permit and Initiates Box Cut at its West Cache Gold Project in Timmins, Ontario"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "financing_or_dilution",
+      "direction": "bearish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.8,
+      "rationale": "Galleon Gold Announces Issuance of Shares for Interest Payment on Convertible Debentures"
+    },
+    {
+      "symbol": "LIS.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Lithium South Announces Pay Out of Common Shares and Closing of Plan of Arrangement",
+        "Lithium South Announces Closing of the Sale of Its Hombre Muerto North Lithium Project",
+        "CARAVEL CAPITAL FUND LTD. ANNOUNCES ADDITIONAL INVESTMENT IN LITHIUM SOUTH DEVELOPMENT CORPORATION",
+        "Lithium South Announces Closing Date of April 7, 2026",
+        "Lithium South Announces Results of its Annual and Special Meeting of Securityholders",
+        "Lithium South AGSM Update"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "financing_or_dilution",
+      "direction": "bearish",
+      "magnitude": "medium",
+      "horizon_days": 60,
+      "confidence": 0.8,
+      "rationale": "Payout of common shares and closing of plan of arrangement"
+    },
+    {
+      "symbol": "MTA.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "2026: New York City's 1000 Prevost motorcoaches",
+        "Amended Updated Early Warning Press Release Regarding Acquisition of Common Shares in Metalla Royalty & Streaming Ltd.",
+        "Updated Early Warning Press Release Regarding Acquisition of Common Shares in Metalla Royalty & Streaming Ltd.",
+        "METALLA REPORTS RECORD 2025 FINANCIAL RESULTS HIGHLIGHTING PORTFOLIO INFLECTION AND FUTURE CASH FLOW GROWTH",
+        "TSX Value Picks Knight Therapeutics And 2 Other Stocks Estimated Below Intrinsic Value",
+        "Metair Investments Ltd (JSE:MTA) Full Year 2025 Earnings Call Highlights: Robust Revenue Growth ..."
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "financing_or_dilution",
+      "direction": "bearish",
+      "magnitude": "medium",
+      "horizon_days": 60,
+      "confidence": 0.8,
+      "rationale": "Acquisition of common shares in Metalla Royalty & Streaming Ltd."
+    },
+    {
+      "symbol": "HHH.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Helius Minerals Appoints Non-Executive Director for Development Activities at the Serra Pelada Project",
+        "Helius Minerals Provides Update on Serra Pelada Option",
+        "Helius Minerals Reports Conditional Extension of Mine Permit for Serra Pelada Concession in Brazil",
+        "Helius Minerals Provides an Update on the Ag\u00eancia Nacional de Minera\u00e7\u00e3o\u00b4s Recent Decisions for the Serra Pelada Project",
+        "Helius Minerals Limited Announces Issuance of Options",
+        "Helius Minerals Raises $39.9 Million Via a Private Placement of Share Units and Subscription Receipts"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "financing_or_dilution",
+      "direction": "bearish",
+      "magnitude": "medium",
+      "horizon_days": 60,
+      "confidence": 0.8,
+      "rationale": "Raises $39.9 Million Via a Private Placement of Share Units and Subscription Receipts"
+    },
+    {
+      "symbol": "PLSR.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Pulsar Helium Awards Security Based Compensation",
+        "Pulsar Helium Responds to Rumours Regarding Financing",
+        "Pulsar Helium Secures Option Over 488,090 Acres in Michigan's Upper Peninsula",
+        "Pulsar Helium Secures District-Scale Helium Exploration  Option Across 488,090 Acres in Michigan's Upper Peninsula",
+        "Pulsar Helium Announces the Appointment of DGWA as European Financial Markets and Corporate Advisor",
+        "ABCrescent Cooperatief U.A. Announces Filing of Updated Early Warning Report in Relation to Pulsar Helium Inc."
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "contract_or_customer_win",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.8,
+      "rationale": "Secures option over 488,090 acres in Michigan's Upper Peninsula"
+    },
+    {
+      "symbol": "RBX.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "MARCH 2026 QUARTER INVESTOR WEBINAR",
+        "Assessing Robex Resources (TSXV:RBX) Valuation After Strong 1-Year Return And Recent Share Price Pullback",
+        "PDI & ROBEX MERGER COMPLETED",
+        "Merger Implementation Timetable",
+        "PDI & Robex Merger Proceeding to Implementation",
+        "Kiniero Quarter 1 Production Update"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "merger_or_acquisition",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.8,
+      "rationale": "PDI & Robex merger completed"
+    },
+    {
+      "symbol": "REVX.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "REV Completes Acquisition of Montana Helium Properties",
+        "REV Announces Strategic Asset Monetization, Corporate Rebranding and Marketing Program",
+        "REV Targets Entry Into American Market with LOI to Acquire Properties in Montana",
+        "REV Appoints Steve Halabura as Lead Technical Advisor",
+        "Rev Exploration Commencing Drill Program on Aden Dome Project in Q1",
+        "REV Provides Corporate Update"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "contract_or_customer_win",
+      "direction": "bullish",
+      "magnitude": "medium",
+      "horizon_days": 60,
+      "confidence": 0.8,
+      "rationale": "Completes Acquisition of Montana Helium Properties"
+    },
+    {
+      "symbol": "SLVR.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Silver Tiger Awards Engineering Procurement and Construction Management Contract and Provides Construction Update",
+        "Does Silver Tiger Metals' (TSXV:SLVR) Steady Per-Share Loss Mask a Deeper Capital Discipline Shift?",
+        "A Look At Silver Tiger Metals (TSXV:SLVR) Valuation After Wider Q3 Losses And Recent Share Price Momentum",
+        "Silver Tiger Metals Inc. Invites Shareholders and Investment Community to visit them at Booth 3206 at PDAC 2026 in Toronto, March 1-4",
+        "Silver Tiger Announces Closing of C$57,501,288 Bought Deal Financing",
+        "Silver Tiger Announces Filing of Final Short Form Prospectus"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "financing_or_dilution",
+      "direction": "bearish",
+      "magnitude": "high",
+      "horizon_days": 30,
+      "confidence": 0.8,
+      "rationale": "Closing of C$57,501,288 Bought Deal Financing"
+    },
+    {
+      "symbol": "BOGO.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Borealis Mining Advances Sandman Gold Project Toward Development with Initiation of Detailed Engineering, Permitting and Technical Work Programs",
+        "Borealis Files NI 43-101 Technical Report for the Sandman Gold Project",
+        "Borealis Reports Q2 Fiscal 2026 Financial and Operating Results",
+        "Borealis Mining Announces Updated NI 43-101 Preliminary Economic Assessment for the Sandman Gold Project Highlighting Strong Stand-Alone Economics, ADR-Enabled Capital Efficiency and Substantial Leverage to Gold Prices",
+        "Borealis Mining Announces First Production Blast at Borealis Gold Mine, Nevada",
+        "Borealis Mining mobilises equipment to resume Nevada gold operations"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "operational_update",
+      "direction": "bullish",
+      "magnitude": "high",
+      "horizon_days": 60,
+      "confidence": 0.7,
+      "rationale": "First production blast at Borealis Gold Mine, Nevada"
+    },
+    {
+      "symbol": "EU.V",
+      "sector": "Energy",
+      "headline_count": 6,
+      "headlines": [
+        "A Look At enCore Energy (TSXV:EU) Valuation As Leadership Shifts With New CEO And Returning Executive Chair",
+        "enCore Energy Names Rich Little CEO as William Sheriff Returns as Executive Chairman, Eyes Permitting Push",
+        "enCore Energy Appoints Richard Little as CEO; William M. Sheriff Returns as Executive Chair",
+        "enCore Energy Appoints Richard Little as Chief Executive Officer; William M. Sheriff Returns as Executive Chair",
+        "Why enCore Energy\u2019s 2025 Production Gains Matter for Its Contract-Delivery Strategy",
+        "Verdera Energy Builds Industry Leading Proprietary Uranium Database for New Mexico"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "management_change",
+      "direction": "neutral",
+      "magnitude": "medium",
+      "horizon_days": 60,
+      "confidence": 0.7,
+      "rationale": "enCore Energy Names Rich Little CEO as William Sheriff Returns as Executive Chairman"
+    },
+    {
+      "symbol": "CERT.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Precious Metals & Critical Minerals Virtual Investor Conference: Presentations Now Available for Online Viewing",
+        "Precious Metals & Critical Minerals Virtual Investor Conference Agenda Announced for May 5th \u2013 7th",
+        "CEO.CA's Inside the Boardroom: How Cerrado Gold Is Capturing Record Gold Prices",
+        "Cerrado Gold Announces Q1 2026 Production Results at Its Minera Don Nicolas Mine in Argentina",
+        "Cerrado Gold Announces Q4 and Annual 2025 Financial Results",
+        "Q1 Virtual Investor Summit Presentations Now Available On Demand"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "operational_update",
+      "direction": "bullish",
+      "magnitude": "medium",
+      "horizon_days": 30,
+      "confidence": 0.7,
+      "rationale": "Cerrado Gold Announces Q1 2026 Production Results at Its Minera Don Nicolas Mine in Argentina"
+    },
+    {
+      "symbol": "AFM.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Why Alphamin Resources (TSXV:AFM) Is Up 5.1% After Strong Q1 2026 Earnings and Dividend Announcement",
+        "Undiscovered Gems In Canada Featuring Three Promising Small Caps",
+        "ALPHAMIN ANNOUNCES CAD$0.13 PER SHARE FINAL FY2025 DIVIDEND/ FILES Q1 2026 FINANCIAL STATEMENTS AND MD&A",
+        "TSX Dividend Stocks To Consider In April 2026",
+        "ALPHAMIN ANNOUNCES RECORD Q1 EBITDA GUIDANCE OF US$158 MILLION/ EXPLORATION UPDATE",
+        "ALPHAMIN ANNOUNCES FILING OF YEAR END FINANCIAL RESULTS/AWARD OF LONG TERM INCENTIVES/EXPLORATION UPDATE"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "earnings_or_guidance",
+      "direction": "bullish",
+      "magnitude": "medium",
+      "horizon_days": 30,
+      "confidence": 0.7,
+      "rationale": "Strong Q1 2026 earnings and dividend announcement"
+    },
+    {
+      "symbol": "CVV.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "CanAlaska Announces Results from Winter Drill Program on West McArthur Project",
+        "CanAlaska Uranium Ltd. Announces Board Change",
+        "CanAlaska Executes Exploration Agreement with Kineepik M\u00e9tis Local Inc.",
+        "Green Canada Corporation and MAACKK Capital Corp. Provide Corporate Updates",
+        "CanAlaska Intersects New High-Grade Uranium Mineralization 250 Metres Northeast of Pike Zone on the West McArthur JV",
+        "CanAlaska Begins Ground-Based Geophysical Program at Waterbury South Project"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "drill_or_assay_result",
+      "direction": "bullish",
+      "magnitude": "medium",
+      "horizon_days": 60,
+      "confidence": 0.7,
+      "rationale": "Intersects new high-grade uranium mineralization at West McArthur Project"
+    },
+    {
+      "symbol": "NICU.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Magna Mining Announces Conditional Approval to Graduate to the Toronto Stock Exchange",
+        "New Forecasts: Here's What One Analyst Thinks The Future Holds For Magna Mining Inc. (CVE:NICU)",
+        "Magna Mining Inc (MGMNF) Q4 2025 Earnings Call Highlights: Strong Safety Record and Strategic ...",
+        "Magna Mining Reports Fourth Quarter and Full Year 2025 Financial Results",
+        "Magna Mining Says North Range Drilling Intersects \"Significant\" Copper",
+        "Magna Mining Intersects 23.2% Copper, 5.6% Nickel, 21.4 g/t Platinum + Palladium + Gold, and 225.0 g/t Silver over 2.4 metres and Provides an Update on Progress at the Levack Mine in Sudbury, Ontario"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "operational_update",
+      "direction": "bullish",
+      "magnitude": "medium",
+      "horizon_days": 60,
+      "confidence": 0.7,
+      "rationale": "North Range drilling intersects significant copper"
+    },
+    {
+      "symbol": "GOT.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Goliath Resources Strengthens Its Advisory Board With The Addition Of Alan Edwards",
+        "Goliath Resources Acquires 100% Ownership Of The Golddigger Property Hosting The High-Grade Surebet Gold Discovery And Buys Down 1% Of The NSR, Golden Triangle, B.C.",
+        "Gold Runner Exploration Announces Non-Brokered Private Placement Financing of Flow-Through Units and Charity Flow Through Units",
+        "McEwen Warrant Extension With Goliath Keeps Precious Metals Optionality Open",
+        "Goliath Resources Proposes to Extend Term of Warrants Held by McEwen",
+        "Goliath Resources Proposes to Extend Term of Warrants Held by McEwen Inc."
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "contract_or_customer_win",
+      "direction": "bullish",
+      "magnitude": "medium",
+      "horizon_days": 60,
+      "confidence": 0.7,
+      "rationale": "Acquires 100% Ownership Of The Golddigger Property"
+    },
+    {
+      "symbol": "RML.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Gold Reserve Announces Filing of Opposition to Defendant Rusoro Mining Ltd.\u2019s Motion to Dismiss in Delaware Court of Chancery",
+        "Rusoro Provides CITGO Update",
+        "Rusoro Updates CITGO Auction Process",
+        "Gold Reserve Announces Filing of Complaint in Delaware Court of Chancery Against Rusoro Mining Ltd.",
+        "While private companies own 36% of Rusoro Mining Ltd. (CVE:RML), retail investors are its largest shareholders with 38% ownership",
+        "Rusoro Mining Closes $1.7-Million Promissory Note Financing"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "going_concern_or_distress",
+      "direction": "bearish",
+      "magnitude": "high",
+      "horizon_days": 90,
+      "confidence": 0.7,
+      "rationale": "Filing of Opposition to Defendant Rusoro Mining Ltd.\u2019s Motion to Dismiss"
+    },
+    {
+      "symbol": "TOI.V",
+      "sector": "Technology",
+      "headline_count": 6,
+      "headlines": [
+        "There May Be Some Bright Spots In Topicus.com's (CVE:TOI) Earnings",
+        "Constellation Software Inc., Topicus.com Inc. and Lumine Group Inc. Announce Update to Schedule for Annual Meetings",
+        "Constellation Software Expands With Keypoint Deal As Topicus Revenue Climbs",
+        "3 TSX Stocks That May Be Priced Below Their Estimated Value In May 2026",
+        "Constellation Software Inc. and Topicus.Com Inc. Announce Results for Topicus.com Inc. for the First Quarter Ended March 31, 2026",
+        "TSX Stocks Like Martinrea International That May Be Valued Below Their Estimated Worth"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "earnings_or_guidance",
+      "direction": "neutral",
+      "magnitude": "medium",
+      "horizon_days": 30,
+      "confidence": 0.7,
+      "rationale": "First Quarter Ended March 31, 2026 Results"
+    },
+    {
+      "symbol": "ATX.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "ATEX Announces Appointment of Hannes Portmann to Board of Directors",
+        "ATEX Resources Announces Uplisting to Toronto Stock Exchange",
+        "ATEX Provides Update on Resumption of Operations at Valeriano",
+        "ATEX Resources Reports Contractor Fatality",
+        "ATEX Resources Maintained at Buy at Stifel Canada After Valeriano Site Vist; Price Target Kept at C$5.25",
+        "ATEX Resources Maintained at Buy at Stifel Canada After Valeriano Drill Results; Price Target Kept at C$5.25"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "operational_update",
+      "direction": "neutral",
+      "magnitude": "medium",
+      "horizon_days": 60,
+      "confidence": 0.6,
+      "rationale": "ATEX Provides Update on Resumption of Operations at Valeriano"
+    },
+    {
+      "symbol": "GG.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "TSX Penny Stocks To Watch In May 2026",
+        "Golconda Gold Releases Financial and Operating Results for 2025",
+        "Golconda Gold Releases Q1 2026 Production Update and Announces Record Quarterly Production at the Galaxy Gold Mine",
+        "OTC Markets Group Welcomes Golconda Gold Ltd. to OTCQX",
+        "Golconda Gold Graduates to Trading on the OTCQX",
+        "Golconda Gold Named in TSX Venture 50 List of Top Performing Companies"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "operational_update",
+      "direction": "bullish",
+      "magnitude": "medium",
+      "horizon_days": 60,
+      "confidence": 0.6,
+      "rationale": "Record quarterly production at Galaxy Gold Mine"
+    },
+    {
+      "symbol": "FEO.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "OCEANIC APPOINTS JEREMY LANGFORD AS DIRECTOR; GRANTS STOCK OPTIONS",
+        "OCEANIC ANNOUNCES ENGAGEMENT OF ROSE & COMPANY HOLDINGS TO PROVIDE INVESTOR RELATIONS SERVICES",
+        "OCEANIC ANNOUNCES CLOSING OF $50 MILLION EQUITY FINANCING",
+        "Oceanic Announces Up to $50 Million Equity Financing",
+        "Insiders Rewarded With CA$1.5m Addition To Investment As Oceanic Iron Ore Stock Hits CA$114m",
+        "OCEANIC CONFIRMS CRITICAL MINERAL LEVEL, DIRECT REDUCTION CONCENTRATE WITH EXCELLENT IRON RECOVERY AT HOPES ADVANCE"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "operational_update",
+      "direction": "bullish",
+      "magnitude": "medium",
+      "horizon_days": 60,
+      "confidence": 0.6,
+      "rationale": "Critical mineral level, direct reduction concentrate with excellent iron recovery"
+    },
+    {
+      "symbol": "CH.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "CHARBONE Announces the Appointment of Gregory Fourel to the Board of Directors",
+        "CHARBONE Announces the Opening of iIs First Hub in the United States in Albany, NY",
+        "Presenting on Emerging Growth Conference 92 Day 1 on May 6; Register to live stream",
+        "CHARBONE Announces 2025 Annual Financial Results and Corporate Updates",
+        "CHARBONE Announces Closing of $10M Convertible Loan Including $3M Initial Tranche",
+        "CHARBONE Increases $10M Convertible Loan First Drawdown Amount to $3M"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "operational_update",
+      "direction": "neutral",
+      "magnitude": "medium",
+      "horizon_days": 60,
+      "confidence": 0.6,
+      "rationale": "Opening of first US hub in Albany, NY"
+    },
+    {
+      "symbol": "FAN.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "First Atlantic Nickel & Cobalt Welcomes Dr. Douglas Wicks, Former Program Director for the U.S. Department of Energy's ARPA-E (Advanced Research Projects Agency-Energy) Miner Program and Geologic Hydrogen Portfolio, as Strategic Advisor",
+        "First Atlantic Nickel Announces Name Change to First Atlantic Nickel & Cobalt Ahead of the Washington DC Safe Summit, Reinforcing the Natural Cobalt Content of Awaruite - a Rare, Naturally Magnetic (Ni-Fe-Co) Alloy That Is Sulfur-Free and Can Bypass Midstream Smelting Constraints in North America",
+        "First Atlantic Nickel Closes $16 Million Two-Stage Earn-In Agreement with Core Critical Metals Corp. on Lucky Mike Copper-Silver-Tungsten Project - Retains 20% Carried Interest to Feasibility and Rights to Mining Royalty",
+        "Core Critical Metals Corp. Announces Closing of the Option for the Lucky Mike Silver-Copper-Tungsten Project",
+        "First Atlantic Nickel Commences Drilling At New Alloy Max Zone Discovery; Shares Fell 9.5% From 52 Week Highs on Tuesday",
+        "First Atlantic Nickel Has Commenced Drilling at New Alloy Max Zone Discovery, 7 Km North of RPM Zone, at the Pipestone XL Nickel-Cobalt Alloy Project"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "operational_update",
+      "direction": "neutral",
+      "magnitude": "medium",
+      "horizon_days": 90,
+      "confidence": 0.6,
+      "rationale": "First Atlantic Nickel Commences Drilling At New Alloy Max Zone Discovery"
+    },
+    {
+      "symbol": "IFOS.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Why Itafos' (CVE:IFOS) Shaky Earnings Are Just The Beginning Of Its Problems",
+        "Discovering Canada's Undiscovered Gems in May 2026",
+        "Assessing Itafos (TSXV:IFOS) Valuation After Mixed First Quarter Sales Growth And Profit Compression",
+        "Undiscovered Gems In Canada Featuring Three Promising Small Caps",
+        "Itafos Reports Continued Excellent Operational Results for Q1 2026",
+        "Undiscovered Gems in Canada to Explore This April 2026"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "operational_update",
+      "direction": "neutral",
+      "magnitude": "medium",
+      "horizon_days": 30,
+      "confidence": 0.6,
+      "rationale": "Continued excellent operational results for Q1 2026"
+    },
+    {
+      "symbol": "GTII.CN",
+      "sector": "Healthcare",
+      "headline_count": 6,
+      "headlines": [
+        "Green Thumb Industries Reports First Quarter 2026 Results",
+        "Green Thumb Industries Files Applications for DEA Registration Following Historic Rescheduling of Medical Cannabis",
+        "2 Medical Marijuana Stocks to Buy Now",
+        "Prediction: Green Thumb Industries Stock Will Double Within 3 Years",
+        "3 Growth Stocks That Could Generate 10X Returns",
+        "Schedule III for Some, Not All: Understanding the DOJ's Cannabis Shift"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "operational_update",
+      "direction": "neutral",
+      "magnitude": "medium",
+      "horizon_days": 60,
+      "confidence": 0.6,
+      "rationale": "Green Thumb Industries Reports First Quarter 2026 Results"
+    },
+    {
+      "symbol": "FMT.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Fuerte Strengthens Management Team and Independent Oversight of the Coffee Gold Project Heap Leach Facility",
+        "K2 Gold Stakes New 21,887 Hectare District Scale Gold Project in Yukon Territory",
+        "Stakeholder Discusses Ballarat Phase 1 Exploration Program",
+        "How Investors Are Reacting To Fuerte Metals (TSXV:FMT) Narrowing 2025 Net Losses And Slower Cash Burn",
+        "Fuerte Files Annual 2025 Financial Results",
+        "VIDEO - BTV Visits the Yukon: 7 Companies Advancing Growth: Banyan Gold, Fuerte Metals, Sitka Gold, White Gold, Klondike Gold, Cascadia Minerals & Silver North"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "operational_update",
+      "direction": "neutral",
+      "magnitude": "medium",
+      "horizon_days": 60,
+      "confidence": 0.6,
+      "rationale": "Fuerte Strengthens Management Team and Independent Oversight of the Coffee Gold Project Heap Leach Facility"
+    },
+    {
+      "symbol": "GQC.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Unigold Provides an Update on Activities in the Dominican Republic",
+        "Precipitate Provides Update on Recent Dominican Republic Government Statement; Drilling Continues at Pueblo Grande Project",
+        "GoldQuest Investor Update - Romero Project",
+        "GoldQuest Reaffirms Commitment to Responsible Development of the Romero Project",
+        "Goldquest Mining Reports Potential Depth Extension at Romero Gold-Copper Project in the Dominican Republic",
+        "GoldQuest Reports Potential Depth Extension at Romero Gold-Copper Project, Dominican Republic"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "operational_update",
+      "direction": "neutral",
+      "magnitude": "medium",
+      "horizon_days": 60,
+      "confidence": 0.6,
+      "rationale": "GoldQuest Reports Potential Depth Extension at Romero Gold-Copper Project, Dominican Republic"
+    },
+    {
+      "symbol": "ROK.V",
+      "sector": "Energy",
+      "headline_count": 6,
+      "headlines": [
+        "TSX Growth Stocks With High Insider Ownership To Watch",
+        "ROK Resources Files 2025 Financial Results and Management Discussion & Analysis",
+        "ROK Resources Announces 2026 Capital Budget and 2025 Year-End Reserves",
+        "ROK Resources Announces Termination of Arrangement Agreement",
+        "TSX Penny Stocks To Watch In January 2026",
+        "ROK Resources Receives Final Order and Enters into Amending Agreement to Extend Outside Date"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "operational_update",
+      "direction": "neutral",
+      "magnitude": "medium",
+      "horizon_days": 60,
+      "confidence": 0.6,
+      "rationale": "Announces 2026 capital budget and 2025 year-end reserves"
+    },
+    {
+      "symbol": "SOMA.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Bullish Soma Gold Insider Buying Worth CA$10.0m Yet To Pay Off",
+        "Discovering Canada's Undiscovered Gems in May 2026",
+        "SOMA GOLD REPORTS 2025 YEAR-END FINANCIAL RESULTS",
+        "Undiscovered Gems In Canada Featuring Three Promising Small Caps",
+        "Undiscovered Gems in Canada to Explore This April 2026",
+        "Unveiling Three Undiscovered Gems in Canada"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "analyst_or_rating_change",
+      "direction": "bullish",
+      "magnitude": "medium",
+      "horizon_days": 30,
+      "confidence": 0.6,
+      "rationale": "Bullish Soma Gold Insider Buying Worth CA$10.0m Yet To Pay Off"
+    },
+    {
+      "symbol": "HMMC.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Analysts Expect Hemlo Mining Corp. (CVE:HMMC) To Breakeven Soon",
+        "3 TSX Stocks That May Be Undervalued For Investors Seeking Value",
+        "Hemlo Mining Corp. Reports First Quarter 2026 Operating Results",
+        "OTC Markets Group Welcomes Hemlo Mining Corp. to OTCQX",
+        "Hemlo Mining Corp. Commences Trading on the OTCQX Best Market in the United States",
+        "Hemlo Mining Corp. Announces Conditional Approval to Graduate to the Toronto Stock Exchange"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "operational_update",
+      "direction": "neutral",
+      "magnitude": "medium",
+      "horizon_days": 30,
+      "confidence": 0.5,
+      "rationale": "First Quarter 2026 operating results"
+    },
+    {
+      "symbol": "WGO.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "White Gold Corp Appoints Hans Smit as Technical Advisor",
+        "Labrador Gold Announces Option Agreement with Pacific Ridge to Acquire Mariposa and Eureka Dome Gold Projects in the Prolific White Gold District, Yukon",
+        "White Gold Launches Spinout of Subsidiary W2 Critical Minerals",
+        "White Gold Corp. Launches Spin-Out of W2 Critical Minerals Corp.",
+        "Companies Like White Gold (CVE:WGO) Can Afford To Invest In Growth",
+        "White Gold Corp. Appoints Donovan Pollitt as President and Director"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "operational_update",
+      "direction": "neutral",
+      "magnitude": "medium",
+      "horizon_days": 30,
+      "confidence": 0.5,
+      "rationale": "Launches Spinout of Subsidiary W2 Critical Minerals"
+    },
+    {
+      "symbol": "HG.CN",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "HydroGraph to Participate in the Needham Investor Conference May 13",
+        "CFO Appointment Update as HydroGraph (HGRAF) Reinstates Interim Finance Chief",
+        "HydroGraph Announces Matt Anderson as Chief Financial Officer",
+        "HydroGraph Clean Power\u2019s Austin Expansion Prompts Closer Look At Rich 73x P/B Valuation",
+        "HydroGraph Clean Power Announces Opening of New Austin, TX Headquarters; Shares up 4.3%",
+        "HydroGraph Announces Opening of New Austin, TX Headquarters"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "management_change",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 30,
+      "confidence": 0.4,
+      "rationale": "Appointment of new CFO"
+    },
+    {
+      "symbol": "DE.V",
+      "sector": "Industrials",
+      "headline_count": 6,
+      "headlines": [
+        "Decisive Dividend Corporation Reports Financial Results for the Three Months Ended March 31, 2026",
+        "Decisive Dividend Corporation Announces Timing of Q1 2026 Results Conference Call",
+        "Decisive Dividend Corporation Announces May 2026 Dividend",
+        "Decisive Dividend Corporation Announces $8.0 Million Non-Brokered Private Placement and Early Warning Report",
+        "Decisive Dividend Corporation (CVE:DE) Is About To Go Ex-Dividend, And It Pays A 6.8% Yield",
+        "Decisive Dividend Corporation Announces April 2026 Dividend"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 1,
+      "confidence": 0.2,
+      "rationale": "Generic dividend announcements and financial results"
+    },
+    {
+      "symbol": "CKG.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Chesapeake Gold Announces Stock Option Grant",
+        "Chesapeake Announces Membership in the Mining Association of Canada; Management Update",
+        "Chesapeake Gold Receives a U.S. Patent for Enhanced Metal Recovery from Sulphide Ores",
+        "Chesapeake Gold Insiders Added CA$7.51m Of Stock To Their Holdings",
+        "Chesapeake Gold reinvents Metates Deposit with new technology",
+        "Chesapeake Gold Named in 2026 TSX Venture 50 List of Top Performing Companies"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 1,
+      "confidence": 0.2,
+      "rationale": "Generic news and management updates"
+    },
+    {
+      "symbol": "CAD.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "TSX Penny Stocks Under CA$500M Market Cap To Watch",
+        "Colonial Coal International Corp. (CVE:CAD) most popular amongst individual investors who own 59%, insiders hold 22%",
+        "Bonterra Energy And 2 Other TSX Penny Stocks With Promising Prospects",
+        "Maxim Power And 2 Other Prominent Penny Stocks On The TSX",
+        "TSX Penny Stocks Under CA$800M Market Cap: 3 Hidden Opportunities",
+        "3 TSX Penny Stocks With Market Caps Over CA$20M"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 1,
+      "confidence": 0.2,
+      "rationale": "Generic market cap and ownership news"
+    },
+    {
+      "symbol": "AU.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "AURION OBTAINS INTERIM ORDER FOR PLAN OF ARRANGEMENT AND PROVIDES DETAILS OF SPECIAL MEETING",
+        "TSX Opportunities: Automotive Finco Among 3 Compelling Penny Stocks",
+        "Why Agnico Eagle Mines (AEM) Is Down 8.3% After Record Q1 Profit and Bold Finland Expansion \u2013 And What's Next",
+        "Is Agnico Eagle Mines Limited (AEM) Goldman Sachs Top Gold Stock Amid Finland Expansion",
+        "Agnico Eagle Mines (AEM) Consolidates Central Lapland Greenstone Belt Through Strategic Acquisitions",
+        "Agnico Eagle to consolidate assets in Finland\u2019s CLGB"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 1,
+      "confidence": 0.2,
+      "rationale": "Stale and generic news"
+    },
+    {
+      "symbol": "MMY.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "TSX Penny Stocks With Market Caps Under CA$200M To Consider",
+        "TSX Penny Stocks To Watch In May 2026",
+        "TSX Penny Stocks Spotlight: Freegold Ventures And 2 Other Notable Picks",
+        "Dundee And 2 Other TSX Penny Stocks To Enhance Your Portfolio",
+        "Invesque Leads These 3 TSX Penny Stocks",
+        "Aldebaran Resources And 2 Other TSX Penny Stocks To Watch"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 1,
+      "confidence": 0.2,
+      "rationale": "Generic penny stock mentions"
+    },
+    {
+      "symbol": "HME.V",
+      "sector": "Energy",
+      "headline_count": 6,
+      "headlines": [
+        "TSX Dividend Stocks To Consider In April 2026",
+        "TSX Penny Stocks To Watch In April 2026",
+        "TSX Dividend Stocks Featuring 3 Income Generating Picks",
+        "TSX Penny Stocks To Consider In April 2026",
+        "Hemisphere Energy Declares Special Dividend and Announces 2025 Fourth Quarter and Year-End Financial and Operating Results",
+        "TSX Dividend Stocks Spotlight Featuring Three Canadian Picks"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 1,
+      "confidence": 0.2,
+      "rationale": "Generic dividend and financial results"
+    },
+    {
+      "symbol": "REG.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "TSX Penny Stocks Under CA$500M Market Cap: 3 Promising Picks",
+        "Regulus Adopts Shareholder Rights Plan and Provides Project Update",
+        "We Think Regulus Resources (CVE:REG) Can Afford To Drive Business Growth",
+        "TSX Penny Stock Insights Featuring Pulse Seismic And Two More Companies",
+        "TSX Penny Stocks To Watch In December 2025",
+        "TSX Penny Stocks Under CA$500M Market Cap To Watch"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 1,
+      "confidence": 0.2,
+      "rationale": "Generic news articles"
+    },
+    {
+      "symbol": "CNC.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Canada Nickel's Crawford Project Clears Penultimate Federal Permitting Hurdle",
+        "Canada Nickel Provides Corporate Update",
+        "Canada Nickel Secures Agreements with Hydro One to Commence Engineering for Crawford Nickel Project Power Connection",
+        "Canada Nickel Achieves Significant Permitting Milestone for Crawford Nickel Project",
+        "Canada Nickel Announces Filing of NI 43-101 Technical Report for Previously Announced Updated Resource, Reid Nickel Sulphide Project",
+        "Canada Nickel Announces Significant Awaruite at Midlothian Property"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "AGX.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Silver X Mining Begins Trading on OTCQX, Expanding Access to U.S. Investors",
+        "OTC Markets Group Welcomes Silver X Mining Corp. to OTCQX",
+        "Silver X Delivers Strong 2025 Financial Results with Margin Expansion and Clear Path to Growth",
+        "Silver X Mining Corp. Announces Appointment of Mark NJ Ashcroft to Board of Directors",
+        "Silver X Intersects up to 17.86 m True Width at Blenda Rubia, Advancing Scalable Mining Strategy",
+        "Silver X Delivers Production Growth During the First Quarter of 2026"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "COSA.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Traction Uranium Announces Survey Specifications for High-Resolution Airborne Radiometric and Magnetic Survey at the Aurora Uranium Project, Saskatchewan",
+        "Cosa Reports Anomalous Uranium in Sandstone at Darby Joint Venture with Denison Mines",
+        "Traction Uranium Announces Airborne Radiometric Survey Contractor for the Aurora Uranium Project, Saskatchewan",
+        "Traction Uranium Outlines 2026 Exploration Roadmap for the Aurora Uranium Project, Saskatchewan",
+        "Traction Uranium Announces Spring Exploration Plans for the Aurora Project in the Southeastern Athabasca Basin",
+        "Global Uranium Completes Phase 1 Earn-In at Astro Project and Secures Initial 20% Interest"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "ALV.V",
+      "sector": "Energy",
+      "headline_count": 6,
+      "headlines": [
+        "Alvopetro Energy\u2019s Record Gas Sales And Contracts Shift Risk Profile",
+        "Alvopetro reports record Q1 sales volumes, higher revenue and earnings",
+        "Nasdaq leads Wall Street higher after stronger-than-expected jobs report",
+        "Alvopetro Energy Ltd. (ALVOF) Q1 Earnings and Revenues Beat Estimates",
+        "Alvopetro Announces Q1 2026 Financial Results and Details for Our Upcoming AGM",
+        "Alvopetro maintains steady production in April while advancing Murucututu drilling"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "AVN.V",
+      "sector": "Energy",
+      "headline_count": 6,
+      "headlines": [
+        "Avanti Helium Advances Sweetgrass Toward Mid-Year Production with Initial Plant Mobilization Payment Installment",
+        "Helium Stocks Soar on Conflict and Chip Demand: 5 Names to Know",
+        "Avanti Helium Urges U.S. Government to Designate Helium as a Critical Mineral Amid Rising Supply Risks",
+        "Avanti Helium Executes Definitive Agreement for U.S.-Based Helium Processing Plant",
+        "Avanti Helium Signs MOU For Existing U.S.-based Helium Processing Plant",
+        "Avanti Helium Signs Agreement For Existing U.S.-Based Helium Processing Plant to Accelerate Sweetgrass Production Timeline"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "CTM.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Canterra Minerals Completes Winter Drilling and Commences Geophysical Survey at Critical Minerals and Gold Projects in Central Newfoundland",
+        "Atrium Research Initiates Research Coverage on Canterra Minerals Corp",
+        "We're Keeping An Eye On Canterra Minerals' (CVE:CTM) Cash Burn Rate",
+        "Canterra Minerals Engages Atrium Research to Enhance Investor Visibility and Institutional Reach",
+        "Canterra Minerals Extends Lundberg Deposit with 86m of 0.91% CuEq at Buchans Project, Newfoundland",
+        "Canterra Launches Fully Funded 15,000 Metre Discovery-Focused Drill Program in Newfoundland"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "KFR.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Kingfisher Metals Announces Fully Funded 2026 Exploration Program",
+        "Kingfisher Metals Confirms Early Jurassic Porphyry Mineralization Across Hank-Mary District, a Fertile Window Between Mitchell Cu-Au and Brucejack Au-Ag Deposits",
+        "Kingfisher Metals Outlines New Drill Target at HWY 37 Project in British Columbia",
+        "Kingfisher Outlines New Porphyry Target 6 km from Highway and Power, HWY 37 Project, Golden Triangle",
+        "Kingfisher Appoints Sharon G.K. Singh to Board of Directors",
+        "Kingfisher Says Multiple Geophysical Datasets \"Support Increased Target Dimensions\" at Hank Copper-Gold Discovery"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "LCX.V",
+      "sector": "Energy",
+      "headline_count": 6,
+      "headlines": [
+        "Lycos Energy Inc. Announces Initial Results from Moonshine Well, 2026 Capital Budget and Appointment to Board of Directors",
+        "Lycos Energy Inc. Announces 2025 Results",
+        "Lycos Energy Inc. Announces Closing of Business Combination with Mahikan Oil Corp. and Equity Financing",
+        "Lycos Energy Inc. Announces Strategic Business Combination with Mahikan Oil Corporation and $30.0 Million Equity Offering",
+        "Lycos Energy Inc. Announces 2025 Reserves",
+        "Lycos Energy Inc. Announces Retirement of Kel Johnston from Board"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "HEVI.V",
+      "sector": "Energy",
+      "headline_count": 6,
+      "headlines": [
+        "Is Helium Evolution (CVE:HEVI) In A Good Position To Invest In Growth?",
+        "Helium Evolution Announces Filing of Year End 2025 Financial Results",
+        "Helium Evolution Announces Completion of Grasslands 3D Seismic Program, Board Update and Strengthening Helium Market Outlook",
+        "Helium Evolution Announces Grant of Stock Options",
+        "Helium Evolution Appoints Malcolm Adams as President, CEO and Director",
+        "Helium Evolution Announces Seismic Program, Pooling Agreement and Provides Operations Update"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "LTC.V",
+      "sector": "Energy",
+      "headline_count": 6,
+      "headlines": [
+        "Lotus Creek Exploration Inc. Announces Results of Annual Shareholder Meeting and New Corporate Presentation",
+        "Lotus Creek Exploration Inc. Announces First Quarter 2026 Operating Results and Expanded Capital Budget",
+        "Lotus Creek Exploration Inc. Announces Non-Core Asset Disposition and Completion of the Borrowing Base Review",
+        "Lotus Creek Exploration Inc. Announces January Operational Update to Shareholders and Stock Option Grant",
+        "Lotus Creek Exploration Inc. Announces Fourth Quarter 2025 Operating Results, Year-End Reserves Summary and Operational Update",
+        "Don Gray announces Disposition of Shares of Lotus Creek Exploration Inc."
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "INTR.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Intrepid Metals Higher As Extends Tombstone South Option Agreement",
+        "Intrepid Metals Extends Tombstone South Option Agreement",
+        "Intrepid Metals Launches Phase 1 Exploration Program; Continued Strong Warrant Exercise Participation",
+        "Intrepid Metals Announces Integrated 2026 Exploration Program Targeting Porphyry and CRD Mineralization at Corral Copper",
+        "Pleasing Signs As A Number Of Insiders Buy Intrepid Metals Stock",
+        "Intrepid Metals Raises Over C$6 Million Through Strong Warrant Exercise Participation"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "LG.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Lahontan Gold \u2013 Historic Mine Poised for a Comeback",
+        "Lahontan Announces Warrant Acceleration",
+        "Lahontan to Drill Historic Santa Fe Heap Leach Pads for Residual Gold & Silver",
+        "Lahontan Reports Cyanide Recoveries of 81% for Gold and 60% for Silver at West Santa Fe",
+        "Lahontan Closes Final Tranche of Private Placement For an Aggregate of $13.6M",
+        "Lahontan Closes Third Tranche of Private Placement for an Aggregate of $13.2M"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "GMG.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Graphene Manufacturing Group signs Brisbane lease as it prepares global expansion",
+        "GMG Leases New Site for Production & Office Expansion",
+        "Graphene Manufacturing Group coating technology selected for luxury tower project in Australia",
+        "GMG's THERMAL-XR to Be Applied on up to 600 Air Conditioners for Two Luxury Towers in Australia",
+        "Graphene Manufacturing Group Ltd. (OTCQX: GMGMF) Signs with New to The Street for Multi-Part Series Across National TV, Iconic Outdoor Billboards, Earned Media, and NewsOut Distribution",
+        "Graphene Manufacturing Group eyes global scale-up after landmark graphene patent approval"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "HBFG.CN",
+      "sector": "Consumer Staples",
+      "headline_count": 6,
+      "headlines": [
+        "Happy Belly Food Group's Heal Wellness QSR Secures Real Estate Location for Multi-Unit Franchisee in the City of Halifax, Nova Scotia.",
+        "Happy Belly Food Group's Heal Wellness QSR Secures Real Estate Location for Multi-Unit Franchisee in the City of Vaughan, Ontario",
+        "Happy Belly Food Group's iQ Food Co. Announces the Signing of a 5-Unit Term Sheet in Calgary, Alberta",
+        "Happy Belly Food Group's Heal Wellness QSR Secures Real Estate Location for Multi-Unit Franchisee in Sylvan Lake, Alberta",
+        "Happy Belly Food Group Announces the Signing of a Binding Agreement to Acquire 50% of Ghost Taco Fast Casual Restaurant Chain",
+        "Happy Belly Food Group Reports $63.1M in System Wide QSR Sales Up 108% Growth YOY in Record Breaking Fiscal 2025"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "GHRT.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Dundee And 2 Other TSX Penny Stocks To Enhance Your Portfolio",
+        "Greenheart Gold Announces New Director Appointment",
+        "Greenheart Gold Announces Closing of Its Previously Announced C$59,850,000 Non-Brokered Private Placement of Common Shares",
+        "Greenheart Gold Announces Corporate Update",
+        "Greenheart Gold Announces Upsize of Non-Brokered Private Placement of Common Shares to C$59,850,000",
+        "La Mancha Investments S. \u00e0 r. l. to File Early Warning Report"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "HIVE.V",
+      "sector": "Financials",
+      "headline_count": 6,
+      "headlines": [
+        "HIVE invests $3.1M to Eastern Canada\u2019s first sovereign AI factory project",
+        "HIVE Digital Technologies\u2019 BUZZ advances New Brunswick AI data center with fibre network upgrade",
+        "Nasdaq leads Wall Street higher after stronger-than-expected jobs report",
+        "Is HIVE Digital Technologies (TSXV:HIVE) Quietly Redefining Its Core Identity Around AI Infrastructure?",
+        "HIVE Digital bets its Bitcoin infrastructure can power the AI boom",
+        "Wall Street analysts maintain buy rating for HIVE Digital stock"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "GWM.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Here's Why We're Not Too Worried About Galway Metals' (CVE:GWM) Cash Burn Situation",
+        "Slam Drilling 40.5 g/t Gold Vein on the Jake Lee Gold Project",
+        "Galway Metals Intersects 6.1 g/t Gold over 19.0m Including 18.3 g/t over 3.0m",
+        "SLAM Trenching New Gold Targets Near The No. 1 Gold Vein Discovery at Jake Lee",
+        "Galway Launches District-Scale Geophysical Program to Accelerate Gold Discovery at Clarence Stream",
+        "Galway Metals Intersects Thick Gold-Antimony Mineralization at South Deposit, Including 6.1 g/t Au and 0.7% Sb Over 28.0m"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "GSVR.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Guanajuato Silver Announces Year-End and Q4 2025 Results",
+        "Guanajuato Silver Files Technical Report for Bolanitos Mine",
+        "A Look At Guanajuato Silver (TSXV:GSVR) Valuation After David Paxton Joins The Board",
+        "Guanajuato Silver Adds Veteran Mine Operator to Board of Directors",
+        "OTCQX Best 50 Virtual Investor Conference: Presentations Now Available for Online Viewing",
+        "Companies from the OTCQX Best 50 2026 to Present at Virtual Investor Conference on March 19th"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "ASE.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Asante Reports Fourth Quarter and FY2025 Results",
+        "Asante Provides Operations Update",
+        "Asante Gold Announces Appointment of Chief Operating Officer and Management and Board Changes",
+        "Asante Gold Closes Previously Announced Non-Brokered Private Placement",
+        "Asante Gold (TSXV:ASE) Valuation Check After Major Private Placement And Recent Share Price Moves",
+        "Asante Gold Closes C$179.4 Million Bought Deal Private Placement; Shares up 4%"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "AGA.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Silver47 Reports New High-Grade Rock Sample Results from the Expanded Kennedy Gold-Silver Project, Nevada",
+        "Silver47 Announces Mogollon Project Anniversary Payment",
+        "Silver47 Triples the Size of the Kennedy Gold-Silver Project in Nevada by Staking 4,150 Additional Acres Targeting High-Grade Veins",
+        "Kinvestor Mining & Energy 2026 Virtual Investor Conference: Presentations Now Available for Online Viewing",
+        "Silver47 Exploration Invited to Join DARPA-Sponsored Critical Minerals Forum",
+        "Kinvestor Mining & Energy 2026 Virtual Investor Conference Agenda Announced for March 26, 2026"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "AUXX.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Gold X2 Expands 2026 Drilling Campaign to 160,000 Meters; Eight Drill Rigs Operating by the End of June",
+        "Gold X2 Intersects Several Shallow, High-Grade Intercepts in the Superion Zone Including 6.10m of 10.4 g/t Au",
+        "Gold X2 Files 2025 Year-End Disclosure Documents",
+        "Gold X2 QES Drilling Intercepts 100.75m of 1.50 g/t Au from 495m Including 14m of 3.94 g/t Au from 542m at the Base of the Resource Pit",
+        "Gold X2 Announces New Superion Shear with Intercept of 9.0m of 3.13 g/t Au Including 3.95m of 6.94 g/t Au",
+        "Gold X2 Announces the Appointment of Amiel Blajchman as VP of Sustainbaility"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "CGNT.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Copper Giant Begins Planned Comprehensive PEA for the Mocoa Copper-Molybdenum System with Globally Recognized Development Team",
+        "Copper Giant, Working with the Colombian Government, Secures Long-Term Development Framework at Mocoa; Third Drill Rig Now Operational",
+        "Copper Giant Resources Says Its First Directional Daughter Holes Beat Resource Model at It Mocoa Project",
+        "Copper Giant's First Directional Daughter Holes Beat Resource Model at Mocoa, Returning 0.97% CuEq (0.70% Cu and 0.051% Mo) Over 68m Within 371m of 0.53% CuEq (0.40% Cu and 0.02% Mo), While Continuing to Identify Higher Grades at the Southern Margin of Mocoa",
+        "Copper Giant Targets New Porphyry Centers Beyond Mocoa Resource with Third Drill Rig",
+        "Copper Giant Down 12% as It Reports Latest Results From the Mocoa Project in Colombia"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "ARTG.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Artemis Gold Reports Solid Q1 2026 Financial and Operating Results",
+        "A Look At Artemis Gold (TSXV:ARTG) Valuation As Growth At Blackwater Drives Contrasting Signals",
+        "Artemis Gold Announces Granting of Stock Options and Share Units",
+        "Artemis Gold Resumes Full Milling Operations at Blackwater",
+        "Artemis Gold Appoints George Salamis to Board of Directors",
+        "Artemis Gold Reports Unplanned Mill Shutdown at Blackwater"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "AMQ.CN",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Abitibi Metals Secures Up to C$30.75 Million in Strategic Financing Led by Discovery Silver",
+        "A Look At Discovery Silver\u2019s Valuation As Porcupine Output Grows And Kidd Acquisition Progresses",
+        "Abitibi Metals to Raise $30.8 Million Via Non-Brokered Financing Led by Discovery Silver, With 9.9% Strategic Stake",
+        "Abitibi Metals Announces Non-Brokered Financing Led by Discovery Silver, with a 9.9% Strategic Stake",
+        "Abitibi Metals Expands Western Down-Plunge Zone with 150m Step-Out, Intersecting 2.71% CuEq over 7m within 1.81% CuEq over 15m",
+        "Abitibi Metals Achieves Early Exercise of B26 Option, Securing 80% Ownership of the High-Grade Copper-Gold Project in Quebec"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "LUNR.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "NGEx Reports Wider Q1 Loss; But Phase 4 Lunahuasi Drill Program Continues to Highlight Size, Grade and Upside",
+        "LunR Royalties Announces Mailing and Filing of Materials for the Annual General and Special Meeting to Approve the Previously Announced Fruta del Norte Transaction",
+        "LunR Royalties Entered Into Silver Stream Agreements for Fruta Del Norte Mine",
+        "Lundin Gold Executes Definitive Silver Stream Agreement with LunR Royalties",
+        "LunR Royalties Signs Definitive Silver Stream Agreement for the Previously Announced Fruta Del Norte Transaction",
+        "We Think LunR Royalties (CVE:LUNR) Can Easily Afford To Drive Business Growth"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "LTH.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Lithium Ionic Initiates Mine Operations Contractor Tenders and Provides Bandeira Development & Community Engagement Update",
+        "Lithium Ionic Responds to Shareholder Requisition",
+        "Lithium Ionic Announces Grant of Management Cease Trade Order and Status Report",
+        "Lithium Ionic Announces Application for Management Cease Trade Order",
+        "Lithium Ionic Announces Board and Management Changes",
+        "Lithium Ionic Acknowledges Receipt of Shareholder Requisition"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "LUCA.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "TSX Penny Stocks To Watch In May 2026",
+        "Precious Metals & Critical Minerals Virtual Investor Conference: Presentations Now Available for Online Viewing",
+        "Luca Intersects 6.8 Metres of 5.5 g/t Gold Equivalent at Tahuehueto Mine - Further Expanding High-Grade Mineralization Proximal to Existing Workings",
+        "Precious Metals & Critical Minerals Virtual Investor Conference Agenda Announced for May 5th \u2013 7th",
+        "Luca Mining Maintained at Buy at Stifel Canada After Campo Morado Drill Results; Price Target Kept at C$4.00",
+        "Luca Mining Provides New Underground Drill Results From Ongoing Exploration Program at Campo Morado Polymetallic VMS mine in Guerrero State"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "MFG.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Update: Mayfair Gold Appoints Drew Anwyll As CEO; Shares Down 3.85% To Near 52 Week Lows in US Premarket",
+        "Mayfair Gold Appoints Drew Anwyll As CEO; Shares Down 3.85% To Near 52 Week Lows in US Premarket",
+        "Mayfair Gold Appoints Drew Anwyll, P.Eng., as CEO",
+        "Mayfair Gold Provides Q1 Progress Update on Fenn-Gib Gold Project",
+        "Mayfair Gold Provides Update on Project Work in the First Quarter of 2026 Advancing and Derisking the Fenn-Gib Gold Project",
+        "MAYFAIR COMPLETES PRIVATE PLACEMENT WITH KEVIN ANNETT"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "LIB.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "LibertyStream Strengthens Lithium Platform with Faster Cycle Times, Improved Reliability, and On-Site Lithium Carbonate Production",
+        "LibertyStream Completes Texas Incorporation, Advancing U.S. Listing Pathway and American Growth Strategy",
+        "LibertyStream Announces the Appointment of Michael Bodino to its Board of Directors",
+        "LibertyStream Commences Lithium Carbonate Production at Select Water Solutions Facility and Secures First U.S. Purchase Order",
+        "LibertyStream Shareholders Approve Texas Re-Domiciliation as Company Advances U.S. Listing Pathway and Texas Build-Out",
+        "LibertyStream Begins Installation and Integration of DLE Extraction and Refining Systems at Select Water Solutions\u2019 Site; Initial Production Expected Early Q2"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "MGG.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Minaurum Drills High-Grade Silver on the Quintera Vein Zone at the Alamos Silver Project: 5.30 m of 570 g/t Ag, Including 2.50 m of 1,024 g/t Ag and 5.80 m of 581 g/t Ag",
+        "Minaurum Files Technical Report on Alamos Silver Project",
+        "Minaurum Accelerates Exploration at Alamos Silver Project; Expands to Six Drill Rigs and Reports Additional Results",
+        "Minaurum Drills High-Grade Silver in 250 m Step-Out at Alamos Silver Project: 12.35 m of 408 g/t AgEq, including 3.20 m of 1,277 g/t AgEq",
+        "Minaurum Announces Initial Resource Estimate at Alamos Silver Project of 55 Million Ounces AgEq Grading 320 g/t AgEq",
+        "Minaurum Gold Announces Name Change To Minaurum Silver Inc"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "ITR.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Integra Resources Corp. (ITRG) Q1 Earnings Lag Estimates",
+        "INTEGRA REPORTS FIRST QUARTER 2026 RESULTS; RECORD TOTAL TONNES MINED, AND STRENGTHENED FINANCIAL POSITION",
+        "Integra Resources Corp. (ITRG) Earnings Expected to Grow: Should You Buy?",
+        "INTEGRA RECEIVES FINAL APPROVAL OF EXPLORATION PLAN OF OPERATIONS FOR THE WILDCAT DEPOSIT, ADVANCING NEVADA NORTH PROJECT TOWARD PRE-FEASIBILITY STUDY",
+        "INTEGRA ANNOUNCES FIRST QUARTER PRODUCTION RESULTS FROM THE FLORIDA CANYON MINE AND STRENGTHENED BALANCE SHEET",
+        "INTEGRA ANNOUNCES RESULTS FROM NEAR-MINE OXIDE GOLD DRILLING AT FLORIDA CANYON, INCLUDING 138 METRES AT 0.32 G/T AU AND 128 METRES AT 0.36 G/T AU, HIGHLIGHTING NEAR-MINE GROWTH AND MINE LIFE EXTENSION POTENTIAL"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "LIO.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Lion One Appoints Eric Setchell Director of Operations, Provides Operations Update for Tuvatu",
+        "Lion One Provides Corporate Update",
+        "Lion One Provides Strategic Operational Update for March 2026",
+        "Lion One Announces Formation of Special Committee and Responds to Request for Shareholder Meeting",
+        "Lion One Provides Clarification on Mining Methods at the Tuvatu Gold Mine",
+        "Lion One Completes Commissioning of New Float Plant at Tuvatu"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "KTN.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Video - CEO Clips: Kootenay Silver Expands Columba Discovery with Ongoing Drill Program",
+        "Is Kootenay Silver\u2019s (TSXV:KTN) Expanded Columba Drilling Deepening Its Long-Term Project Conviction?",
+        "Kootenay Silver Provides an Update on Activities",
+        "A Look At Kootenay Silver\u2019s Valuation As The Columba Geophysical Survey Gets Underway",
+        "Columba drilling returns 10 meters of 503 gpt silver, 0.1% lead, 0.6% zinc and 9.88 meters of 319 gpt silver, 0.1% lead and 0.6% zinc from the Columba Drill Program",
+        "Kootenay Silver Starts 3D-IP and AMT Geophysical Survey at Columba Silver Project, Chihuahua, Mexico"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "MAXX.CN",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Max Power Appoints Tony Van Burgsteden as CFO to Support Commercial Advancement of Saskatchewan\u2019s First Subsurface Natural Hydrogen System",
+        "MAX Power Engages GLJ Ltd. to Advance Commercial Evaluation of  Lawson Natural Hydrogen Discovery",
+        "3D Seismic Survey Materially Expands Lawson Natural Hydrogen Discovery Target Area",
+        "MAX Power Announces AGSM Results and Appointment of New Director",
+        "Max Power Mining Advancing Its Natural Hydrogen Portfolio in Saskatchewan",
+        "MAX Power Advances Basin-Scale Discovery Potential with Multi-Zone Natural Hydrogen and Helium Intervals at Bracken"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "MAI.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Minera Alamos Strengthens Board and Management Team and Proposes Name Change to Mining Americas Inc.",
+        "Minera Alamos Reports Fourth Quarter and Full Year 2025 Results; Record Quarterly Revenue of C$43.6 Million and Record Earnings from Mine Operations of C$20.1 Million",
+        "Minera Alamos Reports First Quarter 2026 Gold Production of 8,734 Ounces; Cash Balance Increased to $46 Million",
+        "Minera Alamos Moves to Strengthen Balance Sheet with Executed Term Sheet for US$75 Million Revolving Credit Facility from Scotiabank and National Bank",
+        "Summit Royalties Moves To Buy Star Royalties in All-Shares Transaction Valued at $51 Million",
+        "Minera Alamos Updates Resources and Reserves for the Pan Gold Mine in Nevada"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "LMN.V",
+      "sector": "Technology",
+      "headline_count": 6,
+      "headlines": [
+        "Shareholders Can Be Confident That Lumine Group's (CVE:LMN) Earnings Are High Quality",
+        "Constellation Software Inc., Topicus.com Inc. and Lumine Group Inc. Announce Update to Schedule for Annual Meetings",
+        "Assessing Lumine Group (TSXV:LMN) Valuation After First Quarter Earnings Show Mixed Profit And Revenue Trends",
+        "Lumine Group Inc. Announces Results for the Three Months Ended March 31, 2026",
+        "RBC Provides its Canadian Technology Q1/CY26 Preview",
+        "Constellation Software Inc., Topicus.com Inc. and Lumine Group Inc. Announce Annual Meetings"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "NEXM.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "NexMetals Expands the Selebi System Intersecting 10.40 Metres of 6.82% CuEq (3.09% Cu, 1.83% Ni) at Selebi Main, 320 Metres Beyond the 2024 MRE",
+        "NexMetals Reports Metallurgical Results Confirming Separate High Grade Saleable Cu-Ni-PGE Concentrates and Demonstrating Improved Recoveries at Selkirk",
+        "Eastport Critical Metals Announces Selebi-East Project Update and Appointment of Global One Media",
+        "NexMetals Announces Board of Directors' Nominees for Its Upcoming Annual General Meeting of Shareholders",
+        "NexMetals Reports Final Drill Results from Its 2025 Selebi North Underground Program; Confirms High-Grade Continuity with 18.80 Metres of 4.69% CuEq (2.10% Cu and 1.26% Ni)",
+        "NexMetals Mining (NEXM) Extends Selebi Flexure Zone With New Massive Sulphide Intercept"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "MGM.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Maple Gold Provides Notice of Warrant Acceleration",
+        "Maple Gold Reports Updated Mineral Resource Estimate for the Douay/Joutel Gold Project, Qu\u00e9bec, Including a Maiden High-Grade Underground Mineral Resource Estimate at Joutel",
+        "Maple Gold Expands Gold System at Douay with Broad Step-Out Intercepts; 1.1 g/t Au over 74 m, Including 2.8 g/t Au over 13.5 m, in the Nika Zone and 1.0 g/t Au over 138 m, Including 3.1 g/t Au over 9 m, in the Porphyry West Zone",
+        "Maple Gold Announces Annual Equity Incentive Plan Grants",
+        "Maple Gold Reports Multiple High-Grade Gold Intercepts from Continued Step-Out Drilling at Joutel, Including 17.9 g/t Gold over 3.9 Metres Within 8.6 g/t Gold over 10.4 Metres in the Telbel Mine Area",
+        "Maple Gold Announces Early Exercise of Warrants by Michael Gentile"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "NDA.V",
+      "sector": "Financials",
+      "headline_count": 6,
+      "headlines": [
+        "TSX Penny Stocks To Watch: 3 Companies Under CA$200M Market Cap",
+        "Neptune Digital investing in Elon Musk businesses, says H.C. Wainwright",
+        "3 TSX Penny Stocks With Market Caps Over CA$80M To Watch",
+        "TSX Penny Stocks Spotlight GoldMining And 2 Others",
+        "TSX Penny Stocks To Watch In September 2025",
+        "TSX Penny Stock Spotlight: Neptune Digital Assets And 2 Other Promising Picks"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "NFG.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "New Found Gold Continues to Confirm Continuity of The AFZ Core and Intersect New Mineralization at Depth at The Queensway Gold Project",
+        "3 Undervalued Small Caps In Global With Insider Action",
+        "April 2026's TSX Growth Leaders With Strong Insider Ownership",
+        "A Look At New Found Gold (TSXV:NFG) Valuation As Shares Trade At A Discounted 2.5x P/B",
+        "PALISADES ANNOUNCES LOAN FACILITY WITH BANK OF MONTREAL AND CONVERSION OF NOTE INTO COMMON SHARES",
+        "New Found Gold Closes Bought Deal Financing Including Full Exercise of Underwriters' Over-Allotment Option for Gross Proceeds of $115M"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "NSE.V",
+      "sector": "Energy",
+      "headline_count": 6,
+      "headlines": [
+        "New Stratus Energy Announces Filing of 2025 Year End Financials & Corporate Updates",
+        "New Stratus Energy Announces Results for the Three and Nine Months Ended September 30, 2025 & Corporate Updates",
+        "New Stratus Energy Announces Execution of Definitive Farm-Out Agreement with Vultur Oil",
+        "New Stratus Energy Announces Results for the Three and Six Months Ended June 30, 2025 & Corporate Updates",
+        "New Stratus Energy Announces Formal Application for Block 192 in Peru",
+        "New Stratus Energy Inc. Engages ICP Securities Inc. for Automated Market Making Services"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "MLP.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Millennial Potash launches Phase 3 drill program at Banio potash project in Gabon",
+        "Millennial Announces Initiation of Phase 3 Drill Program at Its Banio Potash Project",
+        "Millennial Potash increases Banio potash project interest to 80%",
+        "Millennial Completes Milestone Payment and Increases Ownership of Its Banio Potash Project to 80%",
+        "Millennial Potash advances DFS, ESIA as Banio project development gathers pace",
+        "Millennial Reports Continuous Progress at Its Banio Potash Project"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "NCAU.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Newcore Gold Drilling Intersects 1.23 g/t Gold over 33.0 Metres, Including 2.16 g/t Gold over 13.0 Metres, at the Enchi Gold Project, Ghana",
+        "Newcore Gold Files Technical Report for the Updated Mineral Resource Estimate for the Enchi Gold Project, Ghana",
+        "Newcore Gold Provides Additional Drill Results from Enchi Project in Ghana",
+        "Newcore Gold Drilling Intersects 1.59 g/t Gold over 15.5 Metres, Including 3.22 g/t Gold over 6.4 Metres, at the Enchi Gold Project, Ghana",
+        "Newcore Gold Ltd.'s (CVE:NCAU) Path To Profitability",
+        "Newcore Gold Provides Updated Mineral Resource Estimate for Enchi Gold Project, Ghana"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "NEXG.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "NexGold Initiates VTEM\u2122\u00a0and FALCON\u00ae Gravity Airborne Geophysical Surveys at Goldboro and Announces Appointment of New Board Member",
+        "NexGold Intersects 14.10 g/t Gold Over 6.0 Metres, 2.99 g/t Gold over 20.0 Metres and 10.67 g/t Gold Over 7.0 Metres at the Goldlund Deposit, Ontario",
+        "NexGold Intersects 1.79 g/t Gold Over 25.6 Metres at the Goldlund Deposit, Ontario",
+        "NexGold Initiates 30,000-Metre Infill Drill Program\u00a0at the Goldboro Gold Project in Nova Scotia",
+        "Video - CEO Clips: NexGold Advances Plans to Build a Mid-Tier Gold Producer",
+        "NexGold Intersects 9.30 g/t Gold Over 11.0 Metres and 2.31 g/t Gold Over 21.5 Metres at the Goldlund Deposit, Ontario"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "OMG.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Omai Gold Intersects 3.86 g/t Au over 23.8m and 3.49 g/t Au over 16.9m at Wenot and Plans Drill Hole to Test Depth Potential of Gilt Deposit",
+        "We're Hopeful That Omai Gold Mines (CVE:OMG) Will Use Its Cash Wisely",
+        "Olive Resource Capital Provides Update on Investments for April 2026",
+        "Omai Gold Mines Up Near 10%, Posts 52 Week High, As Lifts Indicated Mineral Resources With Expansion of Wenot and Gilt Deposits",
+        "Omai Gold Increases Indicated Mineral Resources to 2.5 Moz Au at 2.04 g/t Au (38.1 Mt) and Inferred to 5.5 Moz Au at 1.59 g/t Au (106.6 Mt) with Expansion of Wenot and Gilt Deposits",
+        "Olive Resource Capital Provides Update on Investments for March 2026"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "ODV.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Osisko Development Reports First Quarter 2026 Results",
+        "Osisko Development Appoints Vice President, Construction Contracting and Commercial",
+        "BTV Spotlights: Alkane Resources, Mineros S.A., Osisko Development, Contango Silver & Gold, Lion Copper and Gold, North American Iron, & Elemental Royalty",
+        "Assessing Osisko Development\u2019s Valuation After 2025 Results Show Higher Sales And A Deeper Net Loss",
+        "Osisko Development Announces Annual Grant of Incentive Awards",
+        "VIDEO - BTV Visits Equinox Gold, Mineros, Elemental Royalty, 5E Advanced Materials, Alkane Resources, Contango Silver & Gold, and Osisko Development"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "NILI.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Surge Battery Metals Announces Application to List on NASDAQ Capital Markets",
+        "Surge Battery Metals Inc. Announces Investor Relations and Marketing Agreements",
+        "ExGen Signs Purchase Agreement to Acquire Lithium Properties in Nevada",
+        "Surge Battery Metals Announces Additional CA$2.1 Million Advance by Evolution Mining to Nevada North Lithium LLC",
+        "Surge Battery Metals Engages Kemetco for Advanced Prefeasibility Metallurgical Testing at the Nevada North Lithium Project",
+        "Is Evolution Mining (ASX:EVN) Quietly Recasting Its Gold Identity With This Lithium Push?"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "PHOS.CN",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "First Phosphate keeps Noble analysts bullish on vertically integrated battery materials plan",
+        "First Phosphate strengthens treasury as it advances feasibility study - ICYMI",
+        "Precious Metals & Critical Minerals Virtual Investor Conference: Presentations Now Available for Online Viewing",
+        "Join First Phosphate's Exclusive Live Investor Webinar and Q&A Session on May 12",
+        "First Phosphate Announces Engagement of Investor Relations Firm",
+        "First Phosphate shares surge as Agnico Eagle-backed Avenir moves into igneous phosphate"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "NCX.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Coast Copper Advances Modelling of its Copper Kettle Project, Northern Vancouver Island",
+        "Northisle Announces the Passing of Chairman Dale Corman",
+        "Northisle Announces Expansion of Executive and Technical Advisory Team",
+        "NorthIsle Copper and Gold up 7% as Reports Latest Drill Results",
+        "Northisle Announces Infill Drill Results at Northwest Expo Extend Strike and Add New High-Grade Intervals",
+        "Northisle Announces Closing of $115 million Financing"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "MOON.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Blue Moon Metals Announces Closing of C$156 Million \"Bought Deal\" Offerings",
+        "Blue Moon Metals (BMM) Approves Final Investment Decision for Nussir Project Construction in Norway",
+        "Blue Moon Metals Inc. (BMM) Announces Consolidation of Springer Tungsten Claims Through Acquisition of Claims from GoldPlay LLC and a Private Party",
+        "Blue Moon Metals (BMM) Completes Nussir Project Feasibility Study Outlining 13-Year Mine Life",
+        "Blue Moon Consolidates Springer Tungsten Claims with Acquisition of Claims from GoldPlay LLC and a Private Party",
+        "Blue Moon Metals Confirms Final Investment Decision to Construct Nussir Project Mine, Intention to Construct the Springer Tungsten Mine and Concurrent C$150 Million Bought Deal Equity Offerings"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "NFD-A.V",
+      "sector": "Financials",
+      "headline_count": 6,
+      "headlines": [
+        "Northfield Completes Issuance Of Class B Multiple Voting Shares",
+        "Northfield Capital Completes Acquisition Of Additional Interest In Juno Corp. And Announces Issuance Of Class B Multiple Voting Shares",
+        "Northfield Deepens Strategic Investment in Juno Corp. By Increasing Ownership to 34.7%",
+        "Northfield Capital Announces Planned Name Change to Juno International Corp.",
+        "Northfield Announces Intention to Commence Normal Course Issuer Bid",
+        "Gold Hart Copper Corp. and Rhyolite Resources Ltd. Sign Letter Agreement for Proposed Business Combination and Concurrent Financing"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "NURS.V",
+      "sector": "Healthcare",
+      "headline_count": 6,
+      "headlines": [
+        "Victory Square Technologies Reports Fiscal 2025 Results Highlighting Platform Scaling, Healthcare Infrastructure Growth and Portfolio Momentum",
+        "Hydreight Reports Record Fiscal 2025 Results as VSDHOne Drives Rapid Growth and Platform Scale",
+        "Hydreight Technologies Completes $300,000 Strategic Investment in Insu Therapeutics; Shares Rose Near 6% Today",
+        "Hydreight Technologies Closes Strategic Investment in Insu Therapeutics",
+        "Hydreight Announces Normal Course Issuer Bid",
+        "Hydreight Technologies Invests in Insu Therapeutics to Advance Needle-Free Peptide Delivery Technology"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "NAU.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "NEVGOLD ANNOUNCES CLOSING OF UPSIZED $42M BROKERED PRIVATE PLACEMENT FINANCING",
+        "AE Fuels Corporation Announces Director Resignation",
+        "NEVGOLD ANNOUNCES UPSIZED $42MM BROKERED PRIVATE PLACEMENT FINANCING",
+        "NevGold Announces C$25M Brokered Private Placement Financing",
+        "NevGold Announces Positive, Consistent Drill Results on Historic Gold Leach Pads Including 0.34% Antimony And 0.41 g/t Au Over 12.5 Meters; Path to Near-Term Antimony Production Continues",
+        "NevGold Intercepts 1.11% Antimony Over 6.1 Meters, Within 1.93 g/t AuEq Over 100.6 Meters (1.07 g/t Au And 0.22% Antimony) From Surface; Focus On Maiden Antimony-Gold Mineral Resource Estimate and Near-Term Antimony Production"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "ONYX.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Onyx to Host Webinar on May 14, 2026 at 10:00am PT/1:00pm ET to Provide Update on Munro-Croesus Drill Program",
+        "Onyx Gold Expands Munro-Croesus Drill Program to 110,000 Meters And Adds Fourth Drill Rig",
+        "Onyx Gold Expands Munro-Croesus Drill Program to 110,000 Meters; Adds Fourth Drill Rig",
+        "Onyx Gold Drills New High-Grade Structure at Argus Main: 4.9 g/t Gold over 15.0 Meters Within 1.3 g/t Gold over 77.2 Meters; 2.9 g/t Gold over 12.5 Meters Within 1.2 g/t Gold over 99.5 Meters",
+        "Onyx Gold Confirms Western Expansion at Argus North with 2.3 g/t Gold Over 70.3 Meters, Including 28.6 Meters of 4.7 g/t Gold",
+        "Onyx Gold Named to the 2026 TSX Venture 50 Following Transformational Year of Discovery and Growth"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "SCZ.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Undiscovered Canadian Gems With Promising Potential In May 2026",
+        "Santacruz Silver Announces Publication of 2025 Sustainability Report for Bolivian Operations",
+        "Santacruz Reports Q1 2026 Production of 1,341,499 Ounces of Silver and 21,640 Tonnes of Zinc, with Continued Recovery of Production at Bolivar Mine",
+        "Santacruz Silver's Wholly Owned Bolivian Subsidiary, San Lucas, Successfully Completes Oversubscribed Bs 70M Promissory Note Issuance Under New Program, Advancing Transition from Prior Facility",
+        "Assessing Santacruz Silver Mining (TSXV:SCZ) Valuation After Recent Share Price Volatility",
+        "Santacruz Silver Reports Year End 2025 Financial Results"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "SCMI.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Selkirk Copper Discovers a New Mineralized Zone and Commences a Phase 2 Drill Program Targeting 50,000 Additional Metres",
+        "Selkirk Copper Announces Closing of Upsized $35 Million Bought Deal Private Placement",
+        "Selkirk Copper Reports Additional Intersections of High-Grade Cu-Au-Ag From the Phase 1 Drill Program at the Minto Copper-Gold-Silver Mine",
+        "Selkirk Copper Announces Private Placement as Selkirk First Nation Exercises Participation Right",
+        "Selkirk Copper Completes Phase 1 Drill Program and Assumes Site Responsibility for Minto Copper-Gold-Silver Mine",
+        "Selkirk Copper Announces Upsize of Bought Deal Private Placement to $30 Million"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "SGML.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Sigma Lithium Celebrated 1,010 Days Without Accidents and Zero Fatalities; Operations on Track to Reach 240ktpy Lithium Oxide; Categorically Responds to Inaccurate Media Reports",
+        "Has Sigma Lithium (SGML) Run Too Far After 225% One Year Share Price Surge?",
+        "Sigma Lithium (SGML) Valuation Check After Strong Recent Share Price Momentum",
+        "Sigma Lithium Corporation (SGML) Rises Yet Lags Behind Market: Some Facts Worth Knowing",
+        "Sigma Lithium to Release First Quarter 2026 Earnings Results on May 15, 2026",
+        "Why Is Sigma Lithium (SGML) One of the Mid-Cap Stocks With the Highest Gains in April?"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "SCD.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Scandium Canada to Take Part in Four Key Industry Events to Advance Commercial Partnerships and Investor Engagement",
+        "Scandium Canada Grants 2,100,000 Stock Options at $0.22 Under Shareholder-Approved Plan to Its Board Members and Management Team",
+        "One of the biggest opportunities in strategic minerals most investors don\u2019t know about",
+        "Overwhelming Shareholder Support at 2026 Annual Meeting; Scandium Canada Enters the Year Fully Funded to Advance PFS, Drilling Campaign and Al-Sc Alloys Qualification",
+        "Scandium Canada Announces Upsize of Bought Deal LIFE Offering of Units to $15 Million",
+        "Scandium Canada Announces $10 Million Bought Deal Life Offering of Units"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "SAG.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Copper Road Announces Closing of Non-Brokered Private Placement",
+        "Sterling Metals Provides Corporate Update",
+        "We're Hopeful That Sterling Metals (CVE:SAG) Will Use Its Cash Wisely",
+        "Sterling Metals Announces Sale Of Sail Pond Project",
+        "Copper Road Announces Closing of Financing",
+        "Sterling Metals Intersects 235.5m at 0.42% Cu and 0.042 g/t Au including 32.75m at 1.31% Cu and 0.11 g/t Au and Discovers New Bornite-Covellite Zone"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "SLG.V",
+      "sector": "Materials",
+      "headline_count": 3,
+      "headlines": [
+        "Mirasol Signs LOI for the Sale of the Rubi Copper Project for US$4 Million Plus 2% NSR Royalty",
+        "As Gold Breaks Higher, Whalen Global Advisors Releases \"Precious Metals Top 25\" with Micro-Cap Leader Up 300%",
+        "San Lorenzo Gold to Attend the 51st Annual New Orleans Investment Conference"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "SOI.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Sirios Adds $3.5 Million to Its Cash Reserves Following the Exercise of Warrants and Stock Options",
+        "Toronto Stock Exchange, Sirios Resources Inc., The View from the C-Suite",
+        "Sirios Announces Its Fully Funded 2026 Exploration Program",
+        "Sirios Strengthens its Executive Team and Announces Stock Option Grants",
+        "Sirios Resources Inc. Closes Fully-Subscribed $25 Million Brokered LIFE Offering of Flow-Through Units and Units",
+        "Sirios Resources to Close Fully-Subscribed $25 Million Brokered LIFE Offering"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "SLI.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Standard Lithium Corp (SLI) Q1 2026 Earnings Call Highlights: Major Milestones and Strategic ...",
+        "Standard Lithium Ltd. Q1 2026 Earnings Call Summary",
+        "Standard Lithium Reports First Quarter 2026 Results",
+        "Standard Lithium Ltd. (SLI) Inspiring Confidence with Arkansas Demonstration Plant",
+        "Standard Lithium Reaches Major Operational Milestones at Arkansas Demonstration Plant",
+        "Standard Lithium Ltd. Q4 2025 Earnings Call Summary"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "SICO.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Silverco Mining Executes Definitive Agreement for the Acquisition of Nuevo Silver",
+        "Silverco Mining Announces Filing of 2025 Audited Financial Statement and MD&A",
+        "Silverco Mining Releases Robust PEA for the Cusi Mine Highlighting High-Margin, Low Capital Restart",
+        "Silverco Mining Announces Key Advisory and Management Appointments to Drive Transition to Mid-Tier Mexican Silver Producer",
+        "Silverco Mining Announces U.S. OTCQB Listing Under the Symbol \"SICOF\"",
+        "Silverco Mining Commences 30,000-Meter 2026 Drill Program at Cusi, Targeting Massive Step-Out Potential and Regional Blue-Sky Prospects"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "SM.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Sierra Madre Reports Q4 and Year-End 2025 Financial Results, Positive Operating Performance",
+        "Sierra Madre Announces Shareholder Approval of Acquisition of Del Toro Silver Mine",
+        "Early Loan Repayment At La Guitarra Puts First Majestic Cash Flows In Focus",
+        "Sierra Madre Gold and Silver Repays US$2.5 Million of First Majestic Loan; Shares up 7.6%",
+        "Sierra Madre Repays US$2.5 Million of First Majestic Loan",
+        "Sierra Madre Gold and Silver (TSXV:SM) Is Down 7.7% After Detailing La Guitarra Expansion Plans - What's Changed"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "TAU.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Thesis Gold & Silver Identifies Two Distinct Porphyry Targets on the Lawyers-Ranch Project",
+        "Thesis Gold Raises $44 Million Via Previously Announced Private Placement",
+        "Thesis Gold & Silver Closes Strategic Investment by AngloGold Ashanti and Participation by Centerra Gold for C$44M",
+        "Thesis Gold Announces Strategic Investment by AngloGold Ashanti and Participation by Centerra Gold for C$44M",
+        "Thesis Gold Rebrands to Thesis Gold & Silver",
+        "CEO.CA Insights: Exclusive Interviews From Mining Leaders at VRIC 2026"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "SVRS.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Silver Storm mobilises contractors at La Parrilla mine",
+        "Silver Storm Announces Mobilization of Underground Mine Development Contractors at La Parrilla",
+        "Silver Storm's La Parrilla Mine Laboratory Construction Nears Completion",
+        "Silver Storm Drills 473 g/t Ag.Eq over 3.6 m and 137 g/t Ag.Eq over 12.0 m, Extends the San Nicolas Zone at Depth",
+        "Eric Sprott Announces Changes to His Holdings in Silver Storm Mining Ltd",
+        "Silver Storm Expands Senior Leadership and Technical Team"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "PINK.V",
+      "sector": "Healthcare",
+      "headline_count": 6,
+      "headlines": [
+        "PERIMETER MEDICAL IMAGING AI CLOSES LIFE OFFERING",
+        "Perimeter Showcases Claire\u2122 for Intraoperative Breast Cancer Margin Assessment at ASBrS 2026",
+        "Perimeter Medical Imaging AI Closes First Tranche of Non-Brokered Private Placement",
+        "Perimeter Medical Imaging AI Announces LIFE Financing and Concurrent Private Placement",
+        "Perimeter Medical Imaging AI to Participate in the 2026 Bloom Burton & Co. Healthcare Investor Conference",
+        "Perimeter Medical Imaging AI Inc (PYNKF) Q4 2025 Earnings Call Highlights: Record Revenue and ..."
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "PNG.V",
+      "sector": "Technology",
+      "headline_count": 6,
+      "headlines": [
+        "TSX Stocks Like Athabasca Oil And 2 Others Estimated To Be Trading Below Intrinsic Value",
+        "Kraken Robotics\u2019 (KRKNF) Seabed Warfare Partnership Expands With KATFISH Integration Deal in T\u00fcrkiye",
+        "Kraken Robotics Signs Memorandum of Understanding with SEFINE SISAM",
+        "Weak Statutory Earnings May Not Tell The Whole Story For Kraken Robotics (CVE:PNG)",
+        "Kraken Robotics (TSXV:PNG) Is Up 7.8% After 2025 Results, New Orders And Chairman Appointment \u2013 What's Changed",
+        "Kraken Robotics Inc (KRKNF) Q4 2025 Earnings Call Highlights: Record Revenue and Strategic ..."
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "PGLD.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Gabbs Project Feasibility Study: Nominal Production Rate Increased to 12 Million Tonnes per Year and Mill Operations Advanced to Year Three",
+        "P2 Gold Intersects 0.69 g/t Gold and 0.25% Copper Over 74.68 Meters, Including 1.32 g/t Gold and 0.38% Copper over 30.48 meters at Lucky Strike Zone",
+        "P2 Gold Upsizes Financing",
+        "P2 Gold Announces Financing by Strategic Investor",
+        "Couloir Capital Is Pleased to Announce That It Has Updated Its Research Coverage on P2 Gold",
+        "P2 Gold Reports Results From Additional Ten RC Drill Holes Drilled at Lucky Strike Zone"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "PNPN.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Precious Metals & Critical Minerals Virtual Investor Conference: Presentations Now Available for Online Viewing",
+        "Power Metallic Mines reports strong infill drilling results at Lion Zone, including second-best intersection to date",
+        "Lion Zone Delivers Second Best Intersection Ever As Power Metallic intercepts 22.00 Meters of 11.46% CuEqRec\u00b9 in Hole 26-095",
+        "BTQ Technologies And 2 Other TSX Penny Stocks To Watch Closely",
+        "Power Metallic reports wide, high-grade intervals in latest Lion Zone drill results",
+        "Precious Metals & Critical Minerals Virtual Investor Conference Agenda Announced for May 5th \u2013 7th"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "QIMC.CN",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "QIMC Intersects 243 m Natural Hydrogen Zone Including 163 m Continuous Elevated Interval at West Advocate (DDH-26-03) - Strongest Response to Date",
+        "QIMC Partners with Lambton College to Develop Hydrogen-Powered Modular Energy Systems for AI Data Centers",
+        "QIMC Intersects Major Fault Breccia System in DDH-26-03 at West Advocate and Reports Elevated Hydrogen 2.5 km from the Initial Discovery",
+        "QIMC Announces Closing of $17.3 Million Bought Deal Offering, Including Full Exercise of Underwriter's Over-Allotment Option",
+        "QIMC to Begin Drilling DDH-26-03 April 21, 2026; Expands Depth to 900 Metres; DDH-26-02 Extension to 700 Metres Planned",
+        "QIMC Details Multiple Shallow Hydrogen-Bearing Zones in Drill Hole 26-02 and Advances Integrated Interpretation of Holes 1 and 2; Drill Hole 2 to be Extended to 700 Metres; Drill Mobilized for Hole 3"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "PPP.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "We're Hopeful That Prospector Metals (CVE:PPP) Will Use Its Cash Wisely",
+        "BeMetals Announces Agreement to Acquire Prospective Projects from Prospector Metals for Creation of a New Canadian-Focused Exploration Company",
+        "Prospector to Combine Eastern Canadian Projects with BeMetals Inc. to form Lightning Resource Corp.",
+        "Prospector Appoints Michael Rockandel as Vice President, Corporate Communications",
+        "T2 Metals Acquires High-Grade Aurora Gold-Silver Project in the Yukon from Shawn Ryan",
+        "Prospector to Display Drill Core from Newly Discovered TESS Zone at Upcoming PDAC Core Shack Session"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "SHL.V",
+      "sector": "Materials",
+      "headline_count": 1,
+      "headlines": [
+        "Homeland Nickel Exploration Update on Oregon Nickel Properties"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "SASK.V",
+      "sector": "Energy",
+      "headline_count": 6,
+      "headlines": [
+        "Atha Energy Completes Mobilization & Commences Diamond Drilling Operations as Part of the 2026 Angilak Exploration Program \u2013 Fully Funded and Largest to Date at the Project",
+        "ATHA Energy Announces Filing Of Annual Financial Statements, MD&A And Annual Information Form And Election To Issue Common Shares In Satisfaction Of US$25 Million Convertible Debenture Interest Payment Obligations",
+        "Generation Uranium Announces Filing of Comprehensive 43-101 Report on Yath Project",
+        "ATHA Energy Initiates Ongoing Site Mobilization in Advance Of 2026 Angilak Exploration Program - Exploration Activities Commencing in April",
+        "Atha Energy Final Assays From 2025 Angilak Exploration Program Confirm High-Grade Discoveries at KU and Mushroom Lake Targets - Grades up to 1.56% U3O8 and 1.10% U3O8, Respectively, and Expansion of Mineralization at the Lac 50 Deposit With Grades up to 1.47% U3O8",
+        "Stallion Uranium Announces Completion of Ground Gravity Extension Survey over Coyote Corridor"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "SCOT.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Scottie Resources and Nisga'a Nation Enter into Capacity Funding Agreement, Commencing the Path Towards Negotiations for an Impact Benefit Agreement for the Scottie Gold Mine Project",
+        "We Think Scottie Resources (CVE:SCOT) Can Easily Afford To Drive Business Growth",
+        "Scottie Resources Determines Scottie Gold Mine Project Below Impact Assessment Thresholds, Clearing Path to Advance Permitting",
+        "Scottie Resources Advances Direct-Ship Ore Strategy with Phase 2 Ore Sorting Study Success and Feasibility Study Launch",
+        "Scottie Resources Strengthens Leadership Team with Key Appointments and Additions as Company Advances Toward Development",
+        "Scottie Reports Broad and High-Grade Gold at the Blueberry Contact Zone 14.4 g/t Gold over 40.75 Metres and 42.5 g/t Gold over 4.40 Metres"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "SEI.V",
+      "sector": "Energy",
+      "headline_count": 6,
+      "headlines": [
+        "Sintana Energy eyes drilling, seismic milestones across Atlantic margin portfolio in 2026",
+        "Audited Annual Results for the Year Ended December 31, 2025",
+        "Dow Jones boosted by Caterpillar as S&P 500 closes above 7,200 for first time",
+        "Exercise of Options",
+        "Oil & Gas Virtual Investor Conference: Presentations Now Available for Online Viewing",
+        "Intention to List on the Namibia Securities Exchange"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "SGN.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Scorpio Gold Drills 0.62 g/t Gold over 62.21 Metres from 230.43 Metres Within Manhattan Caldera, at Black Mammoth",
+        "Scorpio Gold Drills 10.40 g/t Gold over 5.67 M, Including 455.52 g/t Gold over 0.49 M from 36.27 M and 1.94 g/t Gold over 17.07 M from 55.47 M, Along the Zanzibar Trend",
+        "Graycliff Exploration Announces New CFO and Independent Director",
+        "Advanced Gold Announces Appointment of New CFO",
+        "Scorpio Gold Drills 16.49 Metres Grading 2.74 g/t Gold from 45.45 Metres Along the Zanzibar Trend, at the Manhattan District, Nevada",
+        "Scorpio Gold Drills 22.25 Metres Grading 2.09 g/t Gold, from 34.14 Metres Along the Zanzibar Trend, at the Manhattan District, Nevada"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "SIG.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Sitka Reports 94.3% Gold Recovery and 84.7% Tungsten Recovery from Metallurgical Testing at the Rhosgobel Deposit at Its Rc Gold Project, Yukon",
+        "Sitka Provides Update on the 2026 Diamond Drilling Program Underway at Its RC Gold Project, Yukon",
+        "Companies Like Sitka Gold (CVE:SIG) Are In A Position To Invest In Growth",
+        "VIDEO - BTV Visits the Yukon: 7 Companies Advancing Growth: Banyan Gold, Fuerte Metals, Sitka Gold, White Gold, Klondike Gold, Cascadia Minerals & Silver North",
+        "Sitka Gold Confirms Significant Tungsten Mineralization Within the Rhosgobel Gold Deposit, Including 128.0 Metres of 0.115% WO3, at Its RC Gold Project, Yukon",
+        "Sitka Gold Files Technical Report for Expanded Mineral Resource Estimate at the RC Gold Project, Yukon"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "TIGR.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Tiger Gold Intersects 305.55 m @ 0.5 g/t Au at Tesorito, Including 15.7 m @ 1.1 g/t Au and 8 m @ 1.3 g/t Au",
+        "Tiger Gold Drills 282 m @ 0.6 g/t Au, including 32 m @ 1.3 g/t Au and 21 m @ 1.6 g/t Au, at Dos Quebradas in Initial Drill Program",
+        "Tiger Gold Intersects 169.7 m at 0.9 g/t Au of Porphyry-Style Mineralization at Tesorito, Including 25 m at 2.2 g/t Au",
+        "Tiger Gold Accelerates Drilling at Ceibal and Increases Initial Drill Program to 5,000 Metres",
+        "Kinvestor Mining & Energy 2026 Virtual Investor Conference: Presentations Now Available for Online Viewing",
+        "Tiger Gold Corp. (TIGR) Opens the Market"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "SURG.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Drilling Commences on the Rip Copper-Molybdenum Project",
+        "Surge Copper Announces Closing of Final Tranche of $20 Million Private Placement",
+        "Copper Quest Announces 2026 Exploration Programs Beginning with Drilling on the Rip Copper-Molybdenum Project",
+        "Surge Copper says continuing to \u2018make progress\u2019 toward PFS completion for Berg",
+        "Surge Copper Provides Corporate and Operational Update",
+        "African Rainbow Minerals Limited to Acquire Shares of Surge Copper Corp."
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "THX.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "TSX Penny Stocks With Market Caps Under CA$200M To Consider",
+        "Seeing Machines, IXICO, Kromek Group, Pantheon International, Bango, Thor Explorations",
+        "Thor Explorations adds Bernard Swanepoel to board",
+        "Director Change",
+        "TSX Penny Stocks To Watch In May 2026",
+        "TSX Penny Stocks Spotlight: Freegold Ventures And 2 Other Notable Picks"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "SPA.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Wheaton Precious Metals Expands Royalty Portfolio With Spanish Mountain Gold Deal",
+        "Spanish Mountain Gold Announces Closing of First Tranche of Royalty Financing and Receipt of US$22.5 Million",
+        "Wheaton Precious Metals Corp. (WPM) Bolsters Gold Portfolio with Spanish Mountain Royalty Deal",
+        "How Investors Are Reacting To Wheaton Precious Metals (TSX:WPM) Expanding Streams Into Australia And Canada",
+        "Spanish Mountain Gold to divest 1.5% royalty to Wheaton",
+        "Spanish Mountain Gold Sells 1.5% Royalty to Wheaton Precious Metals for US$55 Million"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "SSV.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Companies Like Southern Silver Exploration (CVE:SSV) Are In A Position To Invest In Growth",
+        "Southern Silver Intersects 4.6 metres Averaging 201g/t Ag, 4.5% Pb and 9.8% Zn (557g/t AgEq) at Cerro Las Minitas Project in Durango, M\u00e9xico",
+        "Southern Silver Intersects 6.3 Metres Averaging 874g/t AgEq at Cerro Las Minitas Project in Durango, M\u00e9xico",
+        "Southern Silver Named to the 2026 TSX #Venture50",
+        "Southern Silver Intersects 5.8 metres averaging 781g/t AgEq at Cerro Las Minitas Project in Durango, M\u00e9xico",
+        "Assessing Southern Silver Exploration (TSXV:SSV) Valuation After New Puro Corazon Drilling Results"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "SYH.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Skyharbour Closes $5.25 Million Private Placement of Flow-Through Shares",
+        "Skyharbour Partner Company Terra Clean Energy Announces an Upcoming Drill Program at the South Falcon East Uranium Project",
+        "Skyharbour Announces Drilling Underway and Renewed Permit at the High-Grade Moore Lake Uranium Project, Saskatchewan",
+        "Skyharbour Announces Appointment of Rob Chang to Board of Directors and Amanda Chow as Chief Financial Officer",
+        "Denison Mines begins Wheeler North 2026 exploration programme",
+        "Skyharbour JV Partner Denison Mines Commences Winter Drill Program at the Wheeler North Joint Venture in Northern Saskatchewan"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "UCU.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Ucore Rare Metals Grants Incentive Stock Options",
+        "Ucore Receives a Crucial DPAS-Rated Long Lead Equipment Component at the Louisiana SMC",
+        "Ucore Updates Mineral Resource Estimate and Technical Report for Bokan Dotson-Ridge Rare Earth Property",
+        "Metals Platform Miotal To Be Listed on Nasdaq Through FERA Merger",
+        "DoW Accepts Ucore's Phase 1 Final Report and RapidSX(TM) Techno-Economic Assessment",
+        "Ucore Congratulates Hastings on its Acquisition of a Mixed Rare Earth Chloride Production Facility and Updates on Supply Discussions"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "TUD.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Tudor Gold Reports Positive Metallurgical Test Results for Treaty Creek",
+        "Seabridge Gold Inc.\u00a0(SA): 10 Best Gold Mining Companies to Invest In According to Wall Street",
+        "Seabridge Gold (TSX:SEA) Valuation In Focus After KSM Permit Delay And Ongoing Legal Dispute",
+        "Tudor Announces Plans for 2026 Exploration Program at Treaty Creek; Comments on Positive Outcome for Treaty Creek Project Permitting Overlap",
+        "Decision to Issue Construction Permits for Seabridge Gold's KSM Mitchell Treaty Tunnels Delayed",
+        "Tudor Abandons Appeal of the BC Chief Gold Commissioner's Decision Pertaining to Seabridge Gold's KSM's Mitchell Treaty Tunnels (MTT)"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "WRLG.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "TSX Growth Stocks With High Insider Ownership To Watch",
+        "TSX Growth Companies With High Insider Ownership Expecting 78% Revenue Growth",
+        "TSX Growth Stocks With Up To 34% Insider Ownership",
+        "April 2026's TSX Growth Leaders With Strong Insider Ownership",
+        "3 TSX Growth Stocks With Insider Ownership Growing Earnings Up To 53%",
+        "West Red Lake Gold Reports 471 g/t Au over 1m from Vein 013 and 10.84 g/t Au over 3m from Vein 006b\u00a0 Rowan Deposit"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "TICO.CN",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Talent Infinity Provides Wildcat Property Update",
+        "Talent Infinity Announces Engagement with Red Cloud Securities",
+        "Talent Infinity Provides Highlights of the Buster Antimony-Gold Project in British Columbia",
+        "Talent Infinity Provides Clarifying News Release Regarding Promotional Activities",
+        "Talent Infinity Announces Acquisition of the Fredricksburg Antimony-gold Projects in New Brunswick",
+        "Talent Infinity Announces Acquisition of the Hatsfield Antimony-Gold Project and Appointment of VP Exploration"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "WAM.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "Alaska Silver Announces Simplification of Capital Structure",
+        "Alaska Silver Announces 6,000-Meter 2026 Drill Program for Illinois Creek, Alaska",
+        "Alaska Silver Files Updated NI 43-101 Technical Report for Illinois Creek Deposit",
+        "Alaska Silver Announces Decompression of Proportionate Voting Shares",
+        "Alaska Silver Updates Illinois Creek Resource in Powerful Gold and Silver Price Environment",
+        "Alaska Silver Cuts High-Grade Silver and Zinc at Waterpump Creek and Silver Sage"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    },
+    {
+      "symbol": "WPG.V",
+      "sector": "Materials",
+      "headline_count": 6,
+      "headlines": [
+        "West Point Gold Grants Stock Options",
+        "West Point Gold Intersects 18.3m of 6.05 g/t Au and 35.1m of 2.23 g/t Au, Expanding the High-Grade Northeast Tyro Zone to over 400m of Strike Length and to 300m Depth",
+        "West Point Gold Drills 22.9m of 3.11 g/t Au and 184.4m of 1.00 g/t Au; from Tyro Main Zone at Gold Chain Project",
+        "West Point Gold Reports Positive Metallurgical Results from Gold Chain with Recoveries of up to 92%",
+        "West Point Gold Drills 32.0m of 1.05 g/t Au from 9.1m at Sheep Trail, 600m Step-Out Supports Third Potential Resource Area at Gold Chain",
+        "West Point Gold Strengthens Management Team with Industry Veteran"
+      ],
+      "asof": "2026-05-12",
+      "catalyst_type": "none",
+      "direction": "neutral",
+      "magnitude": "low",
+      "horizon_days": 5,
+      "confidence": 0.0,
+      "rationale": "batch error: groq HTTP 429: {\"error\":{\"message\":\"Rate limit reached for model `llama-3.1-8b-instant` in"
+    }
+  ]
+}
