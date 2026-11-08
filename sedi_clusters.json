@@ -1,11 +1,1701 @@
 {
   "_source": "yahoo via yfinance",
-  "_lastUpdated": "2026-11-01",
+  "_lastUpdated": "2026-11-08",
   "_universeSize": 1214,
-  "_tickersWithTrades": 175,
+  "_tickersWithTrades": 185,
   "_lookbackDays": 30,
-  "_totalTrades": 607,
+  "_totalTrades": 669,
   "trades": [
+    {
+      "symbol": "WCP.TO",
+      "insider": "Fagerheim (Grant Bradley)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 5000,
+      "pricePerShare": 12.364,
+      "date": "2026-11-05",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "WCP.TO",
+      "insider": "Zdunich (Jeffery Byron)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 7000,
+      "pricePerShare": 12.058,
+      "date": "2026-11-05",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "PSK.TO",
+      "insider": "McKenzie (Margaret Anne)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 6000,
+      "pricePerShare": 24.962,
+      "date": "2026-11-05",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "NDA.V",
+      "insider": "Moodie (Cale)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 10000,
+      "pricePerShare": 0.328,
+      "date": "2026-11-05",
+      "sector": "Financials"
+    },
+    {
+      "symbol": "NDA.V",
+      "insider": "Moodie (Cale)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 5000,
+      "pricePerShare": 0.328,
+      "date": "2026-11-05",
+      "sector": "Financials"
+    },
+    {
+      "symbol": "NDA.V",
+      "insider": "To (Carmen)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 2500,
+      "pricePerShare": 0.3208,
+      "date": "2026-11-05",
+      "sector": "Financials"
+    },
+    {
+      "symbol": "MLP.V",
+      "insider": "Jennings (Ross)",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 130000,
+      "pricePerShare": 1.047,
+      "date": "2026-11-05",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "OCG.TO",
+      "insider": "Bruggeman, Robert John",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 60000,
+      "pricePerShare": 0.178,
+      "date": "2026-11-05",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "ONYX.V",
+      "insider": "Green (Darwin)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 25000,
+      "pricePerShare": 1.07,
+      "date": "2026-11-05",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "EFN.TO",
+      "insider": "Dottori-Attanasio (Laura Lee)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 55100,
+      "pricePerShare": 14.257,
+      "date": "2026-11-05",
+      "sector": "Industrials"
+    },
+    {
+      "symbol": "EFN.TO",
+      "insider": "Valkenburg (Heath Leslie)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 1239,
+      "pricePerShare": 14.1057,
+      "date": "2026-11-05",
+      "sector": "Industrials"
+    },
+    {
+      "symbol": "BDI.TO",
+      "insider": "Warren (Daryle Jonathan William)",
+      "role": "Director or Senior Officer of Insider or Subsidiary of Issuer (other than in 4",
+      "action": "BUY",
+      "shares": 1500,
+      "pricePerShare": 15.1467,
+      "date": "2026-11-05",
+      "sector": "Industrials"
+    },
+    {
+      "symbol": "FTG.TO",
+      "insider": "David (Russell)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 1500,
+      "pricePerShare": 22.66,
+      "date": "2026-11-05",
+      "sector": "Industrials"
+    },
+    {
+      "symbol": "CRTL.CN",
+      "insider": "Parnham (Duane)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 2500,
+      "pricePerShare": 0.5348,
+      "date": "2026-11-05",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "MRD.TO",
+      "insider": "Riopel (Janet Marie)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 785,
+      "pricePerShare": 13.6484,
+      "date": "2026-11-05",
+      "sector": "Real Estate"
+    },
+    {
+      "symbol": "STMP.V",
+      "insider": "Goldsmith, Mathew Todd",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 200000,
+      "pricePerShare": 0.075,
+      "date": "2026-11-05",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "WCP.TO",
+      "insider": "Fagerheim (Grant Bradley)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 5000,
+      "pricePerShare": 12.442,
+      "date": "2026-11-04",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "WCP.TO",
+      "insider": "Kang, Thanh Chan",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 3100,
+      "pricePerShare": 12.771,
+      "date": "2026-11-04",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "PSK.TO",
+      "insider": "Phillips (Andrew M)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 6300,
+      "pricePerShare": 24.9,
+      "date": "2026-11-04",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "TRI.TO",
+      "insider": "Roth (Kirsty)",
+      "role": "Senior Officer of Issuer",
+      "action": "SELL",
+      "shares": 4528,
+      "pricePerShare": 118.0199,
+      "date": "2026-11-04",
+      "sector": "Industrials"
+    },
+    {
+      "symbol": "TRI.TO",
+      "insider": "Ruddick (Jennifer)",
+      "role": "Director or Senior Officer of Insider or Subsidiary of Issuer (other than in 4",
+      "action": "SELL",
+      "shares": 266,
+      "pricePerShare": 118.688,
+      "date": "2026-11-04",
+      "sector": "Industrials"
+    },
+    {
+      "symbol": "TFII.TO",
+      "insider": "Martel, Sebastien",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 1325,
+      "pricePerShare": 97.9464,
+      "date": "2026-11-04",
+      "sector": "Industrials"
+    },
+    {
+      "symbol": "REI-UN.TO",
+      "insider": "Suess (Jennifer)",
+      "role": "Senior Officer of Issuer",
+      "action": "SELL",
+      "shares": 2500,
+      "pricePerShare": 15.318,
+      "date": "2026-11-04",
+      "sector": "Real Estate"
+    },
+    {
+      "symbol": "SXGC.TO",
+      "insider": "Morcombe (Darren James)",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 50000,
+      "pricePerShare": 5.759,
+      "date": "2026-11-04",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "TSK.TO",
+      "insider": "Spethmann (Daniele)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 12500,
+      "pricePerShare": 0.587,
+      "date": "2026-11-04",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "MLP.V",
+      "insider": "Jennings (Ross)",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 313700,
+      "pricePerShare": 1.102,
+      "date": "2026-11-04",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "MOLY.TO",
+      "insider": "Shiffman (Ruben)",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 6100,
+      "pricePerShare": 1.002,
+      "date": "2026-11-04",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "ECU.V",
+      "insider": "Mercer (Brad J.)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 10000,
+      "pricePerShare": 1.46,
+      "date": "2026-11-04",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "ECU.V",
+      "insider": "Mercer (Brad J.)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 10000,
+      "pricePerShare": 1.416,
+      "date": "2026-11-04",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "AZM.V",
+      "insider": "Rosset (Jonathan)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 40000,
+      "pricePerShare": 0.322,
+      "date": "2026-11-04",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "RYR.V",
+      "insider": "Coughlin (Timothy James)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 15000,
+      "pricePerShare": 0.132,
+      "date": "2026-11-04",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "RYR.V",
+      "insider": "Coughlin (Timothy James)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 1000,
+      "pricePerShare": 0.136,
+      "date": "2026-11-04",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "GUN.V",
+      "insider": "Reifel (P. Randy)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 600,
+      "pricePerShare": 0.5,
+      "date": "2026-11-04",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "CGM.V",
+      "insider": "Slusarchuk, Bryan James Rees",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 35000,
+      "pricePerShare": 0.111,
+      "date": "2026-11-04",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "ATZ.TO",
+      "insider": "Currie (John Edward)",
+      "role": "Director of Issuer",
+      "action": "SELL",
+      "shares": 15000,
+      "pricePerShare": 113.458,
+      "date": "2026-11-04",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "symbol": "RIC.TO",
+      "insider": "Glynn (John James)",
+      "role": "Director or Senior Officer of Insider or Subsidiary of Issuer (other than in 4",
+      "action": "BUY",
+      "shares": 1780,
+      "pricePerShare": 20.3826,
+      "date": "2026-11-04",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "symbol": "ZEN.V",
+      "insider": "Jiwan (Mohammed)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 9435,
+      "pricePerShare": 0.3789,
+      "date": "2026-11-04",
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "ZEN.V",
+      "insider": "Jiwan (Mohammed)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 9561,
+      "pricePerShare": 0.3859,
+      "date": "2026-11-04",
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "PALS.V",
+      "insider": "Shippen (Peter James)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 12000,
+      "pricePerShare": 1.553,
+      "date": "2026-11-04",
+      "sector": "Technology"
+    },
+    {
+      "symbol": "ENA.V",
+      "insider": "Collingwood Investments Inc",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 300000,
+      "pricePerShare": 3.577,
+      "date": "2026-11-04",
+      "sector": "Technology"
+    },
+    {
+      "symbol": "BDI.TO",
+      "insider": "Hedges (Brian Robie)",
+      "role": "Director of Issuer",
+      "action": "SELL",
+      "shares": 500,
+      "pricePerShare": 15.718,
+      "date": "2026-11-04",
+      "sector": "Industrials"
+    },
+    {
+      "symbol": "TCW.TO",
+      "insider": "Coolen (Thomas Michael)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 100000,
+      "pricePerShare": 4.614,
+      "date": "2026-11-04",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "TVE.TO",
+      "insider": "Bryksa (Craig Stephen)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 10000,
+      "pricePerShare": 9.293,
+      "date": "2026-11-03",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "TVE.TO",
+      "insider": "Johnston (Kevin James)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 7500,
+      "pricePerShare": 9.272,
+      "date": "2026-11-03",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "TFII.TO",
+      "insider": "Pratt (John)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 1567,
+      "pricePerShare": 96.5999,
+      "date": "2026-11-03",
+      "sector": "Industrials"
+    },
+    {
+      "symbol": "ARG.TO",
+      "insider": "Davidson, Aurora",
+      "role": "Director of Issuer",
+      "action": "SELL",
+      "shares": 3500,
+      "pricePerShare": 5.5529,
+      "date": "2026-11-03",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "ARG.TO",
+      "insider": "Davidson, Aurora",
+      "role": "Director of Issuer",
+      "action": "SELL",
+      "shares": 8500,
+      "pricePerShare": 5.5749,
+      "date": "2026-11-03",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "ARG.TO",
+      "insider": "Davidson, Aurora",
+      "role": "Director of Issuer",
+      "action": "SELL",
+      "shares": 3000,
+      "pricePerShare": 5.639,
+      "date": "2026-11-03",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "KCP.V",
+      "insider": "Richards (Jonathan R)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 10000,
+      "pricePerShare": 0.393,
+      "date": "2026-11-03",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "MOLY.TO",
+      "insider": "Shiffman (Ruben)",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 10600,
+      "pricePerShare": 0.999,
+      "date": "2026-11-03",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "SPA.V",
+      "insider": "Ruus, Mark Adrian",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 100000,
+      "pricePerShare": 0.139,
+      "date": "2026-11-03",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "CCI.CN",
+      "insider": "Quick (Simon Tyler)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 10101,
+      "pricePerShare": 0.3529,
+      "date": "2026-11-03",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "CCI.CN",
+      "insider": "Quick (Simon Tyler)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 10000,
+      "pricePerShare": 0.357,
+      "date": "2026-11-03",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "RIC.TO",
+      "insider": "Glynn (John James)",
+      "role": "Director or Senior Officer of Insider or Subsidiary of Issuer (other than in 4",
+      "action": "BUY",
+      "shares": 3300,
+      "pricePerShare": 20.7,
+      "date": "2026-11-03",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "symbol": "RIC.TO",
+      "insider": "Glynn (John James)",
+      "role": "Director or Senior Officer of Insider or Subsidiary of Issuer (other than in 4",
+      "action": "BUY",
+      "shares": 80,
+      "pricePerShare": 20.7,
+      "date": "2026-11-03",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "symbol": "EBM.V",
+      "insider": "Eastwood Bio-Medical Research Inc",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 500,
+      "pricePerShare": 1.392,
+      "date": "2026-11-03",
+      "sector": "Consumer Staples"
+    },
+    {
+      "symbol": "EBM.V",
+      "insider": "Eastwood Bio-Medical Research Inc",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 300,
+      "pricePerShare": 1.2967,
+      "date": "2026-11-03",
+      "sector": "Consumer Staples"
+    },
+    {
+      "symbol": "EBM.V",
+      "insider": "Eastwood Bio-Medical Research Inc",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 500,
+      "pricePerShare": 1.362,
+      "date": "2026-11-03",
+      "sector": "Consumer Staples"
+    },
+    {
+      "symbol": "EBM.V",
+      "insider": "Eastwood Bio-Medical Research Inc",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 500,
+      "pricePerShare": 1.32,
+      "date": "2026-11-03",
+      "sector": "Consumer Staples"
+    },
+    {
+      "symbol": "EBM.V",
+      "insider": "Kim (Yunji)",
+      "role": "Senior Officer of Issuer",
+      "action": "SELL",
+      "shares": 290,
+      "pricePerShare": 1.3897,
+      "date": "2026-11-03",
+      "sector": "Consumer Staples"
+    },
+    {
+      "symbol": "ZEN.V",
+      "insider": "Jiwan (Mohammed)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 9100,
+      "pricePerShare": 0.371,
+      "date": "2026-11-03",
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "ZEN.V",
+      "insider": "Jiwan (Mohammed)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 10000,
+      "pricePerShare": 0.371,
+      "date": "2026-11-03",
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "ONE.V",
+      "insider": "Kilborn (Jeffrey Keith)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 20000,
+      "pricePerShare": 0.307,
+      "date": "2026-11-03",
+      "sector": "Technology"
+    },
+    {
+      "symbol": "AC.TO",
+      "insider": "Jinny (Chan)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 761,
+      "pricePerShare": 15.1104,
+      "date": "2026-11-03",
+      "sector": "Industrials"
+    },
+    {
+      "symbol": "ARE.TO",
+      "insider": "Nackan (Steven Neil)",
+      "role": "Senior Officer of Issuer",
+      "action": "SELL",
+      "shares": 4000,
+      "pricePerShare": 39.711,
+      "date": "2026-11-03",
+      "sector": "Industrials"
+    },
+    {
+      "symbol": "HPS-A.TO",
+      "insider": "Thomas (Adrian David)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 500,
+      "pricePerShare": 166.742,
+      "date": "2026-11-03",
+      "sector": "Industrials"
+    },
+    {
+      "symbol": "MRT-UN.TO",
+      "insider": "Armoyan (Sime)",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 8100,
+      "pricePerShare": 4.99,
+      "date": "2026-11-03",
+      "sector": "Real Estate"
+    },
+    {
+      "symbol": "STMP.V",
+      "insider": "Akit (Simon George)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 200000,
+      "pricePerShare": 0.082,
+      "date": "2026-11-03",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "STMP.V",
+      "insider": "Goldsmith, Mathew Todd",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 200000,
+      "pricePerShare": 0.082,
+      "date": "2026-11-03",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "STMP.V",
+      "insider": "Goldsmith, Mathew Todd",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 14000,
+      "pricePerShare": 0.071,
+      "date": "2026-11-03",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "WCP.TO",
+      "insider": "Fagerheim (Grant Bradley)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 10000,
+      "pricePerShare": 13.392,
+      "date": "2026-11-02",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "WCP.TO",
+      "insider": "Kang, Thanh Chan",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 5000,
+      "pricePerShare": 13.428,
+      "date": "2026-11-02",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "TVE.TO",
+      "insider": "Johnston (Kevin James)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 4000,
+      "pricePerShare": 9.715,
+      "date": "2026-11-02",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "TFII.TO",
+      "insider": "Bedard,Alain",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 20000,
+      "pricePerShare": 94.38,
+      "date": "2026-11-02",
+      "sector": "Industrials"
+    },
+    {
+      "symbol": "TFII.TO",
+      "insider": "Bedard,Alain",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 100,
+      "pricePerShare": 92.88,
+      "date": "2026-11-02",
+      "sector": "Industrials"
+    },
+    {
+      "symbol": "TFII.TO",
+      "insider": "Bedard,Alain",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 115,
+      "pricePerShare": 92.887,
+      "date": "2026-11-02",
+      "sector": "Industrials"
+    },
+    {
+      "symbol": "TFII.TO",
+      "insider": "Giard, Diane",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 2000,
+      "pricePerShare": 95.86,
+      "date": "2026-11-02",
+      "sector": "Industrials"
+    },
+    {
+      "symbol": "TFII.TO",
+      "insider": "Kelly-Ennis (Debra J)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 1600,
+      "pricePerShare": 93.675,
+      "date": "2026-11-02",
+      "sector": "Industrials"
+    },
+    {
+      "symbol": "TFII.TO",
+      "insider": "Mayer (Steve)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 2200,
+      "pricePerShare": 93.1468,
+      "date": "2026-11-02",
+      "sector": "Industrials"
+    },
+    {
+      "symbol": "EIT-UN.TO",
+      "insider": "Chernoff (M. Bruce)",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 7100,
+      "pricePerShare": 12.7249,
+      "date": "2026-11-02",
+      "sector": "Financials"
+    },
+    {
+      "symbol": "NDA.V",
+      "insider": "Moodie (Cale)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 10000,
+      "pricePerShare": 0.336,
+      "date": "2026-11-02",
+      "sector": "Financials"
+    },
+    {
+      "symbol": "SXGC.TO",
+      "insider": "Morcombe (Darren James)",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 50000,
+      "pricePerShare": 5.863,
+      "date": "2026-11-02",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "SGML.V",
+      "insider": "Freire de Paiva (Marcelo)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 83300,
+      "pricePerShare": 5.949,
+      "date": "2026-11-02",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "SGML.V",
+      "insider": "Freire de Paiva (Marcelo)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 17241,
+      "pricePerShare": 5.798,
+      "date": "2026-11-02",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "SGML.V",
+      "insider": "Freire de Paiva (Marcelo)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 18181,
+      "pricePerShare": 5.5,
+      "date": "2026-11-02",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "SGML.V",
+      "insider": "Freire de Paiva (Marcelo)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 19230,
+      "pricePerShare": 5.295,
+      "date": "2026-11-02",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "SGML.V",
+      "insider": "Freire de Paiva (Marcelo)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 19417,
+      "pricePerShare": 5.149,
+      "date": "2026-11-02",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "SGML.V",
+      "insider": "Freire de Paiva (Marcelo)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 29761,
+      "pricePerShare": 5.057,
+      "date": "2026-11-02",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "SGML.V",
+      "insider": "Freire de Paiva (Marcelo)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 20000,
+      "pricePerShare": 5.0,
+      "date": "2026-11-02",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "SGML.V",
+      "insider": "Freire de Paiva (Marcelo)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 19230,
+      "pricePerShare": 5.24,
+      "date": "2026-11-02",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "ARG.TO",
+      "insider": "Davidson, Aurora",
+      "role": "Director of Issuer",
+      "action": "SELL",
+      "shares": 5000,
+      "pricePerShare": 5.463,
+      "date": "2026-11-02",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "ARG.TO",
+      "insider": "Davidson, Aurora",
+      "role": "Director of Issuer",
+      "action": "SELL",
+      "shares": 8700,
+      "pricePerShare": 5.5269,
+      "date": "2026-11-02",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "ARG.TO",
+      "insider": "Davidson, Aurora",
+      "role": "Director of Issuer",
+      "action": "SELL",
+      "shares": 6300,
+      "pricePerShare": 5.534,
+      "date": "2026-11-02",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "WRN.TO",
+      "insider": "Dirk (Robert)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 43500,
+      "pricePerShare": 1.637,
+      "date": "2026-11-02",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "WGO.V",
+      "insider": "Pollitt (Donovan)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 14500,
+      "pricePerShare": 1.112,
+      "date": "2026-11-02",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "TSK.TO",
+      "insider": "Orr (Kyle)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 640,
+      "pricePerShare": 0.5719,
+      "date": "2026-11-02",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "MOLY.TO",
+      "insider": "Grossman (Eric)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 6500,
+      "pricePerShare": 1.058,
+      "date": "2026-11-02",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "EMO.V",
+      "insider": "Belan (Joseph)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 115000,
+      "pricePerShare": 0.189,
+      "date": "2026-11-02",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "CEMX.TO",
+      "insider": "Kim, John",
+      "role": "Director of Issuer",
+      "action": "SELL",
+      "shares": 150000,
+      "pricePerShare": 0.343,
+      "date": "2026-11-02",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "ANK.V",
+      "insider": "Weeks, Delayne",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 500,
+      "pricePerShare": 0.256,
+      "date": "2026-11-02",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "ANK.V",
+      "insider": "Weeks, Delayne",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 500,
+      "pricePerShare": 0.274,
+      "date": "2026-11-02",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "VIO.V",
+      "insider": "Savard (Mathieu)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 56000,
+      "pricePerShare": 0.061,
+      "date": "2026-11-02",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "BAR.CN",
+      "insider": "Fedosov (George)",
+      "role": "Director of Issuer",
+      "action": "SELL",
+      "shares": 1500,
+      "pricePerShare": 0.4647,
+      "date": "2026-11-02",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "PUMA.V",
+      "insider": "Gagn�, Dominique",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 25000,
+      "pricePerShare": 0.073,
+      "date": "2026-11-02",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "PUMA.V",
+      "insider": "Gagn�, Dominique",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 25000,
+      "pricePerShare": 0.072,
+      "date": "2026-11-02",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "PUMA.V",
+      "insider": "Gagn�, Dominique",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 5000,
+      "pricePerShare": 0.074,
+      "date": "2026-11-02",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "PUMA.V",
+      "insider": "Gosselin (R�jean)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 100000,
+      "pricePerShare": 0.072,
+      "date": "2026-11-02",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "PUMA.V",
+      "insider": "Robillard (Marcel)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 5000,
+      "pricePerShare": 0.072,
+      "date": "2026-11-02",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "NBRK.CN",
+      "insider": "Farrant (Michael Hugh CPA)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 10000,
+      "pricePerShare": 0.125,
+      "date": "2026-11-02",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "EBM.V",
+      "insider": "Kim (Yunji)",
+      "role": "Senior Officer of Issuer",
+      "action": "SELL",
+      "shares": 200,
+      "pricePerShare": 1.32,
+      "date": "2026-11-02",
+      "sector": "Consumer Staples"
+    },
+    {
+      "symbol": "EBM.V",
+      "insider": "Kim (Yunji)",
+      "role": "Senior Officer of Issuer",
+      "action": "SELL",
+      "shares": 200,
+      "pricePerShare": 1.29,
+      "date": "2026-11-02",
+      "sector": "Consumer Staples"
+    },
+    {
+      "symbol": "EBM.V",
+      "insider": "Kim (Yunji)",
+      "role": "Senior Officer of Issuer",
+      "action": "SELL",
+      "shares": 300,
+      "pricePerShare": 1.2867,
+      "date": "2026-11-02",
+      "sector": "Consumer Staples"
+    },
+    {
+      "symbol": "CNVI.V",
+      "insider": "Looby (Thomas Lawrence)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 10000,
+      "pricePerShare": 0.064,
+      "date": "2026-11-02",
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "ELVA.TO",
+      "insider": "Dang (Jeremy Ph.D.)",
+      "role": "Deemed Insider - 6 Months before becoming Insider",
+      "action": "SELL",
+      "shares": 5000,
+      "pricePerShare": 5.427,
+      "date": "2026-11-02",
+      "sector": "Industrials"
+    },
+    {
+      "symbol": "BLM.V",
+      "insider": "Hilton (John Daniel)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 997,
+      "pricePerShare": 0.5858,
+      "date": "2026-11-02",
+      "sector": "Industrials"
+    },
+    {
+      "symbol": "BLM.V",
+      "insider": "MacFabe (Scott Andrew)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 335,
+      "pricePerShare": 0.5851,
+      "date": "2026-11-02",
+      "sector": "Industrials"
+    },
+    {
+      "symbol": "MRT-UN.TO",
+      "insider": "Armoyan (Sime)",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 3300,
+      "pricePerShare": 5.0027,
+      "date": "2026-11-02",
+      "sector": "Real Estate"
+    },
+    {
+      "symbol": "MRT-UN.TO",
+      "insider": "Armoyan (Sime)",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 200,
+      "pricePerShare": 4.965,
+      "date": "2026-11-02",
+      "sector": "Real Estate"
+    },
+    {
+      "symbol": "STMP.V",
+      "insider": "Goldsmith, Mathew Todd",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 600000,
+      "pricePerShare": 0.057,
+      "date": "2026-11-02",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "TVE.TO",
+      "insider": "Johnston (Kevin James)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 7000,
+      "pricePerShare": 10.109,
+      "date": "2026-10-30",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "LBS.TO",
+      "insider": "Caranci (Mark A)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 60,
+      "pricePerShare": 9.3,
+      "date": "2026-10-30",
+      "sector": "Financials"
+    },
+    {
+      "symbol": "LBS.TO",
+      "insider": "Caranci (Mark A)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 200,
+      "pricePerShare": 9.3,
+      "date": "2026-10-30",
+      "sector": "Financials"
+    },
+    {
+      "symbol": "SKE.TO",
+      "insider": "Macritchie (Andrew)",
+      "role": "Senior Officer of Issuer",
+      "action": "SELL",
+      "shares": 4700,
+      "pricePerShare": 26.193,
+      "date": "2026-10-30",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "VMET.TO",
+      "insider": "Tether International, S.A. de C.V.",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 57189,
+      "pricePerShare": 8.256,
+      "date": "2026-10-30",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "MTA.V",
+      "insider": "Tether International, S.A. de C.V.",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 123735,
+      "pricePerShare": 7.279,
+      "date": "2026-10-30",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "WRN.TO",
+      "insider": "Smith (Mark Elliot)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 64200,
+      "pricePerShare": 1.74,
+      "date": "2026-10-30",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "WGO.V",
+      "insider": "Pollitt (Donovan)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 30700,
+      "pricePerShare": 1.052,
+      "date": "2026-10-30",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "MMA.V",
+      "insider": "Richards (Brett Allan)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 203300,
+      "pricePerShare": 0.282,
+      "date": "2026-10-30",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "MOLY.TO",
+      "insider": "Grossman (Eric)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 8000,
+      "pricePerShare": 0.938,
+      "date": "2026-10-30",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "MOLY.TO",
+      "insider": "Shiffman (Ruben)",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 42100,
+      "pricePerShare": 0.938,
+      "date": "2026-10-30",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "APGO.V",
+      "insider": "Sutherland (Colin)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 12200,
+      "pricePerShare": 1.217,
+      "date": "2026-10-30",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "SHL.V",
+      "insider": "Balch (Stephen James)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 2500000,
+      "pricePerShare": 0.057,
+      "date": "2026-10-30",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "SAM.TO",
+      "insider": "Eadie (Robert)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 688500,
+      "pricePerShare": 0.179,
+      "date": "2026-10-30",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "SGO.V",
+      "insider": "MacLeod (Kenneth)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 55000,
+      "pricePerShare": 0.111,
+      "date": "2026-10-30",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "ANK.V",
+      "insider": "Weeks (Michael)",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 2500,
+      "pricePerShare": 0.258,
+      "date": "2026-10-30",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "CACR.CN",
+      "insider": "Erda Resource Opportunities Inc.",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 12000,
+      "pricePerShare": 0.293,
+      "date": "2026-10-30",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "MRZ.V",
+      "insider": "Pountney (Glenn)",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 1500,
+      "pricePerShare": 0.2147,
+      "date": "2026-10-30",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "PUMA.V",
+      "insider": "Robillard (Marcel)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 2500,
+      "pricePerShare": 0.0748,
+      "date": "2026-10-30",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "ATZ.TO",
+      "insider": "Currie (John Edward)",
+      "role": "Director of Issuer",
+      "action": "SELL",
+      "shares": 7100,
+      "pricePerShare": 112.861,
+      "date": "2026-10-30",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "symbol": "RCH.TO",
+      "insider": "Grenier, Guy",
+      "role": "Senior Officer of Issuer",
+      "action": "SELL",
+      "shares": 12600,
+      "pricePerShare": 26.939,
+      "date": "2026-10-30",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "symbol": "AW.TO",
+      "insider": "Mindell (Andrew)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 17500,
+      "pricePerShare": 25.926,
+      "date": "2026-10-30",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "symbol": "HBFG.CN",
+      "insider": "Haroun (Daniel)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 4800,
+      "pricePerShare": 1.009,
+      "date": "2026-10-30",
+      "sector": "Consumer Staples"
+    },
+    {
+      "symbol": "BUX.CN",
+      "insider": "Huang (Guoyu)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 8000,
+      "pricePerShare": 0.315,
+      "date": "2026-10-30",
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "BUX.CN",
+      "insider": "Maula Bux (Rashid Ahmed)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 5500,
+      "pricePerShare": 0.322,
+      "date": "2026-10-30",
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "ROMJ.V",
+      "insider": "Pigott (John)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 1500,
+      "pricePerShare": 0.272,
+      "date": "2026-10-30",
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "ROMJ.V",
+      "insider": "Pigott (John)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 4500,
+      "pricePerShare": 0.272,
+      "date": "2026-10-30",
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "ROMJ.V",
+      "insider": "Pigott (John)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 4000,
+      "pricePerShare": 0.272,
+      "date": "2026-10-30",
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "EFX.TO",
+      "insider": "Pyle (Philip Antoni John)",
+      "role": "Senior Officer of Issuer",
+      "action": "SELL",
+      "shares": 30061,
+      "pricePerShare": 23.467,
+      "date": "2026-10-30",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "SOIL.TO",
+      "insider": "Gmt Capital Corp",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 3144,
+      "pricePerShare": 6.7198,
+      "date": "2026-10-30",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "SOIL.TO",
+      "insider": "Gmt Capital Corp",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 4880,
+      "pricePerShare": 6.7199,
+      "date": "2026-10-30",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "SOIL.TO",
+      "insider": "Gmt Capital Corp",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 6053,
+      "pricePerShare": 6.72,
+      "date": "2026-10-30",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "SOIL.TO",
+      "insider": "Gmt Capital Corp",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 723,
+      "pricePerShare": 6.7192,
+      "date": "2026-10-30",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "SHLE.TO",
+      "insider": "Reynolds (Catherine Victoria)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 257,
+      "pricePerShare": 7.1323,
+      "date": "2026-10-30",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "SVI.TO",
+      "insider": "Robinson (Deborah Wallis)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 7242,
+      "pricePerShare": 2.8839,
+      "date": "2026-10-30",
+      "sector": "Real Estate"
+    },
+    {
+      "symbol": "MRT-UN.TO",
+      "insider": "Armoyan (Sime)",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 13900,
+      "pricePerShare": 4.984,
+      "date": "2026-10-30",
+      "sector": "Real Estate"
+    },
+    {
+      "symbol": "MRT-UN.TO",
+      "insider": "Armoyan (Sime)",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 500,
+      "pricePerShare": 5.01,
+      "date": "2026-10-30",
+      "sector": "Real Estate"
+    },
+    {
+      "symbol": "D-UN.TO",
+      "insider": "RFA Financial Inc",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 15410,
+      "pricePerShare": 11.326,
+      "date": "2026-10-30",
+      "sector": "Real Estate"
+    },
+    {
+      "symbol": "STMP.V",
+      "insider": "Akit (Simon George)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 162000,
+      "pricePerShare": 0.057,
+      "date": "2026-10-30",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "DOL.TO",
+      "insider": "Di Pesa (Mark)",
+      "role": "Senior Officer of Issuer",
+      "action": "SELL",
+      "shares": 6095,
+      "pricePerShare": 147.2159,
+      "date": "2026-10-29",
+      "sector": "Consumer Staples"
+    },
+    {
+      "symbol": "DOL.TO",
+      "insider": "Di Pesa (Mark)",
+      "role": "Senior Officer of Issuer",
+      "action": "SELL",
+      "shares": 1561,
+      "pricePerShare": 146.5535,
+      "date": "2026-10-29",
+      "sector": "Consumer Staples"
+    },
+    {
+      "symbol": "VBNK.TO",
+      "insider": "Verity (Scott Douglas)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 600,
+      "pricePerShare": 22.505,
+      "date": "2026-10-29",
+      "sector": "Financials"
+    },
+    {
+      "symbol": "VBNK.TO",
+      "insider": "Verity (Scott Douglas)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 400,
+      "pricePerShare": 22.59,
+      "date": "2026-10-29",
+      "sector": "Financials"
+    },
+    {
+      "symbol": "VBNK.TO",
+      "insider": "Verity (Scott Douglas)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 275,
+      "pricePerShare": 22.64,
+      "date": "2026-10-29",
+      "sector": "Financials"
+    },
+    {
+      "symbol": "DMGI.V",
+      "insider": "Bennett (Yauheniya)",
+      "role": "Senior Officer of Issuer",
+      "action": "SELL",
+      "shares": 34000,
+      "pricePerShare": 0.293,
+      "date": "2026-10-29",
+      "sector": "Financials"
+    },
+    {
+      "symbol": "MTA.V",
+      "insider": "Tether International, S.A. de C.V.",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 33487,
+      "pricePerShare": 7.624,
+      "date": "2026-10-29",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "TSK.TO",
+      "insider": "Orr (Kyle)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 610,
+      "pricePerShare": 0.6213,
+      "date": "2026-10-29",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "MLM.CN",
+      "insider": "Trevisiol (Mark Steven)",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 50000,
+      "pricePerShare": 0.307,
+      "date": "2026-10-29",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "GUN.V",
+      "insider": "Reifel (P. Randy)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 25000,
+      "pricePerShare": 0.536,
+      "date": "2026-10-29",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "CACR.CN",
+      "insider": "Erda Resource Opportunities Inc.",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 1500,
+      "pricePerShare": 0.2927,
+      "date": "2026-10-29",
+      "sector": "Materials"
+    },
     {
       "symbol": "MRZ.V",
       "insider": "Pountney (Glenn)",
@@ -45,6 +1735,136 @@
       "pricePerShare": 0.465,
       "date": "2026-10-29",
       "sector": "Materials"
+    },
+    {
+      "symbol": "RCH.TO",
+      "insider": "Grenier, Guy",
+      "role": "Senior Officer of Issuer",
+      "action": "SELL",
+      "shares": 2400,
+      "pricePerShare": 26.9558,
+      "date": "2026-10-29",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "symbol": "AW.TO",
+      "insider": "Mindell (Andrew)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 13100,
+      "pricePerShare": 25.713,
+      "date": "2026-10-29",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "symbol": "BUX.CN",
+      "insider": "Huang (Guoyu)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 1500,
+      "pricePerShare": 0.322,
+      "date": "2026-10-29",
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "BUX.CN",
+      "insider": "Maula Bux (Rashid Ahmed)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 2500,
+      "pricePerShare": 0.322,
+      "date": "2026-10-29",
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "ONE.V",
+      "insider": "Kilborn (Jeffrey Keith)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 11000,
+      "pricePerShare": 0.379,
+      "date": "2026-10-29",
+      "sector": "Technology"
+    },
+    {
+      "symbol": "SOIL.TO",
+      "insider": "Gmt Capital Corp",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 13723,
+      "pricePerShare": 6.6869,
+      "date": "2026-10-29",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "SOIL.TO",
+      "insider": "Gmt Capital Corp",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 21301,
+      "pricePerShare": 6.687,
+      "date": "2026-10-29",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "SOIL.TO",
+      "insider": "Gmt Capital Corp",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 26422,
+      "pricePerShare": 6.687,
+      "date": "2026-10-29",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "SOIL.TO",
+      "insider": "Gmt Capital Corp",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 3154,
+      "pricePerShare": 6.6867,
+      "date": "2026-10-29",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "STMP.V",
+      "insider": "Akit (Simon George)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 200000,
+      "pricePerShare": 0.046,
+      "date": "2026-10-29",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "STMP.V",
+      "insider": "Goldsmith, Mathew Todd",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 67000,
+      "pricePerShare": 0.051,
+      "date": "2026-10-29",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "SHOP.TO",
+      "insider": "Finkelstein (Harley Michael)",
+      "role": "Senior Officer of Issuer",
+      "action": "SELL",
+      "shares": 1697,
+      "pricePerShare": 167.8698,
+      "date": "2026-10-28",
+      "sector": "Technology"
+    },
+    {
+      "symbol": "SHOP.TO",
+      "insider": "Niehaus (Jean)",
+      "role": "Senior Officer of Issuer",
+      "action": "SELL",
+      "shares": 492,
+      "pricePerShare": 167.8699,
+      "date": "2026-10-28",
+      "sector": "Technology"
     },
     {
       "symbol": "SHOP.TO",
@@ -87,26 +1907,6 @@
       "sector": "Technology"
     },
     {
-      "symbol": "SHOP.TO",
-      "insider": "Niehaus (Jean)",
-      "role": "Senior Officer of Issuer",
-      "action": "SELL",
-      "shares": 492,
-      "pricePerShare": 167.8699,
-      "date": "2026-10-28",
-      "sector": "Technology"
-    },
-    {
-      "symbol": "SHOP.TO",
-      "insider": "Finkelstein (Harley Michael)",
-      "role": "Senior Officer of Issuer",
-      "action": "SELL",
-      "shares": 1697,
-      "pricePerShare": 167.8698,
-      "date": "2026-10-28",
-      "sector": "Technology"
-    },
-    {
       "symbol": "EIT-UN.TO",
       "insider": "Chernoff (M. Bruce)",
       "role": "10% Security Holder of Issuer",
@@ -117,12 +1917,52 @@
       "sector": "Financials"
     },
     {
+      "symbol": "DMGI.V",
+      "insider": "Place (John Montgomery)",
+      "role": "Director of Issuer",
+      "action": "SELL",
+      "shares": 35000,
+      "pricePerShare": 0.289,
+      "date": "2026-10-28",
+      "sector": "Financials"
+    },
+    {
+      "symbol": "SXGC.TO",
+      "insider": "Morcombe (Darren James)",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 100000,
+      "pricePerShare": 6.465,
+      "date": "2026-10-28",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "MTA.V",
+      "insider": "Tether International, S.A. de C.V.",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 36775,
+      "pricePerShare": 7.671,
+      "date": "2026-10-28",
+      "sector": "Materials"
+    },
+    {
       "symbol": "RML.V",
       "insider": "Beruschi (Anthony John)",
       "role": "Director of Issuer",
       "action": "BUY",
       "shares": 5000,
       "pricePerShare": 0.686,
+      "date": "2026-10-28",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "AUXX.V",
+      "insider": "Obradovich (Thomas John)",
+      "role": "Director of Issuer",
+      "action": "SELL",
+      "shares": 10000,
+      "pricePerShare": 4.159,
       "date": "2026-10-28",
       "sector": "Materials"
     },
@@ -217,6 +2057,16 @@
       "sector": "Materials"
     },
     {
+      "symbol": "SAM.TO",
+      "insider": "Eadie (Robert)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 291500,
+      "pricePerShare": 0.179,
+      "date": "2026-10-28",
+      "sector": "Materials"
+    },
+    {
       "symbol": "DRY.V",
       "insider": "Wasser (Clarence Franklin)",
       "role": "Director of Issuer",
@@ -297,12 +2147,62 @@
       "sector": "Industrials"
     },
     {
+      "symbol": "SOIL.TO",
+      "insider": "Gmt Capital Corp",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 8306,
+      "pricePerShare": 6.9209,
+      "date": "2026-10-28",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "SOIL.TO",
+      "insider": "Gmt Capital Corp",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 12893,
+      "pricePerShare": 6.921,
+      "date": "2026-10-28",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "SOIL.TO",
+      "insider": "Gmt Capital Corp",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 15992,
+      "pricePerShare": 6.921,
+      "date": "2026-10-28",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "SOIL.TO",
+      "insider": "Gmt Capital Corp",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 1909,
+      "pricePerShare": 6.9209,
+      "date": "2026-10-28",
+      "sector": "Energy"
+    },
+    {
       "symbol": "AEC.V",
       "insider": "Bleak (Joshua Daniel)",
       "role": "Director of Issuer",
       "action": "BUY",
       "shares": 2500,
       "pricePerShare": 3.0,
+      "date": "2026-10-28",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "CRTL.CN",
+      "insider": "Parnham (Duane)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 2500,
+      "pricePerShare": 0.5568,
       "date": "2026-10-28",
       "sector": "Energy"
     },
@@ -317,6 +2217,16 @@
       "sector": "Financials"
     },
     {
+      "symbol": "VMET.TO",
+      "insider": "Tether International, S.A. de C.V.",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 825,
+      "pricePerShare": 8.4945,
+      "date": "2026-10-27",
+      "sector": "Materials"
+    },
+    {
       "symbol": "TLO.TO",
       "insider": "Wheatley (Frank David)",
       "role": "Director of Issuer",
@@ -327,12 +2237,52 @@
       "sector": "Materials"
     },
     {
+      "symbol": "MTA.V",
+      "insider": "Tether International, S.A. de C.V.",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 45194,
+      "pricePerShare": 7.606,
+      "date": "2026-10-27",
+      "sector": "Materials"
+    },
+    {
       "symbol": "TI.TO",
       "insider": "Adiani (Rita)",
       "role": "Director of Issuer",
       "action": "BUY",
       "shares": 7692,
       "pricePerShare": 1.9399,
+      "date": "2026-10-27",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "TSK.TO",
+      "insider": "Middlemiss (Duncan Kenneth)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 12500,
+      "pricePerShare": 0.634,
+      "date": "2026-10-27",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "TSK.TO",
+      "insider": "Middlemiss (Duncan Kenneth)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 2000,
+      "pricePerShare": 0.637,
+      "date": "2026-10-27",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "TSK.TO",
+      "insider": "Middlemiss (Duncan Kenneth)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 85500,
+      "pricePerShare": 0.641,
       "date": "2026-10-27",
       "sector": "Materials"
     },
@@ -417,6 +2367,46 @@
       "sector": "Materials"
     },
     {
+      "symbol": "CACR.CN",
+      "insider": "Erda Resource Opportunities Inc.",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 32500,
+      "pricePerShare": 0.285,
+      "date": "2026-10-27",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "CACR.CN",
+      "insider": "Erda Resource Opportunities Inc.",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 12000,
+      "pricePerShare": 0.297,
+      "date": "2026-10-27",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "CACR.CN",
+      "insider": "Erda Resource Opportunities Inc.",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 42000,
+      "pricePerShare": 0.299,
+      "date": "2026-10-27",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "CACR.CN",
+      "insider": "Erda Resource Opportunities Inc.",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 13000,
+      "pricePerShare": 0.285,
+      "date": "2026-10-27",
+      "sector": "Materials"
+    },
+    {
       "symbol": "XGC.V",
       "insider": "Freeze (Joanne Constance)",
       "role": "Director of Issuer",
@@ -447,6 +2437,66 @@
       "sector": "Materials"
     },
     {
+      "symbol": "NBRK.CN",
+      "insider": "Quigley (Ross)",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 22000,
+      "pricePerShare": 0.11,
+      "date": "2026-10-27",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "NBRK.CN",
+      "insider": "Quigley (Ross)",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 79500,
+      "pricePerShare": 0.114,
+      "date": "2026-10-27",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "NBRK.CN",
+      "insider": "Quigley (Ross)",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 15000,
+      "pricePerShare": 0.117,
+      "date": "2026-10-27",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "NBRK.CN",
+      "insider": "Quigley (Ross)",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 40000,
+      "pricePerShare": 0.121,
+      "date": "2026-10-27",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "NBRK.CN",
+      "insider": "Quigley (Ross)",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 43500,
+      "pricePerShare": 0.125,
+      "date": "2026-10-27",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "ACQ.TO",
+      "insider": "Antony (Paul W)",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 2200,
+      "pricePerShare": 20.575,
+      "date": "2026-10-27",
+      "sector": "Consumer Discretionary"
+    },
+    {
       "symbol": "EBM.V",
       "insider": "Eastwood Bio-Medical Research Inc",
       "role": "10% Security Holder of Issuer",
@@ -455,6 +2505,26 @@
       "pricePerShare": 1.415,
       "date": "2026-10-27",
       "sector": "Consumer Staples"
+    },
+    {
+      "symbol": "BUX.CN",
+      "insider": "Huang (Guoyu)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 1000,
+      "pricePerShare": 0.335,
+      "date": "2026-10-27",
+      "sector": "Healthcare"
+    },
+    {
+      "symbol": "BUX.CN",
+      "insider": "Maula Bux (Rashid Ahmed)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 1500,
+      "pricePerShare": 0.3307,
+      "date": "2026-10-27",
+      "sector": "Healthcare"
     },
     {
       "symbol": "ONE.V",
@@ -475,6 +2545,46 @@
       "pricePerShare": 21.127,
       "date": "2026-10-27",
       "sector": "Industrials"
+    },
+    {
+      "symbol": "SOIL.TO",
+      "insider": "Gmt Capital Corp",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 8327,
+      "pricePerShare": 6.8679,
+      "date": "2026-10-27",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "SOIL.TO",
+      "insider": "Gmt Capital Corp",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 12926,
+      "pricePerShare": 6.8679,
+      "date": "2026-10-27",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "SOIL.TO",
+      "insider": "Gmt Capital Corp",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 16033,
+      "pricePerShare": 6.868,
+      "date": "2026-10-27",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "SOIL.TO",
+      "insider": "Gmt Capital Corp",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 1914,
+      "pricePerShare": 6.8678,
+      "date": "2026-10-27",
+      "sector": "Energy"
     },
     {
       "symbol": "LTC.V",
@@ -505,6 +2615,26 @@
       "pricePerShare": 12.694,
       "date": "2026-10-26",
       "sector": "Financials"
+    },
+    {
+      "symbol": "VMET.TO",
+      "insider": "Tether International, S.A. de C.V.",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 40387,
+      "pricePerShare": 8.425,
+      "date": "2026-10-26",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "MTA.V",
+      "insider": "Tether International, S.A. de C.V.",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 31490,
+      "pricePerShare": 7.331,
+      "date": "2026-10-26",
+      "sector": "Materials"
     },
     {
       "symbol": "SICO.V",
@@ -577,6 +2707,16 @@
       "sector": "Materials"
     },
     {
+      "symbol": "SHL.V",
+      "insider": "Balch (Stephen James)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 2500000,
+      "pricePerShare": 0.057,
+      "date": "2026-10-26",
+      "sector": "Materials"
+    },
+    {
       "symbol": "CAMB.V",
       "insider": "Morrison (Alexander G.)",
       "role": "Director of Issuer",
@@ -597,6 +2737,66 @@
       "sector": "Materials"
     },
     {
+      "symbol": "CACR.CN",
+      "insider": "Erda Resource Opportunities Inc.",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 30500,
+      "pricePerShare": 0.285,
+      "date": "2026-10-26",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "CACR.CN",
+      "insider": "Erda Resource Opportunities Inc.",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 3000,
+      "pricePerShare": 0.293,
+      "date": "2026-10-26",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "CACR.CN",
+      "insider": "Erda Resource Opportunities Inc.",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 30000,
+      "pricePerShare": 0.286,
+      "date": "2026-10-26",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "CACR.CN",
+      "insider": "Erda Resource Opportunities Inc.",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 9000,
+      "pricePerShare": 0.285,
+      "date": "2026-10-26",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "CACR.CN",
+      "insider": "Erda Resource Opportunities Inc.",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 10000,
+      "pricePerShare": 0.289,
+      "date": "2026-10-26",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "CACR.CN",
+      "insider": "Erda Resource Opportunities Inc.",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 9000,
+      "pricePerShare": 0.285,
+      "date": "2026-10-26",
+      "sector": "Materials"
+    },
+    {
       "symbol": "CGM.V",
       "insider": "Booth (John Geoffrey)",
       "role": "Director of Issuer",
@@ -605,6 +2805,36 @@
       "pricePerShare": 0.122,
       "date": "2026-10-26",
       "sector": "Materials"
+    },
+    {
+      "symbol": "HART.V",
+      "insider": "Maresky (Isaac Benjamin)",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 50000,
+      "pricePerShare": 0.118,
+      "date": "2026-10-26",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "NBRK.CN",
+      "insider": "Farrant (Michael Hugh CPA)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 25000,
+      "pricePerShare": 0.132,
+      "date": "2026-10-26",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "ACQ.TO",
+      "insider": "Antony (Paul W)",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 4000,
+      "pricePerShare": 20.643,
+      "date": "2026-10-26",
+      "sector": "Consumer Discretionary"
     },
     {
       "symbol": "URL.CN",
@@ -897,22 +3127,22 @@
       "sector": "Materials"
     },
     {
-      "symbol": "ATZ.TO",
-      "insider": "Morgan (Philippa)",
-      "role": "Senior Officer of Issuer",
-      "action": "SELL",
-      "shares": 1000,
-      "pricePerShare": 110.704,
-      "date": "2026-10-23",
-      "sector": "Consumer Discretionary"
-    },
-    {
       "symbol": "GRGD.TO",
       "insider": "Janowski (Andrew)",
       "role": "Director of Issuer",
       "action": "SELL",
       "shares": 37804,
       "pricePerShare": 40.753,
+      "date": "2026-10-23",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "symbol": "ATZ.TO",
+      "insider": "Morgan (Philippa)",
+      "role": "Senior Officer of Issuer",
+      "action": "SELL",
+      "shares": 1000,
+      "pricePerShare": 110.704,
       "date": "2026-10-23",
       "sector": "Consumer Discretionary"
     },
@@ -1270,7 +3500,7 @@
       "symbol": "GURU.TO",
       "insider": "Martin-Privat (Luc-Pierre)",
       "role": "Senior Officer of Issuer",
-      "action": "SELL",
+      "action": "BUY",
       "shares": 17700,
       "pricePerShare": 2.006,
       "date": "2026-10-22",
@@ -1387,22 +3617,22 @@
       "sector": "Energy"
     },
     {
-      "symbol": "VMET.TO",
-      "insider": "Tether International, S.A. de C.V.",
-      "role": "10% Security Holder of Issuer",
-      "action": "BUY",
-      "shares": 14125,
-      "pricePerShare": 8.452,
-      "date": "2026-10-21",
-      "sector": "Materials"
-    },
-    {
       "symbol": "ASM.TO",
       "insider": "Trevitt (Jennifer)",
       "role": "Senior Officer of Issuer",
       "action": "SELL",
       "shares": 4000,
       "pricePerShare": 5.205,
+      "date": "2026-10-21",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "VMET.TO",
+      "insider": "Tether International, S.A. de C.V.",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 14125,
+      "pricePerShare": 8.452,
       "date": "2026-10-21",
       "sector": "Materials"
     },
@@ -1487,22 +3717,22 @@
       "sector": "Materials"
     },
     {
-      "symbol": "ATZ.TO",
-      "insider": "Morgan (Philippa)",
-      "role": "Senior Officer of Issuer",
-      "action": "SELL",
-      "shares": 721,
-      "pricePerShare": 111.129,
-      "date": "2026-10-21",
-      "sector": "Consumer Discretionary"
-    },
-    {
       "symbol": "GRGD.TO",
       "insider": "Janowski (Andrew)",
       "role": "Director of Issuer",
       "action": "SELL",
       "shares": 50000,
       "pricePerShare": 42.293,
+      "date": "2026-10-21",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "symbol": "ATZ.TO",
+      "insider": "Morgan (Philippa)",
+      "role": "Senior Officer of Issuer",
+      "action": "SELL",
+      "shares": 721,
+      "pricePerShare": 111.129,
       "date": "2026-10-21",
       "sector": "Consumer Discretionary"
     },
@@ -1647,16 +3877,6 @@
       "sector": "Materials"
     },
     {
-      "symbol": "MTA.V",
-      "insider": "Heath (Brett)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 5000,
-      "pricePerShare": 7.84,
-      "date": "2026-10-20",
-      "sector": "Materials"
-    },
-    {
       "symbol": "ARG.TO",
       "insider": "Davidson, Aurora",
       "role": "Director of Issuer",
@@ -1683,6 +3903,16 @@
       "action": "SELL",
       "shares": 4000,
       "pricePerShare": 5.671,
+      "date": "2026-10-20",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "MTA.V",
+      "insider": "Heath (Brett)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 5000,
+      "pricePerShare": 7.84,
       "date": "2026-10-20",
       "sector": "Materials"
     },
@@ -1837,22 +4067,22 @@
       "sector": "Materials"
     },
     {
-      "symbol": "ATZ.TO",
-      "insider": "Morgan (Philippa)",
-      "role": "Senior Officer of Issuer",
-      "action": "SELL",
-      "shares": 1000,
-      "pricePerShare": 108.546,
-      "date": "2026-10-20",
-      "sector": "Consumer Discretionary"
-    },
-    {
       "symbol": "GRGD.TO",
       "insider": "Janowski (Andrew)",
       "role": "Director of Issuer",
       "action": "SELL",
       "shares": 27500,
       "pricePerShare": 41.355,
+      "date": "2026-10-20",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "symbol": "ATZ.TO",
+      "insider": "Morgan (Philippa)",
+      "role": "Senior Officer of Issuer",
+      "action": "SELL",
+      "shares": 1000,
+      "pricePerShare": 108.546,
       "date": "2026-10-20",
       "sector": "Consumer Discretionary"
     },
@@ -2247,22 +4477,22 @@
       "sector": "Materials"
     },
     {
-      "symbol": "ATZ.TO",
-      "insider": "Morgan (Philippa)",
-      "role": "Senior Officer of Issuer",
-      "action": "SELL",
-      "shares": 1000,
-      "pricePerShare": 106.79,
-      "date": "2026-10-19",
-      "sector": "Consumer Discretionary"
-    },
-    {
       "symbol": "GRGD.TO",
       "insider": "Janowski (Andrew)",
       "role": "Director of Issuer",
       "action": "SELL",
       "shares": 7700,
       "pricePerShare": 42.5869,
+      "date": "2026-10-19",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "symbol": "ATZ.TO",
+      "insider": "Morgan (Philippa)",
+      "role": "Senior Officer of Issuer",
+      "action": "SELL",
+      "shares": 1000,
+      "pricePerShare": 106.79,
       "date": "2026-10-19",
       "sector": "Consumer Discretionary"
     },
@@ -2295,16 +4525,6 @@
       "pricePerShare": 0.6306,
       "date": "2026-10-19",
       "sector": "Industrials"
-    },
-    {
-      "symbol": "VLE.TO",
-      "insider": "Champman (Timothy Nicholas)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 40000,
-      "pricePerShare": 11.73,
-      "date": "2026-10-19",
-      "sector": "Energy"
     },
     {
       "symbol": "SOIL.TO",
@@ -2343,6 +4563,16 @@
       "action": "SELL",
       "shares": 9700,
       "pricePerShare": 6.59,
+      "date": "2026-10-19",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "VLE.TO",
+      "insider": "Champman (Timothy Nicholas)",
+      "role": "Director of Issuer",
+      "action": "SELL",
+      "shares": 40000,
+      "pricePerShare": 11.73,
       "date": "2026-10-19",
       "sector": "Energy"
     },
@@ -2477,12 +4707,32 @@
       "sector": "Materials"
     },
     {
-      "symbol": "LUCA.V",
-      "insider": "Munoz Abrego (Israel Fernando)",
-      "role": "Senior Officer of Issuer",
+      "symbol": "SICO.V",
+      "insider": "2176423 Ontario, Ltd.",
+      "role": "10% Security Holder of Issuer",
       "action": "BUY",
-      "shares": 30000,
-      "pricePerShare": 0.828,
+      "shares": 215100,
+      "pricePerShare": 6.083,
+      "date": "2026-10-16",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "SICO.V",
+      "insider": "Ayranto (Mark)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 6000,
+      "pricePerShare": 5.836,
+      "date": "2026-10-16",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "SICO.V",
+      "insider": "Sprott (Eric Steven)",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 215100,
+      "pricePerShare": 6.083,
       "date": "2026-10-16",
       "sector": "Materials"
     },
@@ -2517,32 +4767,12 @@
       "sector": "Materials"
     },
     {
-      "symbol": "SICO.V",
-      "insider": "2176423 Ontario, Ltd.",
-      "role": "10% Security Holder of Issuer",
+      "symbol": "LUCA.V",
+      "insider": "Munoz Abrego (Israel Fernando)",
+      "role": "Senior Officer of Issuer",
       "action": "BUY",
-      "shares": 215100,
-      "pricePerShare": 6.083,
-      "date": "2026-10-16",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "SICO.V",
-      "insider": "Ayranto (Mark)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 6000,
-      "pricePerShare": 5.836,
-      "date": "2026-10-16",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "SICO.V",
-      "insider": "Sprott (Eric Steven)",
-      "role": "10% Security Holder of Issuer",
-      "action": "BUY",
-      "shares": 215100,
-      "pricePerShare": 6.083,
+      "shares": 30000,
+      "pricePerShare": 0.828,
       "date": "2026-10-16",
       "sector": "Materials"
     },
@@ -2727,6 +4957,16 @@
       "sector": "Materials"
     },
     {
+      "symbol": "GRGD.TO",
+      "insider": "Beaver (Stacie)",
+      "role": "Senior Officer of Issuer",
+      "action": "SELL",
+      "shares": 26000,
+      "pricePerShare": 43.97,
+      "date": "2026-10-16",
+      "sector": "Consumer Discretionary"
+    },
+    {
       "symbol": "ATZ.TO",
       "insider": "Kwan (Karen)",
       "role": "Senior Officer of Issuer",
@@ -2747,12 +4987,12 @@
       "sector": "Consumer Discretionary"
     },
     {
-      "symbol": "GRGD.TO",
-      "insider": "Beaver (Stacie)",
-      "role": "Senior Officer of Issuer",
-      "action": "SELL",
-      "shares": 26000,
-      "pricePerShare": 43.97,
+      "symbol": "KITS.TO",
+      "insider": "Hardy (Roger)",
+      "role": "10% Security Holder of Issuer",
+      "action": "BUY",
+      "shares": 50000,
+      "pricePerShare": 10.963,
       "date": "2026-10-16",
       "sector": "Consumer Discretionary"
     },
@@ -2763,16 +5003,6 @@
       "action": "BUY",
       "shares": 2400,
       "pricePerShare": 18.4788,
-      "date": "2026-10-16",
-      "sector": "Consumer Discretionary"
-    },
-    {
-      "symbol": "KITS.TO",
-      "insider": "Hardy (Roger)",
-      "role": "10% Security Holder of Issuer",
-      "action": "BUY",
-      "shares": 50000,
-      "pricePerShare": 10.963,
       "date": "2026-10-16",
       "sector": "Consumer Discretionary"
     },
@@ -2998,21 +5228,21 @@
     },
     {
       "symbol": "SGD.TO",
-      "insider": "Curran (Oliver Mark)",
-      "role": "Senior Officer of Issuer",
-      "action": "BUY",
-      "shares": 7092,
-      "pricePerShare": 9.9409,
-      "date": "2026-10-15",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "SGD.TO",
       "insider": "McDougall (Lauren Elizabeth)",
       "role": "Senior Officer of Issuer",
       "action": "SELL",
       "shares": 21050,
       "pricePerShare": 10.322,
+      "date": "2026-10-15",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "SGD.TO",
+      "insider": "Curran (Oliver Mark)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 7092,
+      "pricePerShare": 9.9409,
       "date": "2026-10-15",
       "sector": "Materials"
     },
@@ -3657,16 +5887,6 @@
       "sector": "Materials"
     },
     {
-      "symbol": "YGT.V",
-      "insider": "Panneton (Gerald)",
-      "role": "Senior Officer of Issuer",
-      "action": "BUY",
-      "shares": 4000,
-      "pricePerShare": 0.119,
-      "date": "2026-10-14",
-      "sector": "Materials"
-    },
-    {
       "symbol": "FMAN.V",
       "insider": "Randall (William)",
       "role": "Senior Officer of Issuer",
@@ -3677,22 +5897,32 @@
       "sector": "Materials"
     },
     {
-      "symbol": "SYH.V",
-      "insider": "Trimble (Jordan)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 10000,
-      "pricePerShare": 0.228,
-      "date": "2026-10-14",
-      "sector": "Materials"
-    },
-    {
       "symbol": "PSIL.CN",
       "insider": "Anthony, Todd Olson",
       "role": "Senior Officer of Issuer",
       "action": "BUY",
       "shares": 50000,
       "pricePerShare": 0.562,
+      "date": "2026-10-14",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "YGT.V",
+      "insider": "Panneton (Gerald)",
+      "role": "Senior Officer of Issuer",
+      "action": "BUY",
+      "shares": 4000,
+      "pricePerShare": 0.119,
+      "date": "2026-10-14",
+      "sector": "Materials"
+    },
+    {
+      "symbol": "SYH.V",
+      "insider": "Trimble (Jordan)",
+      "role": "Director of Issuer",
+      "action": "BUY",
+      "shares": 10000,
+      "pricePerShare": 0.228,
       "date": "2026-10-14",
       "sector": "Materials"
     },
@@ -4012,36 +6242,6 @@
       "role": "10% Security Holder of Issuer",
       "action": "SELL",
       "shares": 2000,
-      "pricePerShare": 78.483,
-      "date": "2026-10-13",
-      "sector": "Energy"
-    },
-    {
-      "symbol": "TVK.TO",
-      "insider": "Laniuk (Dale)",
-      "role": "10% Security Holder of Issuer",
-      "action": "SELL",
-      "shares": 2000,
-      "pricePerShare": 82.313,
-      "date": "2026-10-13",
-      "sector": "Energy"
-    },
-    {
-      "symbol": "TVK.TO",
-      "insider": "Laniuk (Dale)",
-      "role": "10% Security Holder of Issuer",
-      "action": "SELL",
-      "shares": 2000,
-      "pricePerShare": 78.175,
-      "date": "2026-10-13",
-      "sector": "Energy"
-    },
-    {
-      "symbol": "TVK.TO",
-      "insider": "Laniuk (Dale)",
-      "role": "10% Security Holder of Issuer",
-      "action": "SELL",
-      "shares": 2000,
       "pricePerShare": 81.961,
       "date": "2026-10-13",
       "sector": "Energy"
@@ -4083,6 +6283,36 @@
       "action": "SELL",
       "shares": 2000,
       "pricePerShare": 79.426,
+      "date": "2026-10-13",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "TVK.TO",
+      "insider": "Laniuk (Dale)",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 2000,
+      "pricePerShare": 78.483,
+      "date": "2026-10-13",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "TVK.TO",
+      "insider": "Laniuk (Dale)",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 2000,
+      "pricePerShare": 82.313,
+      "date": "2026-10-13",
+      "sector": "Energy"
+    },
+    {
+      "symbol": "TVK.TO",
+      "insider": "Laniuk (Dale)",
+      "role": "10% Security Holder of Issuer",
+      "action": "SELL",
+      "shares": 2000,
+      "pricePerShare": 78.175,
       "date": "2026-10-13",
       "sector": "Energy"
     },
@@ -4465,1616 +6695,6 @@
       "pricePerShare": 0.679,
       "date": "2026-10-12",
       "sector": "Materials"
-    },
-    {
-      "symbol": "TOU.TO",
-      "insider": "Ockenden (Matthew)",
-      "role": "Senior Officer of Issuer",
-      "action": "SELL",
-      "shares": 500,
-      "pricePerShare": 44.548,
-      "date": "2026-10-09",
-      "sector": "Energy"
-    },
-    {
-      "symbol": "SVM.TO",
-      "insider": "Feng (Rui)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 30000,
-      "pricePerShare": 10.488,
-      "date": "2026-10-09",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "NUAG.TO",
-      "insider": "Feng (Rui)",
-      "role": "Director or Senior Officer of 10% Security Holder",
-      "action": "SELL",
-      "shares": 25000,
-      "pricePerShare": 6.5,
-      "date": "2026-10-09",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "TI.TO",
-      "insider": "Warke (Richard William)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 3200,
-      "pricePerShare": 2.175,
-      "date": "2026-10-09",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "MLP.V",
-      "insider": "Abasov (Farhad)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 2000,
-      "pricePerShare": 1.41,
-      "date": "2026-10-09",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "MLP.V",
-      "insider": "Abasov (Farhad)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 1000,
-      "pricePerShare": 1.382,
-      "date": "2026-10-09",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "GENM.TO",
-      "insider": "Knoll (Kerry)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 200000,
-      "pricePerShare": 0.351,
-      "date": "2026-10-09",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "GENM.TO",
-      "insider": "Levy (Jamie)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 100000,
-      "pricePerShare": 0.351,
-      "date": "2026-10-09",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "SCMI.V",
-      "insider": "Kierce (Joshua Mario Raymond)",
-      "role": "Senior Officer of Issuer",
-      "action": "BUY",
-      "shares": 3800,
-      "pricePerShare": 0.835,
-      "date": "2026-10-09",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "HMR.V",
-      "insider": "Leeners (Brian E)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 25000,
-      "pricePerShare": 0.281,
-      "date": "2026-10-09",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "ALEX.V",
-      "insider": "Soquar (Berhane)",
-      "role": "Director or Senior Officer of 10% Security Holder",
-      "action": "BUY",
-      "shares": 41000,
-      "pricePerShare": 0.281,
-      "date": "2026-10-09",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "HWG.CN",
-      "insider": "Kosonen (Tero Tapani)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 25000,
-      "pricePerShare": 0.456,
-      "date": "2026-10-09",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "CACR.CN",
-      "insider": "Erda Resource Opportunities Inc.",
-      "role": "10% Security Holder of Issuer",
-      "action": "SELL",
-      "shares": 15500,
-      "pricePerShare": 0.337,
-      "date": "2026-10-09",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "BAR.CN",
-      "insider": "Fedosov (George)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 2000,
-      "pricePerShare": 0.484,
-      "date": "2026-10-09",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "BAR.CN",
-      "insider": "Fedosov (George)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 2000,
-      "pricePerShare": 0.477,
-      "date": "2026-10-09",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "ACQ.TO",
-      "insider": "Antony (Paul W)",
-      "role": "10% Security Holder of Issuer",
-      "action": "BUY",
-      "shares": 2218,
-      "pricePerShare": 17.1258,
-      "date": "2026-10-09",
-      "sector": "Consumer Discretionary"
-    },
-    {
-      "symbol": "BUX.CN",
-      "insider": "Maula Bux (Rashid Ahmed)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 500,
-      "pricePerShare": 0.372,
-      "date": "2026-10-09",
-      "sector": "Healthcare"
-    },
-    {
-      "symbol": "TCS.TO",
-      "insider": "Brereton (David)",
-      "role": "10% Security Holder of Issuer",
-      "action": "SELL",
-      "shares": 400,
-      "pricePerShare": 25.9575,
-      "date": "2026-10-09",
-      "sector": "Technology"
-    },
-    {
-      "symbol": "URL.CN",
-      "insider": "Andreola (Gianpaolo Fabrisio)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 2000,
-      "pricePerShare": 1.024,
-      "date": "2026-10-09",
-      "sector": "Technology"
-    },
-    {
-      "symbol": "FTG.TO",
-      "insider": "Andrade (Mike)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 5000,
-      "pricePerShare": 23.853,
-      "date": "2026-10-09",
-      "sector": "Industrials"
-    },
-    {
-      "symbol": "MATR.TO",
-      "insider": "Kernaghan (Edward Hume)",
-      "role": "10% Security Holder of Issuer",
-      "action": "SELL",
-      "shares": 5000,
-      "pricePerShare": 15.434,
-      "date": "2026-10-09",
-      "sector": "Energy"
-    },
-    {
-      "symbol": "MATR.TO",
-      "insider": "Kernaghan (Edward Hume)",
-      "role": "10% Security Holder of Issuer",
-      "action": "SELL",
-      "shares": 5000,
-      "pricePerShare": 15.469,
-      "date": "2026-10-09",
-      "sector": "Energy"
-    },
-    {
-      "symbol": "MATR.TO",
-      "insider": "Kernaghan (Edward Hume)",
-      "role": "10% Security Holder of Issuer",
-      "action": "SELL",
-      "shares": 5000,
-      "pricePerShare": 15.504,
-      "date": "2026-10-09",
-      "sector": "Energy"
-    },
-    {
-      "symbol": "MATR.TO",
-      "insider": "Kernaghan (Edward Hume)",
-      "role": "10% Security Holder of Issuer",
-      "action": "SELL",
-      "shares": 5000,
-      "pricePerShare": 15.469,
-      "date": "2026-10-09",
-      "sector": "Energy"
-    },
-    {
-      "symbol": "MATR.TO",
-      "insider": "Kernaghan (Edward Hume)",
-      "role": "10% Security Holder of Issuer",
-      "action": "SELL",
-      "shares": 5000,
-      "pricePerShare": 15.504,
-      "date": "2026-10-09",
-      "sector": "Energy"
-    },
-    {
-      "symbol": "MATR.TO",
-      "insider": "Kernaghan (Edward Hume)",
-      "role": "10% Security Holder of Issuer",
-      "action": "SELL",
-      "shares": 5000,
-      "pricePerShare": 15.539,
-      "date": "2026-10-09",
-      "sector": "Energy"
-    },
-    {
-      "symbol": "MATR.TO",
-      "insider": "Kernaghan (Elizabeth)",
-      "role": "10% Security Holder of Issuer",
-      "action": "SELL",
-      "shares": 5000,
-      "pricePerShare": 15.434,
-      "date": "2026-10-09",
-      "sector": "Energy"
-    },
-    {
-      "symbol": "MATR.TO",
-      "insider": "Kernaghan (Elizabeth)",
-      "role": "10% Security Holder of Issuer",
-      "action": "SELL",
-      "shares": 5000,
-      "pricePerShare": 15.469,
-      "date": "2026-10-09",
-      "sector": "Energy"
-    },
-    {
-      "symbol": "MATR.TO",
-      "insider": "Kernaghan (Elizabeth)",
-      "role": "10% Security Holder of Issuer",
-      "action": "SELL",
-      "shares": 5000,
-      "pricePerShare": 15.504,
-      "date": "2026-10-09",
-      "sector": "Energy"
-    },
-    {
-      "symbol": "MATR.TO",
-      "insider": "Kernwood Limited",
-      "role": "10% Security Holder of Issuer",
-      "action": "SELL",
-      "shares": 5000,
-      "pricePerShare": 15.434,
-      "date": "2026-10-09",
-      "sector": "Energy"
-    },
-    {
-      "symbol": "MATR.TO",
-      "insider": "Kernwood Limited",
-      "role": "10% Security Holder of Issuer",
-      "action": "SELL",
-      "shares": 5000,
-      "pricePerShare": 15.469,
-      "date": "2026-10-09",
-      "sector": "Energy"
-    },
-    {
-      "symbol": "MATR.TO",
-      "insider": "Kernwood Limited",
-      "role": "10% Security Holder of Issuer",
-      "action": "SELL",
-      "shares": 5000,
-      "pricePerShare": 15.504,
-      "date": "2026-10-09",
-      "sector": "Energy"
-    },
-    {
-      "symbol": "ALV.V",
-      "insider": "Wright (John David)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 5000,
-      "pricePerShare": 6.489,
-      "date": "2026-10-09",
-      "sector": "Energy"
-    },
-    {
-      "symbol": "ALV.V",
-      "insider": "Wright (John David)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 200,
-      "pricePerShare": 6.5,
-      "date": "2026-10-09",
-      "sector": "Energy"
-    },
-    {
-      "symbol": "VITL-UN.TO",
-      "insider": "Kolter Capital NWH L.L.C",
-      "role": "10% Security Holder of Issuer",
-      "action": "BUY",
-      "shares": 191820,
-      "pricePerShare": 3.664,
-      "date": "2026-10-09",
-      "sector": "Real Estate"
-    },
-    {
-      "symbol": "EQB.TO",
-      "insider": "Loblaw Companies Limited",
-      "role": "10% Security Holder of Issuer",
-      "action": "BUY",
-      "shares": 3200,
-      "pricePerShare": 82.9928,
-      "date": "2026-10-08",
-      "sector": "Financials"
-    },
-    {
-      "symbol": "SVM.TO",
-      "insider": "Feng (Rui)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 30000,
-      "pricePerShare": 10.2,
-      "date": "2026-10-08",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "EMP-A.TO",
-      "insider": "St-Laurent (Pierre)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 5507,
-      "pricePerShare": 34.7979,
-      "date": "2026-10-08",
-      "sector": "Consumer Staples"
-    },
-    {
-      "symbol": "EMP-A.TO",
-      "insider": "St-Laurent (Pierre)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 1500,
-      "pricePerShare": 34.8327,
-      "date": "2026-10-08",
-      "sector": "Consumer Staples"
-    },
-    {
-      "symbol": "CFP.TO",
-      "insider": "Yaremko (Cheryl Anne-Marie)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 10000,
-      "pricePerShare": 9.849,
-      "date": "2026-10-08",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "VMET.TO",
-      "insider": "Tether International, S.A. de C.V.",
-      "role": "10% Security Holder of Issuer",
-      "action": "BUY",
-      "shares": 100,
-      "pricePerShare": 8.49,
-      "date": "2026-10-08",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "MARI.TO",
-      "insider": "Cookson (Nicolas)",
-      "role": "Senior Officer of Issuer",
-      "action": "BUY",
-      "shares": 3250,
-      "pricePerShare": 5.4689,
-      "date": "2026-10-08",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "NUAG.TO",
-      "insider": "Feng (Rui)",
-      "role": "Director or Senior Officer of 10% Security Holder",
-      "action": "SELL",
-      "shares": 25000,
-      "pricePerShare": 6.21,
-      "date": "2026-10-08",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "FWZ.V",
-      "insider": "Childress (Larry)",
-      "role": "10% Security Holder of Issuer",
-      "action": "BUY",
-      "shares": 331000,
-      "pricePerShare": 1.995,
-      "date": "2026-10-08",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "LUCA.V",
-      "insider": "Melnyk (Adam)",
-      "role": "Senior Officer of Issuer",
-      "action": "SELL",
-      "shares": 46500,
-      "pricePerShare": 0.766,
-      "date": "2026-10-08",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "LUCA.V",
-      "insider": "Melnyk (Adam)",
-      "role": "Senior Officer of Issuer",
-      "action": "BUY",
-      "shares": 50000,
-      "pricePerShare": 0.773,
-      "date": "2026-10-08",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "TI.TO",
-      "insider": "Warke (Richard William)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 6300,
-      "pricePerShare": 2.1089,
-      "date": "2026-10-08",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "MLP.V",
-      "insider": "Abasov (Farhad)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 4200,
-      "pricePerShare": 1.441,
-      "date": "2026-10-08",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "MLP.V",
-      "insider": "Abasov (Farhad)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 2000,
-      "pricePerShare": 1.413,
-      "date": "2026-10-08",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "MLP.V",
-      "insider": "Abasov (Farhad)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 1500,
-      "pricePerShare": 1.4267,
-      "date": "2026-10-08",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "PML.V",
-      "insider": "Shaheen (Luquman)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 28400,
-      "pricePerShare": 1.125,
-      "date": "2026-10-08",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "PSIL.CN",
-      "insider": "Anthony, Todd Olson",
-      "role": "Senior Officer of Issuer",
-      "action": "BUY",
-      "shares": 25000,
-      "pricePerShare": 0.647,
-      "date": "2026-10-08",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "AZS.V",
-      "insider": "Stark (Michael)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 12000,
-      "pricePerShare": 0.38,
-      "date": "2026-10-08",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "EQTY.V",
-      "insider": "Macdonald, Robert William John",
-      "role": "Senior Officer of Issuer",
-      "action": "BUY",
-      "shares": 50000,
-      "pricePerShare": 0.07,
-      "date": "2026-10-08",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "WHN.V",
-      "insider": "Armstrong (Kenneth Andrew)",
-      "role": "Senior Officer of Issuer",
-      "action": "BUY",
-      "shares": 100000,
-      "pricePerShare": 0.2,
-      "date": "2026-10-08",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "WHN.V",
-      "insider": "Armstrong (Kenneth Andrew)",
-      "role": "Senior Officer of Issuer",
-      "action": "BUY",
-      "shares": 75000,
-      "pricePerShare": 0.201,
-      "date": "2026-10-08",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "IVS.V",
-      "insider": "Ing (Perry Y)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 39000,
-      "pricePerShare": 0.179,
-      "date": "2026-10-08",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "LFLR.CN",
-      "insider": "Espig (Peter Edward)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 20000,
-      "pricePerShare": 0.228,
-      "date": "2026-10-08",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "ALEX.V",
-      "insider": "Soquar (Berhane)",
-      "role": "Director or Senior Officer of 10% Security Holder",
-      "action": "BUY",
-      "shares": 72000,
-      "pricePerShare": 0.28,
-      "date": "2026-10-08",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "HWG.CN",
-      "insider": "Kosonen (Tero Tapani)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 75000,
-      "pricePerShare": 0.464,
-      "date": "2026-10-08",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "CACR.CN",
-      "insider": "Erda Resource Opportunities Inc.",
-      "role": "10% Security Holder of Issuer",
-      "action": "SELL",
-      "shares": 10000,
-      "pricePerShare": 0.309,
-      "date": "2026-10-08",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "BAR.CN",
-      "insider": "Fedosov (George)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 1000,
-      "pricePerShare": 0.471,
-      "date": "2026-10-08",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "BAR.CN",
-      "insider": "Fedosov (George)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 2000,
-      "pricePerShare": 0.457,
-      "date": "2026-10-08",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "BAR.CN",
-      "insider": "Fedosov (George)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 2500,
-      "pricePerShare": 0.478,
-      "date": "2026-10-08",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "BRO.V",
-      "insider": "Medalist Capital, Ltd.",
-      "role": "10% Security Holder of Issuer",
-      "action": "BUY",
-      "shares": 6913089,
-      "pricePerShare": 0.211,
-      "date": "2026-10-08",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "ACQ.TO",
-      "insider": "Antony (Paul W)",
-      "role": "10% Security Holder of Issuer",
-      "action": "BUY",
-      "shares": 1818,
-      "pricePerShare": 16.9796,
-      "date": "2026-10-08",
-      "sector": "Consumer Discretionary"
-    },
-    {
-      "symbol": "EBM.V",
-      "insider": "Kim (Yunji)",
-      "role": "Senior Officer of Issuer",
-      "action": "SELL",
-      "shares": 100,
-      "pricePerShare": 1.3,
-      "date": "2026-10-08",
-      "sector": "Consumer Staples"
-    },
-    {
-      "symbol": "BLO.CN",
-      "insider": "Mlait (Ravinder)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 20000,
-      "pricePerShare": 0.214,
-      "date": "2026-10-08",
-      "sector": "Healthcare"
-    },
-    {
-      "symbol": "VITL-UN.TO",
-      "insider": "Kolter Capital NWH L.L.C",
-      "role": "10% Security Holder of Issuer",
-      "action": "BUY",
-      "shares": 79700,
-      "pricePerShare": 3.644,
-      "date": "2026-10-08",
-      "sector": "Real Estate"
-    },
-    {
-      "symbol": "MRD.TO",
-      "insider": "Young (Ralph Barclay)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 10000,
-      "pricePerShare": 12.302,
-      "date": "2026-10-08",
-      "sector": "Real Estate"
-    },
-    {
-      "symbol": "NET-UN.V",
-      "insider": "Laplante (Francois-Olivier)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 15100,
-      "pricePerShare": 4.232,
-      "date": "2026-10-08",
-      "sector": "Real Estate"
-    },
-    {
-      "symbol": "EQB.TO",
-      "insider": "Loblaw Companies Limited",
-      "role": "10% Security Holder of Issuer",
-      "action": "BUY",
-      "shares": 8000,
-      "pricePerShare": 84.05,
-      "date": "2026-10-07",
-      "sector": "Financials"
-    },
-    {
-      "symbol": "SVM.TO",
-      "insider": "Feng (Rui)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 30000,
-      "pricePerShare": 10.046,
-      "date": "2026-10-07",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "VMET.TO",
-      "insider": "Tether International, S.A. de C.V.",
-      "role": "10% Security Holder of Issuer",
-      "action": "BUY",
-      "shares": 28558,
-      "pricePerShare": 8.399,
-      "date": "2026-10-07",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "NUAG.TO",
-      "insider": "Feng (Rui)",
-      "role": "Director or Senior Officer of 10% Security Holder",
-      "action": "SELL",
-      "shares": 25000,
-      "pricePerShare": 6.15,
-      "date": "2026-10-07",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "ARA.TO",
-      "insider": "De Andraca Adriasola (Roberto)",
-      "role": "Director or Senior Officer of 10% Security Holder",
-      "action": "BUY",
-      "shares": 10000,
-      "pricePerShare": 1.684,
-      "date": "2026-10-07",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "BRC.V",
-      "insider": "Pollard (Andrew)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 45000,
-      "pricePerShare": 0.638,
-      "date": "2026-10-07",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "BRC.V",
-      "insider": "Thompson (Sean Robert)",
-      "role": "Senior Officer of Issuer",
-      "action": "BUY",
-      "shares": 4500,
-      "pricePerShare": 0.6169,
-      "date": "2026-10-07",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "BRC.V",
-      "insider": "Thompson (Sean Robert)",
-      "role": "Senior Officer of Issuer",
-      "action": "BUY",
-      "shares": 11350,
-      "pricePerShare": 0.6169,
-      "date": "2026-10-07",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "AIM.TO",
-      "insider": "Racanelli (Joseph)",
-      "role": "Senior Officer of Issuer",
-      "action": "BUY",
-      "shares": 400,
-      "pricePerShare": 1.815,
-      "date": "2026-10-07",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "AIM.TO",
-      "insider": "Racanelli (Joseph)",
-      "role": "Senior Officer of Issuer",
-      "action": "BUY",
-      "shares": 4600,
-      "pricePerShare": 1.8239,
-      "date": "2026-10-07",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "KCP.V",
-      "insider": "Richards (Jonathan R)",
-      "role": "Senior Officer of Issuer",
-      "action": "BUY",
-      "shares": 10000,
-      "pricePerShare": 0.491,
-      "date": "2026-10-07",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "GENM.TO",
-      "insider": "Swemmer (Clinton John)",
-      "role": "Senior Officer of Issuer",
-      "action": "BUY",
-      "shares": 10000,
-      "pricePerShare": 0.351,
-      "date": "2026-10-07",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "GENM.TO",
-      "insider": "Swemmer (Clinton John)",
-      "role": "Senior Officer of Issuer",
-      "action": "BUY",
-      "shares": 8800,
-      "pricePerShare": 0.3509,
-      "date": "2026-10-07",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "CYG.V",
-      "insider": "Shorrocks (Raymond John)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 1000000,
-      "pricePerShare": 0.116,
-      "date": "2026-10-07",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "LFLR.CN",
-      "insider": "Coloured Ties Capital Inc.",
-      "role": "10% Security Holder of Issuer",
-      "action": "BUY",
-      "shares": 43000,
-      "pricePerShare": 0.228,
-      "date": "2026-10-07",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "LFLR.CN",
-      "insider": "Coloured Ties Capital Inc.",
-      "role": "10% Security Holder of Issuer",
-      "action": "BUY",
-      "shares": 50000,
-      "pricePerShare": 0.231,
-      "date": "2026-10-07",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "ALEX.V",
-      "insider": "Soquar (Berhane)",
-      "role": "Director or Senior Officer of 10% Security Holder",
-      "action": "BUY",
-      "shares": 83000,
-      "pricePerShare": 0.255,
-      "date": "2026-10-07",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "HWG.CN",
-      "insider": "Stroup (Caleb)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 25000,
-      "pricePerShare": 0.456,
-      "date": "2026-10-07",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "CACR.CN",
-      "insider": "Erda Resource Opportunities Inc.",
-      "role": "10% Security Holder of Issuer",
-      "action": "SELL",
-      "shares": 5000,
-      "pricePerShare": 0.295,
-      "date": "2026-10-07",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "BAR.CN",
-      "insider": "Fedosov (George)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 1000,
-      "pricePerShare": 0.477,
-      "date": "2026-10-07",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "SAGE.V",
-      "insider": "Varas (Jorge Patricio)",
-      "role": "Senior Officer of Issuer",
-      "action": "BUY",
-      "shares": 50000,
-      "pricePerShare": 0.084,
-      "date": "2026-10-07",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "ACQ.TO",
-      "insider": "Antony (Paul W)",
-      "role": "10% Security Holder of Issuer",
-      "action": "BUY",
-      "shares": 2818,
-      "pricePerShare": 16.8879,
-      "date": "2026-10-07",
-      "sector": "Consumer Discretionary"
-    },
-    {
-      "symbol": "OGO.V",
-      "insider": "Gianulis (Peter Lawrence)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 50000,
-      "pricePerShare": 0.305,
-      "date": "2026-10-07",
-      "sector": "Consumer Staples"
-    },
-    {
-      "symbol": "TOU.TO",
-      "insider": "Rose (Mike)",
-      "role": "Senior Officer of Issuer",
-      "action": "BUY",
-      "shares": 5000,
-      "pricePerShare": 43.687,
-      "date": "2026-10-06",
-      "sector": "Energy"
-    },
-    {
-      "symbol": "L.TO",
-      "insider": "Markwell (David)",
-      "role": "Senior Officer of Issuer",
-      "action": "SELL",
-      "shares": 17948,
-      "pricePerShare": 43.527,
-      "date": "2026-10-06",
-      "sector": "Consumer Staples"
-    },
-    {
-      "symbol": "L.TO",
-      "insider": "Weston, Alannah Elizabeth",
-      "role": "Director or Senior Officer of 10% Security Holder",
-      "action": "SELL",
-      "shares": 23800,
-      "pricePerShare": 43.129,
-      "date": "2026-10-06",
-      "sector": "Consumer Staples"
-    },
-    {
-      "symbol": "AGF-B.TO",
-      "insider": "Agf Employee Benefit Plan Trust",
-      "role": "Subsidiary of Issuer",
-      "action": "SELL",
-      "shares": 221,
-      "pricePerShare": 10.9095,
-      "date": "2026-10-06",
-      "sector": "Financials"
-    },
-    {
-      "symbol": "AGF-B.TO",
-      "insider": "Agf Employee Benefit Plan Trust",
-      "role": "Subsidiary of Issuer",
-      "action": "SELL",
-      "shares": 1342,
-      "pricePerShare": 11.0015,
-      "date": "2026-10-06",
-      "sector": "Financials"
-    },
-    {
-      "symbol": "QRC.TO",
-      "insider": "Cook (Vicki)",
-      "role": "Senior Officer of Issuer",
-      "action": "SELL",
-      "shares": 3900,
-      "pricePerShare": 10.0308,
-      "date": "2026-10-06",
-      "sector": "Financials"
-    },
-    {
-      "symbol": "HODL.CN",
-      "insider": "Guoga (Antanas)",
-      "role": "10% Security Holder of Issuer",
-      "action": "BUY",
-      "shares": 30000,
-      "pricePerShare": 1.849,
-      "date": "2026-10-06",
-      "sector": "Financials"
-    },
-    {
-      "symbol": "HODL.CN",
-      "insider": "Guoga (Antanas)",
-      "role": "10% Security Holder of Issuer",
-      "action": "BUY",
-      "shares": 30000,
-      "pricePerShare": 1.847,
-      "date": "2026-10-06",
-      "sector": "Financials"
-    },
-    {
-      "symbol": "SKE.TO",
-      "insider": "Foster (Kyle Christopher)",
-      "role": "Senior Officer of Issuer",
-      "action": "SELL",
-      "shares": 684,
-      "pricePerShare": 30.5746,
-      "date": "2026-10-06",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "SKE.TO",
-      "insider": "Osterloh (Andrew)",
-      "role": "Senior Officer of Issuer",
-      "action": "SELL",
-      "shares": 801,
-      "pricePerShare": 30.578,
-      "date": "2026-10-06",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "VMET.TO",
-      "insider": "Tether International, S.A. de C.V.",
-      "role": "10% Security Holder of Issuer",
-      "action": "BUY",
-      "shares": 277,
-      "pricePerShare": 8.4946,
-      "date": "2026-10-06",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "MTA.V",
-      "insider": "Cho (Jason)",
-      "role": "Senior Officer of Issuer",
-      "action": "SELL",
-      "shares": 55753,
-      "pricePerShare": 9.23,
-      "date": "2026-10-06",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "TAU.V",
-      "insider": "Mumford (Thomas Ph.D.)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 50937,
-      "pricePerShare": 2.189,
-      "date": "2026-10-06",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "ARG.TO",
-      "insider": "Davidson, Aurora",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 4000,
-      "pricePerShare": 6.159,
-      "date": "2026-10-06",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "ARG.TO",
-      "insider": "Davidson, Aurora",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 6500,
-      "pricePerShare": 6.2509,
-      "date": "2026-10-06",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "ARG.TO",
-      "insider": "Davidson, Aurora",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 4500,
-      "pricePerShare": 6.258,
-      "date": "2026-10-06",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "BRC.V",
-      "insider": "Pollard (Andrew)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 5000,
-      "pricePerShare": 0.641,
-      "date": "2026-10-06",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "GENM.TO",
-      "insider": "Knoll (Kerry)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 200000,
-      "pricePerShare": 0.384,
-      "date": "2026-10-06",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "CYG.V",
-      "insider": "Shorrocks (Raymond John)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 1825826,
-      "pricePerShare": 0.118,
-      "date": "2026-10-06",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "CYG.V",
-      "insider": "Shorrocks (Raymond John)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 174174,
-      "pricePerShare": 0.12,
-      "date": "2026-10-06",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "NAU.V",
-      "insider": "Bonifacio (Giulio)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 25000,
-      "pricePerShare": 0.626,
-      "date": "2026-10-06",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "NAU.V",
-      "insider": "French, Gregory",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 10000,
-      "pricePerShare": 0.61,
-      "date": "2026-10-06",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "ECU.V",
-      "insider": "Elliott (Patrick A. J.)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 40000,
-      "pricePerShare": 1.267,
-      "date": "2026-10-06",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "GCU.TO",
-      "insider": "DuVal (Fred Price)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 30110,
-      "pricePerShare": 0.327,
-      "date": "2026-10-06",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "HMR.V",
-      "insider": "Leeners (Brian E)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 25000,
-      "pricePerShare": 0.299,
-      "date": "2026-10-06",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "LFLR.CN",
-      "insider": "Coloured Ties Capital Inc.",
-      "role": "10% Security Holder of Issuer",
-      "action": "BUY",
-      "shares": 7000,
-      "pricePerShare": 0.229,
-      "date": "2026-10-06",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "HWG.CN",
-      "insider": "Stroup (Caleb)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 10000,
-      "pricePerShare": 0.451,
-      "date": "2026-10-06",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "CACR.CN",
-      "insider": "Erda Resource Opportunities Inc.",
-      "role": "10% Security Holder of Issuer",
-      "action": "SELL",
-      "shares": 4500,
-      "pricePerShare": 0.2889,
-      "date": "2026-10-06",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "GRL.V",
-      "insider": "Filgate (Matthew)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 9500,
-      "pricePerShare": 0.176,
-      "date": "2026-10-06",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "BAR.CN",
-      "insider": "Fedosov (George)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 1000,
-      "pricePerShare": 0.479,
-      "date": "2026-10-06",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "RSG.CN",
-      "insider": "Howlett (Brian)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 20000,
-      "pricePerShare": 0.077,
-      "date": "2026-10-06",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "EBM.V",
-      "insider": "Eastwood Bio-Medical Research Inc",
-      "role": "10% Security Holder of Issuer",
-      "action": "SELL",
-      "shares": 500,
-      "pricePerShare": 1.394,
-      "date": "2026-10-06",
-      "sector": "Consumer Staples"
-    },
-    {
-      "symbol": "CURA.TO",
-      "insider": "Sciarrone (Robert)",
-      "role": "Senior Officer of Issuer",
-      "action": "SELL",
-      "shares": 1432,
-      "pricePerShare": 9.9784,
-      "date": "2026-10-06",
-      "sector": "Healthcare"
-    },
-    {
-      "symbol": "BUX.CN",
-      "insider": "Huang (Guoyu)",
-      "role": "Senior Officer of Issuer",
-      "action": "BUY",
-      "shares": 500,
-      "pricePerShare": 0.386,
-      "date": "2026-10-06",
-      "sector": "Healthcare"
-    },
-    {
-      "symbol": "BUX.CN",
-      "insider": "Maula Bux (Rashid Ahmed)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 2000,
-      "pricePerShare": 0.387,
-      "date": "2026-10-06",
-      "sector": "Healthcare"
-    },
-    {
-      "symbol": "ANRG.TO",
-      "insider": "Scherson (Yaniv Dror)",
-      "role": "Senior Officer of Issuer",
-      "action": "SELL",
-      "shares": 166666,
-      "pricePerShare": 1.598,
-      "date": "2026-10-06",
-      "sector": "Industrials"
-    },
-    {
-      "symbol": "ANRG.TO",
-      "insider": "Simmons (Stanley)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 47633,
-      "pricePerShare": 1.598,
-      "date": "2026-10-06",
-      "sector": "Industrials"
-    },
-    {
-      "symbol": "VITL-UN.TO",
-      "insider": "Kolter Capital NWH L.L.C",
-      "role": "10% Security Holder of Issuer",
-      "action": "BUY",
-      "shares": 30100,
-      "pricePerShare": 3.66,
-      "date": "2026-10-06",
-      "sector": "Real Estate"
-    },
-    {
-      "symbol": "MRT-UN.TO",
-      "insider": "Morguard Corporation",
-      "role": "10% Security Holder of Issuer",
-      "action": "BUY",
-      "shares": 100,
-      "pricePerShare": 4.99,
-      "date": "2026-10-06",
-      "sector": "Real Estate"
-    },
-    {
-      "symbol": "CNQ.TO",
-      "insider": "Laut (Stephen W)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 728,
-      "pricePerShare": 48.1937,
-      "date": "2026-10-05",
-      "sector": "Energy"
-    },
-    {
-      "symbol": "L.TO",
-      "insider": "Weston, Alannah Elizabeth",
-      "role": "Director or Senior Officer of 10% Security Holder",
-      "action": "SELL",
-      "shares": 23700,
-      "pricePerShare": 43.288,
-      "date": "2026-10-05",
-      "sector": "Consumer Staples"
-    },
-    {
-      "symbol": "VBNK.TO",
-      "insider": "Johnston (Joanne Marie)",
-      "role": "Senior Officer of Issuer",
-      "action": "SELL",
-      "shares": 800,
-      "pricePerShare": 22.55,
-      "date": "2026-10-05",
-      "sector": "Financials"
-    },
-    {
-      "symbol": "VMET.TO",
-      "insider": "Tether International, S.A. de C.V.",
-      "role": "10% Security Holder of Issuer",
-      "action": "BUY",
-      "shares": 9470,
-      "pricePerShare": 8.4419,
-      "date": "2026-10-05",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "RML.V",
-      "insider": "Beruschi (Anthony John)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 300,
-      "pricePerShare": 0.7333,
-      "date": "2026-10-05",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "MOON.V",
-      "insider": "Nilsen (Frode Michal)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 100000,
-      "pricePerShare": 4.948,
-      "date": "2026-10-05",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "MOON.V",
-      "insider": "Thorburn (Karin Sigrid)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 4200,
-      "pricePerShare": 4.98,
-      "date": "2026-10-05",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "CYG.V",
-      "insider": "Shorrocks (Raymond John)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 2000000,
-      "pricePerShare": 0.119,
-      "date": "2026-10-05",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "CYG.V",
-      "insider": "Shorrocks (Raymond John)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 750000,
-      "pricePerShare": 0.119,
-      "date": "2026-10-05",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "CYG.V",
-      "insider": "Shorrocks (Raymond John)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 250000,
-      "pricePerShare": 0.121,
-      "date": "2026-10-05",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "GWM.V",
-      "insider": "Hinchcliffe (Robert)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 5000,
-      "pricePerShare": 0.765,
-      "date": "2026-10-05",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "GWM.V",
-      "insider": "Hinchcliffe (Robert)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 5000,
-      "pricePerShare": 0.8,
-      "date": "2026-10-05",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "EQTY.V",
-      "insider": "Shearer (Courtney Adair)",
-      "role": "Director of Issuer",
-      "action": "BUY",
-      "shares": 350000,
-      "pricePerShare": 0.079,
-      "date": "2026-10-05",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "LFLR.CN",
-      "insider": "Coloured Ties Capital Inc.",
-      "role": "10% Security Holder of Issuer",
-      "action": "BUY",
-      "shares": 100000,
-      "pricePerShare": 0.238,
-      "date": "2026-10-05",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "HWG.CN",
-      "insider": "Stroup (Caleb)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 40000,
-      "pricePerShare": 0.449,
-      "date": "2026-10-05",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "BAR.CN",
-      "insider": "Fedosov (George)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 500,
-      "pricePerShare": 0.498,
-      "date": "2026-10-05",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "BAR.CN",
-      "insider": "Fedosov (George)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 2000,
-      "pricePerShare": 0.505,
-      "date": "2026-10-05",
-      "sector": "Materials"
-    },
-    {
-      "symbol": "EBM.V",
-      "insider": "Eastwood Bio-Medical Research Inc",
-      "role": "10% Security Holder of Issuer",
-      "action": "SELL",
-      "shares": 1100,
-      "pricePerShare": 1.3882,
-      "date": "2026-10-05",
-      "sector": "Consumer Staples"
-    },
-    {
-      "symbol": "BDI.TO",
-      "insider": "Haynes (Trevor)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 5090,
-      "pricePerShare": 15.0729,
-      "date": "2026-10-05",
-      "sector": "Industrials"
-    },
-    {
-      "symbol": "SOIL.TO",
-      "insider": "Gmt Capital Corp",
-      "role": "10% Security Holder of Issuer",
-      "action": "SELL",
-      "shares": 44700,
-      "pricePerShare": 5.146,
-      "date": "2026-10-05",
-      "sector": "Energy"
-    },
-    {
-      "symbol": "SOIL.TO",
-      "insider": "Gmt Capital Corp",
-      "role": "10% Security Holder of Issuer",
-      "action": "SELL",
-      "shares": 69300,
-      "pricePerShare": 5.146,
-      "date": "2026-10-05",
-      "sector": "Energy"
-    },
-    {
-      "symbol": "SOIL.TO",
-      "insider": "Gmt Capital Corp",
-      "role": "10% Security Holder of Issuer",
-      "action": "SELL",
-      "shares": 86000,
-      "pricePerShare": 5.146,
-      "date": "2026-10-05",
-      "sector": "Energy"
-    },
-    {
-      "symbol": "SOIL.TO",
-      "insider": "Gmt Capital Corp",
-      "role": "10% Security Holder of Issuer",
-      "action": "SELL",
-      "shares": 10200,
-      "pricePerShare": 5.146,
-      "date": "2026-10-05",
-      "sector": "Energy"
-    },
-    {
-      "symbol": "VITL-UN.TO",
-      "insider": "Kolter Capital NWH L.L.C",
-      "role": "10% Security Holder of Issuer",
-      "action": "BUY",
-      "shares": 250000,
-      "pricePerShare": 3.636,
-      "date": "2026-10-05",
-      "sector": "Real Estate"
-    },
-    {
-      "symbol": "RFA.TO",
-      "insider": "Gill (Navdeep Kaur)",
-      "role": "Director or Senior Officer of 10% Security Holder",
-      "action": "SELL",
-      "shares": 16559,
-      "pricePerShare": 17.711,
-      "date": "2026-10-05",
-      "sector": "Real Estate"
-    },
-    {
-      "symbol": "RFA.TO",
-      "insider": "Manji (Salim)",
-      "role": "Director or Senior Officer of 10% Security Holder",
-      "action": "SELL",
-      "shares": 16559,
-      "pricePerShare": 17.711,
-      "date": "2026-10-05",
-      "sector": "Real Estate"
-    },
-    {
-      "symbol": "RFA.TO",
-      "insider": "Manji (Samir Aziz)",
-      "role": "Director of Issuer",
-      "action": "SELL",
-      "shares": 16559,
-      "pricePerShare": 17.711,
-      "date": "2026-10-05",
-      "sector": "Real Estate"
-    },
-    {
-      "symbol": "MRT-UN.TO",
-      "insider": "Morguard Corporation",
-      "role": "10% Security Holder of Issuer",
-      "action": "BUY",
-      "shares": 2000,
-      "pricePerShare": 4.98,
-      "date": "2026-10-05",
-      "sector": "Real Estate"
     }
   ]
 }
